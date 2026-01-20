@@ -1,0 +1,56 @@
+name: Upload template files to R2
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - "not-equal-me.json"
+      - "nearly-equal-joy.json"
+  workflow_dispatch:
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    env:
+      TEMPLATE_LIST: |
+        not-equal-me.json
+        nearly-equal-joy.json
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Setup Rclone
+        run: |
+          curl https://rclone.org/install.sh | sudo bash
+          
+          mkdir -p ~/.config/rclone
+          cat << EOF > ~/.config/rclone/rclone.conf
+          [r2]
+          type = s3
+          provider = Cloudflare
+          access_key_id = ${{ secrets.R2_ACCESS_KEY_ID }}
+          secret_access_key = ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          endpoint = https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com
+          acl = private
+          EOF
+
+      - name: Rewrite imageBaseUrl.root in JSON
+        env:
+          IMAGE_BASE_URL: https://my-ideals-ikonoijoy-prod.chocomonaka.dev/images
+        run: |
+          mkdir -p /tmp/templates
+          while IFS= read -r file; do
+            [ -z "$file" ] && continue
+            dest="/tmp/templates/$file"
+            mkdir -p "$(dirname "$dest")"
+            jq --arg url "$IMAGE_BASE_URL" '.imageBaseUrl.root = $url' "$file" > "$dest"
+          done <<< "$TEMPLATE_LIST"
+
+      - name: Upload template files to R2
+        run: |
+          rclone sync /tmp/templates r2:${{ secrets.R2_BUCKET_NAME }}/templates \
+            --include "*.json" \
+            --header-upload "Content-Type: application/json; charset=utf-8" \
+            --header-upload "Cache-Control: public, max-age=600" \
+            --checksum \
+            --verbose
+          
