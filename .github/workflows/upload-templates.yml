@@ -40,9 +40,8 @@ jobs:
           mkdir -p /tmp/templates
           while IFS= read -r file; do
             [ -z "$file" ] && continue
-            dest="/tmp/templates/$file"
-            mkdir -p "$(dirname "$dest")"
-            jq --arg url "$IMAGE_BASE_URL" '.imageBaseUrl.root = $url' "$file" > "$dest"
+            root_url="$IMAGE_BASE_URL/$(basename "$file" .json)"
+            jq --arg url "$root_url" '.imageBaseUrl.root = $url' "$file" > "/tmp/templates/$file"
           done <<< "$TEMPLATE_LIST"
 
       - name: Upload template files to R2
