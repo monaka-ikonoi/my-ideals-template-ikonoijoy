@@ -1,2 +1,3 @@
 .vscode/*
-
+.upload-cache.json
+upload-manifest.json
