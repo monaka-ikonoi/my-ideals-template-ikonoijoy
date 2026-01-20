@@ -1,0 +1,42 @@
+name: Sync image files to R2
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - "resources/**.webp"
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Setup Rclone
+        run: |
+          curl https://rclone.org/install.sh | sudo bash
+          
+          mkdir -p ~/.config/rclone
+          cat << EOF > ~/.config/rclone/rclone.conf
+          [r2]
+          type = s3
+          provider = Cloudflare
+          access_key_id = ${{ secrets.R2_ACCESS_KEY_ID }}
+          secret_access_key = ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          endpoint = https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com
+          acl = private
+          EOF
+
+      - name: Sync WebP files to R2 with cache headers
+        run: |
+          rclone sync ./resources r2:${{ secrets.R2_BUCKET_NAME }}/images \
+            --include "*.webp" \
+            --header-upload "Cache-Control: public, max-age=31536000, immutable" \
+            --header-upload "Content-Type: image/webp" \
+            --fast-list \
+            --transfers=16 \
+            --checkers=16 \
+            --checksum \
+            --verbose
+
