@@ -1,7 +1,7 @@
 {
   "magic": "my-ideals-template",
   "version": 1,
-  "revision": 5,
+  "revision": 6,
   "id": "not-equal-me",
   "name": "≠ME 生写真",
   "description": "≠ME（ノットイコールミー/ノイミー）生写真",
@@ -27,6 +27,192 @@
     { "id": "honda-miyuki", "name": "本田珠由記" }
   ],
   "collections": [
+    {
+      "id": "2026-january-2",
+      "name": "January-II 2026 11thcw「きゅんかわ人生」",
+      "items": [
+        {
+          "id": "ogi-hana-hiki",
+          "member": "ogi-hana",
+          "name": "尾木波菜 ヒキ"
+        },
+        {
+          "id": "ogi-hana-chuu",
+          "member": "ogi-hana",
+          "name": "尾木波菜 チュウ"
+        },
+        {
+          "id": "ogi-hana-yori",
+          "member": "ogi-hana",
+          "name": "尾木波菜 ヨリ"
+        },
+        {
+          "id": "ochiai-kirari-hiki",
+          "member": "ochiai-kirari",
+          "name": "落合希来里 ヒキ"
+        },
+        {
+          "id": "ochiai-kirari-chuu",
+          "member": "ochiai-kirari",
+          "name": "落合希来里 チュウ"
+        },
+        {
+          "id": "ochiai-kirari-yori",
+          "member": "ochiai-kirari",
+          "name": "落合希来里 ヨリ"
+        },
+        {
+          "id": "kanisawa-moeko-hiki",
+          "member": "kanisawa-moeko",
+          "name": "蟹沢萌子 ヒキ"
+        },
+        {
+          "id": "kanisawa-moeko-chuu",
+          "member": "kanisawa-moeko",
+          "name": "蟹沢萌子 チュウ"
+        },
+        {
+          "id": "kanisawa-moeko-yori",
+          "member": "kanisawa-moeko",
+          "name": "蟹沢萌子 ヨリ"
+        },
+        {
+          "id": "kawaguchi-natsune-hiki",
+          "member": "kawaguchi-natsune",
+          "name": "河口夏音 ヒキ"
+        },
+        {
+          "id": "kawaguchi-natsune-chuu",
+          "member": "kawaguchi-natsune",
+          "name": "河口夏音 チュウ"
+        },
+        {
+          "id": "kawaguchi-natsune-yori",
+          "member": "kawaguchi-natsune",
+          "name": "河口夏音 ヨリ"
+        },
+        {
+          "id": "kawanago-natsumi-hiki",
+          "member": "kawanago-natsumi",
+          "name": "川中子奈月心 ヒキ"
+        },
+        {
+          "id": "kawanago-natsumi-chuu",
+          "member": "kawanago-natsumi",
+          "name": "川中子奈月心 チュウ"
+        },
+        {
+          "id": "kawanago-natsumi-yori",
+          "member": "kawanago-natsumi",
+          "name": "川中子奈月心 ヨリ"
+        },
+        {
+          "id": "sakurai-momo-hiki",
+          "member": "sakurai-momo",
+          "name": "櫻井もも ヒキ"
+        },
+        {
+          "id": "sakurai-momo-chuu",
+          "member": "sakurai-momo",
+          "name": "櫻井もも チュウ"
+        },
+        {
+          "id": "sakurai-momo-yori",
+          "member": "sakurai-momo",
+          "name": "櫻井もも ヨリ"
+        },
+        {
+          "id": "suganami-mirei-hiki",
+          "member": "suganami-mirei",
+          "name": "菅波美玲 ヒキ"
+        },
+        {
+          "id": "suganami-mirei-chuu",
+          "member": "suganami-mirei",
+          "name": "菅波美玲 チュウ"
+        },
+        {
+          "id": "suganami-mirei-yori",
+          "member": "suganami-mirei",
+          "name": "菅波美玲 ヨリ"
+        },
+        {
+          "id": "suzuki-hitomi-hiki",
+          "member": "suzuki-hitomi",
+          "name": "鈴木瞳美 ヒキ"
+        },
+        {
+          "id": "suzuki-hitomi-chuu",
+          "member": "suzuki-hitomi",
+          "name": "鈴木瞳美 チュウ"
+        },
+        {
+          "id": "suzuki-hitomi-yori",
+          "member": "suzuki-hitomi",
+          "name": "鈴木瞳美 ヨリ"
+        },
+        {
+          "id": "tanizaki-saya-hiki",
+          "member": "tanizaki-saya",
+          "name": "谷崎早耶 ヒキ"
+        },
+        {
+          "id": "tanizaki-saya-chuu",
+          "member": "tanizaki-saya",
+          "name": "谷崎早耶 チュウ"
+        },
+        {
+          "id": "tanizaki-saya-yori",
+          "member": "tanizaki-saya",
+          "name": "谷崎早耶 ヨリ"
+        },
+        {
+          "id": "tomita-nanaka-hiki",
+          "member": "tomita-nanaka",
+          "name": "冨田菜々風 ヒキ"
+        },
+        {
+          "id": "tomita-nanaka-chuu",
+          "member": "tomita-nanaka",
+          "name": "冨田菜々風 チュウ"
+        },
+        {
+          "id": "tomita-nanaka-yori",
+          "member": "tomita-nanaka",
+          "name": "冨田菜々風 ヨリ"
+        },
+        {
+          "id": "nagata-shiori-hiki",
+          "member": "nagata-shiori",
+          "name": "永田詩央里 ヒキ"
+        },
+        {
+          "id": "nagata-shiori-chuu",
+          "member": "nagata-shiori",
+          "name": "永田詩央里 チュウ"
+        },
+        {
+          "id": "nagata-shiori-yori",
+          "member": "nagata-shiori",
+          "name": "永田詩央里 ヨリ"
+        },
+        {
+          "id": "honda-miyuki-hiki",
+          "member": "honda-miyuki",
+          "name": "本田珠由記 ヒキ"
+        },
+        {
+          "id": "honda-miyuki-chuu",
+          "member": "honda-miyuki",
+          "name": "本田珠由記 チュウ"
+        },
+        {
+          "id": "honda-miyuki-yori",
+          "member": "honda-miyuki",
+          "name": "本田珠由記 ヨリ"
+        }
+      ]
+    },
     {
       "id": "2026-january",
       "name": "January 2026 「排他的ファイター」歌唱衣装②",
