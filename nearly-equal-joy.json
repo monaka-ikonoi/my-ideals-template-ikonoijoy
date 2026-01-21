@@ -9,7 +9,7 @@
   "link": "https://github.com/monaka-ikonoi/my-ideals-template-ikonoijoy",
   "imageResourceType": "baseUrl",
   "imageBaseUrl": {
-    "root": "https://my-ideals-ikonoijoy.12450.net/nearly-equal-joy",
+    "root": "http://localhost:3000/resources/nearly-equal-joy",
     "format": "webp"
   },
   "members": [

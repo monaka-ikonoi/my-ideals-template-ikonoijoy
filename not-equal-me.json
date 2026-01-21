@@ -9,7 +9,7 @@
   "author": "もなか",
   "imageResourceType": "baseUrl",
   "imageBaseUrl": {
-    "root": "https://my-ideals-ikonoijoy.12450.net/not-equal-me",
+    "root": "http://localhost:3000/resources/not-equal-me",
     "format": "webp"
   },
   "members": [
