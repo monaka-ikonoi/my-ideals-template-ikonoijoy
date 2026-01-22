@@ -6,12 +6,60 @@
 
 下のリンクを**右クリック（または長押し）してURLをコピー**してください。
 
-| グループ | テンプレートURL | 状態 |
-| :--- | :--- | :--- |
-| **＝LOVE** | (準備中) | 🚧 |
-| **≠ME** | [not-equal-me.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/not-equal-me.json) | ✅  |
-| **≒JOY** | [nearly-equal-joy.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/nearly-equal-joy.json) | ✅  |
+> 💡 **ヒント**: 特定のメンバーのみ収集している場合は、メンバー別テンプレートを使うと読み込みが速くなります。
 
+### ＝LOVE
+
+🚧 準備中
+
+### ≠ME
+
+**全メンバー**: [not-equal-me.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/not-equal-me.json)
+
+<details>
+<summary>メンバー別テンプレート</summary>
+
+| メンバー | URL |
+| :--- | :--- |
+| 尾木波菜 | [not-equal-me-ogi-hana.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/not-equal-me-ogi-hana.json) |
+| 落合希来里 | [not-equal-me-ochiai-kirari.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/not-equal-me-ochiai-kirari.json) |
+| 蟹沢萌子 | [not-equal-me-kanisawa-moeko.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/not-equal-me-kanisawa-moeko.json) |
+| 河口夏音 | [not-equal-me-kawaguchi-natsune.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/not-equal-me-kawaguchi-natsune.json) |
+| 川中子奈月心 | [not-equal-me-kawanago-natsumi.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/not-equal-me-kawanago-natsumi.json) |
+| 櫻井もも | [not-equal-me-sakurai-momo.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/not-equal-me-sakurai-momo.json) |
+| 菅波美玲 | [not-equal-me-suganami-mirei.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/not-equal-me-suganami-mirei.json) |
+| 鈴木瞳美 | [not-equal-me-suzuki-hitomi.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/not-equal-me-suzuki-hitomi.json) |
+| 谷崎早耶 | [not-equal-me-tanizaki-saya.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/not-equal-me-tanizaki-saya.json) |
+| 冨田菜々風 | [not-equal-me-tomita-nanaka.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/not-equal-me-tomita-nanaka.json) |
+| 永田詩央里 | [not-equal-me-nagata-shiori.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/not-equal-me-nagata-shiori.json) |
+| 本田珠由記 | [not-equal-me-honda-miyuki.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/not-equal-me-honda-miyuki.json) |
+
+</details>
+
+### ≒JOY
+
+**全メンバー**: [nearly-equal-joy.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/nearly-equal-joy.json)
+
+<details>
+<summary>メンバー別テンプレート</summary>
+
+| メンバー | URL |
+| :--- | :--- |
+| 逢田珠里依 | [nearly-equal-joy-aida-jurii.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/nearly-equal-joy-aida-jurii.json) |
+| 天野香乃愛 | [nearly-equal-joy-amano-konoa.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/nearly-equal-joy-amano-konoa.json) |
+| 市原愛弓 | [nearly-equal-joy-ichihara-ayumi.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/nearly-equal-joy-ichihara-ayumi.json) |
+| 江角怜音 | [nearly-equal-joy-esumi-renon.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/nearly-equal-joy-esumi-renon.json) |
+| 大信田美月 | [nearly-equal-joy-ooshida-mitsuki.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/nearly-equal-joy-ooshida-mitsuki.json) |
+| 大西葵 | [nearly-equal-joy-oonishi-aoi.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/nearly-equal-joy-oonishi-aoi.json) |
+| 小澤愛実 | [nearly-equal-joy-ozawa-aimi.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/nearly-equal-joy-ozawa-aimi.json) |
+| 髙橋舞 | [nearly-equal-joy-takahashi-mai.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/nearly-equal-joy-takahashi-mai.json) |
+| 藤沢莉子 | [nearly-equal-joy-fujisawa-riko.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/nearly-equal-joy-fujisawa-riko.json) |
+| 村山結香 | [nearly-equal-joy-murayama-yuuka.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/nearly-equal-joy-murayama-yuuka.json) |
+| 山田杏佳 | [nearly-equal-joy-yamada-momoka.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/nearly-equal-joy-yamada-momoka.json) |
+| 山野愛月 | [nearly-equal-joy-yamano-arisu.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/nearly-equal-joy-yamano-arisu.json) |
+| 福山萌叶(卒業) | [nearly-equal-joy-fukuyama-moeka.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/nearly-equal-joy-fukuyama-moeka.json) |
+
+</details>
 
 ## 使い方
 
