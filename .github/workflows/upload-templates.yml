@@ -2,27 +2,26 @@ name: Upload template files to R2
 
 on:
   push:
-    branches: [ main ]
+    branches: [main]
     paths:
       - "not-equal-me.json"
       - "nearly-equal-joy.json"
   workflow_dispatch:
 
+env:
+  TEMPLATE_LIST: not-equal-me.json, nearly-equal-joy.json
+  IMAGE_BASE_URL: https://my-ideals-ikonoijoy-prod.chocomonaka.dev/images
+
 jobs:
   upload:
     runs-on: ubuntu-latest
-    env:
-      TEMPLATE_LIST: |
-        not-equal-me.json
-        nearly-equal-joy.json
     steps:
       - uses: actions/checkout@v6
 
       - name: Setup Rclone and jq
         run: |
-          sudo apt-get update
-          sudo apt-get install rclone jq
-          
+          sudo apt-get update && sudo apt-get install -y rclone
+
           mkdir -p ~/.config/rclone
           cat << EOF > ~/.config/rclone/rclone.conf
           [r2]
@@ -34,16 +33,28 @@ jobs:
           acl = private
           EOF
 
-      - name: Rewrite imageBaseUrl.root in JSON
-        env:
-          IMAGE_BASE_URL: https://my-ideals-ikonoijoy-prod.chocomonaka.dev/images
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: "latest"
+
+      - name: Process and generate templates
         run: |
+          set -e
           mkdir -p /tmp/templates
-          while IFS= read -r file; do
+
+          IFS=', ' read -ra files <<< "$TEMPLATE_LIST"
+          for file in "${files[@]}"; do
             [ -z "$file" ] && continue
-            root_url="$IMAGE_BASE_URL/$(basename "$file" .json)"
-            jq --arg url "$root_url" '.imageBaseUrl.root = $url' "$file" > "/tmp/templates/$file"
-          done <<< "$TEMPLATE_LIST"
+            
+            base_name="$(basename "$file" .json)"
+            root_url="$IMAGE_BASE_URL/$base_name"
+            out_dir="/tmp/templates"
+            
+            jq --arg url "$root_url" '.imageBaseUrl.root = $url' "$file" > "$out_dir/$file"
+            
+            node ./scripts/split-template.js "$out_dir/$file" "$out_dir"
+          done
 
       - name: Upload template files to R2
         run: |
@@ -53,4 +64,3 @@ jobs:
             --header-upload "Cache-Control: public, max-age=600" \
             --checksum \
             --verbose
-          
