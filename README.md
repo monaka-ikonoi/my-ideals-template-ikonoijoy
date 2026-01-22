@@ -10,7 +10,27 @@
 
 ### ＝LOVE
 
-🚧 準備中
+🚧 準備中 （2025年1月以降のみ）
+
+**全メンバー**: [equal-love.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/equal-love.json)
+
+<details>
+<summary>メンバー別テンプレート</summary>
+
+| メンバー | URL |
+| :--- | :--- |
+| 大谷映美里 | [equal-love-otani-emiri.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/equal-love-otani-emiri.json) |
+| 大場花菜 | [equal-love-oba-hana.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/equal-love-oba-hana.json) |
+| 音嶋莉沙 | [equal-love-otoshima-risa.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/equal-love-otoshima-risa.json) |
+| 齋藤樹愛羅 | [equal-love-saito-kiara.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/equal-love-saito-kiara.json) |
+| 佐々木舞香 | [equal-love-sasaki-maika.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/equal-love-sasaki-maika.json) |
+| 髙松瞳 | [equal-love-takamatsu-hitomi.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/equal-love-takamatsu-hitomi.json) |
+| 瀧脇笙古 | [equal-love-takiwaki-shoko.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/equal-love-takiwaki-shoko.json) |
+| 野口衣織 | [equal-love-noguchi-iori.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/equal-love-noguchi-iori.json) |
+| 諸橋沙夏 | [equal-love-morohashi-sana.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/equal-love-morohashi-sana.json) |
+| 山本杏奈 | [equal-love-yamamoto-anna.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/equal-love-yamamoto-anna.json) |
+
+</details>
 
 ### ≠ME
 
