@@ -4,12 +4,13 @@ on:
   push:
     branches: [main]
     paths:
+      - "equal-love.json"
       - "not-equal-me.json"
       - "nearly-equal-joy.json"
   workflow_dispatch:
 
 env:
-  TEMPLATE_LIST: not-equal-me.json, nearly-equal-joy.json
+  TEMPLATE_LIST: equal-love.json, not-equal-me.json, nearly-equal-joy.json
   IMAGE_BASE_URL: https://my-ideals-ikonoijoy-prod.chocomonaka.dev/images
 
 jobs:
