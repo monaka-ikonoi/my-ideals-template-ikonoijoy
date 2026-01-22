@@ -18,20 +18,9 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
-      - name: Setup Rclone and jq
+      - name: Setup Rclone
         run: |
           sudo apt-get update && sudo apt-get install -y rclone
-
-          mkdir -p ~/.config/rclone
-          cat << EOF > ~/.config/rclone/rclone.conf
-          [r2]
-          type = s3
-          provider = Cloudflare
-          access_key_id = ${{ secrets.R2_ACCESS_KEY_ID }}
-          secret_access_key = ${{ secrets.R2_SECRET_ACCESS_KEY }}
-          endpoint = https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com
-          acl = private
-          EOF
 
       - name: Setup Node.js
         uses: actions/setup-node@v6
@@ -57,6 +46,12 @@ jobs:
           done
 
       - name: Upload template files to R2
+        env:
+            RCLONE_CONFIG_R2_TYPE: s3
+            RCLONE_CONFIG_R2_PROVIDER: Cloudflare
+            RCLONE_CONFIG_R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+            RCLONE_CONFIG_R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+            RCLONE_CONFIG_R2_ENDPOINT: https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com
         run: |
           rclone sync /tmp/templates r2:${{ secrets.R2_BUCKET_NAME }}/templates \
             --include "*.json" \

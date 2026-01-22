@@ -15,21 +15,15 @@ jobs:
 
       - name: Setup Rclone
         run: |
-          sudo apt-get update
-          sudo apt-get install rclone
-          
-          mkdir -p ~/.config/rclone
-          cat << EOF > ~/.config/rclone/rclone.conf
-          [r2]
-          type = s3
-          provider = Cloudflare
-          access_key_id = ${{ secrets.R2_ACCESS_KEY_ID }}
-          secret_access_key = ${{ secrets.R2_SECRET_ACCESS_KEY }}
-          endpoint = https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com
-          acl = private
-          EOF
+          sudo apt-get update && sudo apt-get install -y rclone
 
       - name: Sync WebP files to R2 with cache headers
+        env:
+          RCLONE_CONFIG_R2_TYPE: s3
+          RCLONE_CONFIG_R2_PROVIDER: Cloudflare
+          RCLONE_CONFIG_R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          RCLONE_CONFIG_R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          RCLONE_CONFIG_R2_ENDPOINT: https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com
         run: |
           rclone sync ./resources r2:${{ secrets.R2_BUCKET_NAME }}/images \
             --include "*.webp" \
