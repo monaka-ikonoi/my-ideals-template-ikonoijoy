@@ -29,6 +29,7 @@
 | 野口衣織 | [equal-love-noguchi-iori.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/equal-love-noguchi-iori.json) |
 | 諸橋沙夏 | [equal-love-morohashi-sana.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/equal-love-morohashi-sana.json) |
 | 山本杏奈 | [equal-love-yamamoto-anna.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/equal-love-yamamoto-anna.json) |
+| 齊藤なぎさ(卒業) | [equal-love-saito-nagisa.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/equal-love-saito-nagisa.json) |
 
 </details>
 
