@@ -10,8 +10,6 @@
 
 ### ＝LOVE
 
-🚧 準備中 （2025年1月以降のみ）
-
 **全メンバー**: [equal-love.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/equal-love.json)
 
 <details>
@@ -94,9 +92,33 @@
 
 ## 備考
 
+### =LOVE
+
+* 「2018.June-II 台湾①」一部の画像がありません。
+  * オフィシャルサイトで一部のメンバーの画像のみが掲載されていました。
+    * https://equal-love.jp/news/detail/766
+    * https://equal-love.jp/news/detail/770
+    * https://equal-love.jp/news/detail/809
+* 「2017.August 1st生写真」の画像がありません。
+  * 通販では小さな全員集合画像のみが公開されており、個別画像は存在しません。
+    * https://storage-store.plusmember.jp/upload/images/1707_equallove_photo_00_500.jpg
+
 ### ≠ME
+
 * 「2019.February お披露目 初期制服」の画像がありません。
+  * 通販ではロゴ画像1点のみが確認されており、ファイル名に規則性がないため、個別メンバー画像の存在を判断できません。
+    * https://web.archive.org/web/20190402233355/https://store.emtg.jp/equallove/
+    * https://storage-store.plusmember.jp/upload/images/02211135_5c6e0e71e14f0.jpg
 
 ### ≒JOY
+
 * 「2023 September-II 「大空、ビュンと」衣装」の画像がありません。
   * このセットは通販がなく、オフィシャルサイトにも一部画像しか存在しないため。
+    * https://nearly-equal-joy.jp/news/detail/885
+
+
+## Special Thanks
+
+* かえち〖ノイミー一覧制作やさん♡〗 [@ll7kqm](https://x.com/ll7kqm)
+* ほののん。[@hononon_LOVE48](https://x.com/hononon_LOVE48)
+* Internet Archive（Wayback Machine）
