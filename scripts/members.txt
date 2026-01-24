@@ -1,0 +1,8 @@
+love:
+otani-emiri.jpg,oba-hana.jpg,otoshima-risa.jpg,saito-kiara.jpg,sasaki-maika.jpg,takamatsu-hitomi.jpg,takiwaki-shoko.jpg,noguchi-iori.jpg,morohashi-sana.jpg,yamamoto-anna.jpg
+
+not-equal-me:
+ogi-hana.jpg,ochiai-kirari.jpg,kanisawa-moeko.jpg,kawaguchi-natsune.jpg,kawanago-natsumi.jpg,sakurai-momo.jpg,suganami-mirei.jpg,suzuki-hitomi.jpg,tanizaki-saya.jpg,tomita-nanaka.jpg,nagata-shiori.jpg,honda-miyuki.jpg
+
+nearly-equal-joy:
+aida-jurii.jpg,amano-konoa.jpg,ichihara-ayumi.jpg,esumi-renon.jpg,ooshida-mitsuki.jpg,oonishi-aoi.jpg,ozawa-aimi.jpg,takahashi-mai.jpg,fujisawa-riko.jpg,murayama-yuuka.jpg,yamada-momoka.jpg,yamano-arisu.jpg
