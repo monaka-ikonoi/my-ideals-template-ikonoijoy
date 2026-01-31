@@ -11,6 +11,7 @@ on:
 
 env:
   TEMPLATE_LIST: equal-love.json, not-equal-me.json, nearly-equal-joy.json
+  SPLIT_LIST: equal-love.json, not-equal-me.json, nearly-equal-joy.json
   IMAGE_BASE_URL: https://my-ideals-ikonoijoy-prod.chocomonaka.dev/images
 
 jobs:
@@ -33,7 +34,9 @@ jobs:
           set -e
           mkdir -p /tmp/templates
 
+          IFS=', ' read -ra split_files <<< "$SPLIT_LIST"
           IFS=', ' read -ra files <<< "$TEMPLATE_LIST"
+
           for file in "${files[@]}"; do
             [ -z "$file" ] && continue
             
@@ -43,16 +46,26 @@ jobs:
             
             jq --arg url "$root_url" '.imageBaseUrl.root = $url' "$file" > "$out_dir/$file"
             
-            node ./scripts/split-template.js "$out_dir/$file" "$out_dir"
+            should_split=false
+            for split_file in "${split_list[@]}"; do
+              if [ "$file" = "$split_file" ]; then
+                should_split=true
+                break
+              fi
+            done
+
+            if [ "$should_split" = true ]; then
+              node ./scripts/split-template.js "$out_dir/$file" "$out_dir"  
+            fi
           done
 
       - name: Upload template files to R2
         env:
-            RCLONE_CONFIG_R2_TYPE: s3
-            RCLONE_CONFIG_R2_PROVIDER: Cloudflare
-            RCLONE_CONFIG_R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
-            RCLONE_CONFIG_R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
-            RCLONE_CONFIG_R2_ENDPOINT: https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com
+          RCLONE_CONFIG_R2_TYPE: s3
+          RCLONE_CONFIG_R2_PROVIDER: Cloudflare
+          RCLONE_CONFIG_R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          RCLONE_CONFIG_R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          RCLONE_CONFIG_R2_ENDPOINT: https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com
         run: |
           rclone sync /tmp/templates r2:${{ secrets.R2_BUCKET_NAME }}/templates \
             --include "*.json" \
