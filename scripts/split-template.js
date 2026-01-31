@@ -15,7 +15,7 @@ function splitTemplateByMember(inputPath, outputDir) {
       collections: template.collections
         .map(collection => ({
           ...collection,
-          items: collection.items.filter(item => item.member === member.id),
+          items: collection.items.filter(item => typeof item.member === 'string' && item.member === member.id),
         }))
         .filter(collection => collection.items.length > 0),
     };
