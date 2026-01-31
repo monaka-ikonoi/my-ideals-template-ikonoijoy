@@ -1,7 +1,7 @@
 {
   "magic": "my-ideals-template",
   "version": 1,
-  "revision": 7,
+  "revision": 8,
   "id": "equal-love",
   "name": "＝LOVE 生写真",
   "description": "＝LOVE（イコールラブ/イコラブ）生写真",
@@ -13132,6 +13132,175 @@
       ]
     },
     {
+      "id": "2023-nagisa-2s",
+      "name": "齊藤なぎさ卒業記念2ショット",
+      "layout": {
+        "columns": [4, 8]
+      },
+      "items": [
+        {
+          "id": "otani-emiri-hiki",
+          "member": ["otani-emiri", "saito-nagisa"],
+          "name": "大谷映美里 ヒキ"
+        },
+        {
+          "id": "otani-emiri-chuu",
+          "member": ["otani-emiri", "saito-nagisa"],
+          "name": "大谷映美里 チュウ"
+        },
+        {
+          "id": "otani-emiri-yori",
+          "member": ["otani-emiri", "saito-nagisa"],
+          "name": "大谷映美里 ヨリ",
+          "rotated": true
+        },
+        {
+          "id": "oba-hana-hiki",
+          "member": ["oba-hana", "saito-nagisa"],
+          "name": "大場花菜 ヒキ"
+        },
+        {
+          "id": "oba-hana-chuu",
+          "member": ["oba-hana", "saito-nagisa"],
+          "name": "大場花菜 チュウ"
+        },
+        {
+          "id": "oba-hana-yori",
+          "member": ["oba-hana", "saito-nagisa"],
+          "name": "大場花菜 ヨリ",
+          "rotated": true
+        },
+        {
+          "id": "otoshima-risa-hiki",
+          "member": ["otoshima-risa", "saito-nagisa"],
+          "name": "音嶋莉沙 ヒキ"
+        },
+        {
+          "id": "otoshima-risa-chuu",
+          "member": ["otoshima-risa", "saito-nagisa"],
+          "name": "音嶋莉沙 チュウ"
+        },
+        {
+          "id": "otoshima-risa-yori",
+          "member": ["otoshima-risa", "saito-nagisa"],
+          "name": "音嶋莉沙 ヨリ",
+          "rotated": true
+        },
+        {
+          "id": "saito-kiara-hiki",
+          "member": ["saito-kiara", "saito-nagisa"],
+          "name": "齋藤樹愛羅 ヒキ"
+        },
+        {
+          "id": "saito-kiara-chuu",
+          "member": ["saito-kiara", "saito-nagisa"],
+          "name": "齋藤樹愛羅 チュウ"
+        },
+        {
+          "id": "saito-kiara-yori",
+          "member": ["saito-kiara", "saito-nagisa"],
+          "name": "齋藤樹愛羅 ヨリ",
+          "rotated": true
+        },
+        {
+          "id": "sasaki-maika-hiki",
+          "member": ["sasaki-maika", "saito-nagisa"],
+          "name": "佐々木舞香 ヒキ"
+        },
+        {
+          "id": "sasaki-maika-chuu",
+          "member": ["sasaki-maika", "saito-nagisa"],
+          "name": "佐々木舞香 チュウ"
+        },
+        {
+          "id": "sasaki-maika-yori",
+          "member": ["sasaki-maika", "saito-nagisa"],
+          "name": "佐々木舞香 ヨリ",
+          "rotated": true
+        },
+        {
+          "id": "takamatsu-hitomi-hiki",
+          "member": ["takamatsu-hitomi", "saito-nagisa"],
+          "name": "髙松瞳 ヒキ"
+        },
+        {
+          "id": "takamatsu-hitomi-chuu",
+          "member": ["takamatsu-hitomi", "saito-nagisa"],
+          "name": "髙松瞳 チュウ"
+        },
+        {
+          "id": "takamatsu-hitomi-yori",
+          "member": ["takamatsu-hitomi", "saito-nagisa"],
+          "name": "髙松瞳 ヨリ",
+          "rotated": true
+        },
+        {
+          "id": "takiwaki-shoko-hiki",
+          "member": ["takiwaki-shoko", "saito-nagisa"],
+          "name": "瀧脇笙古 ヒキ"
+        },
+        {
+          "id": "takiwaki-shoko-chuu",
+          "member": ["takiwaki-shoko", "saito-nagisa"],
+          "name": "瀧脇笙古 チュウ"
+        },
+        {
+          "id": "takiwaki-shoko-yori",
+          "member": ["takiwaki-shoko", "saito-nagisa"],
+          "name": "瀧脇笙古 ヨリ",
+          "rotated": true
+        },
+        {
+          "id": "noguchi-iori-hiki",
+          "member": ["noguchi-iori", "saito-nagisa"],
+          "name": "野口衣織 ヒキ"
+        },
+        {
+          "id": "noguchi-iori-chuu",
+          "member": ["noguchi-iori", "saito-nagisa"],
+          "name": "野口衣織 チュウ"
+        },
+        {
+          "id": "noguchi-iori-yori",
+          "member": ["noguchi-iori", "saito-nagisa"],
+          "name": "野口衣織 ヨリ",
+          "rotated": true
+        },
+        {
+          "id": "morohashi-sana-hiki",
+          "member": ["morohashi-sana", "saito-nagisa"],
+          "name": "諸橋沙夏 ヒキ"
+        },
+        {
+          "id": "morohashi-sana-chuu",
+          "member": ["morohashi-sana", "saito-nagisa"],
+          "name": "諸橋沙夏 チュウ"
+        },
+        {
+          "id": "morohashi-sana-yori",
+          "member": ["morohashi-sana", "saito-nagisa"],
+          "name": "諸橋沙夏 ヨリ",
+          "rotated": true
+        },
+        {
+          "id": "yamamoto-anna-hiki",
+          "member": ["yamamoto-anna", "saito-nagisa"],
+          "name": "山本杏奈 ヒキ"
+        },
+        {
+          "id": "yamamoto-anna-chuu",
+          "member": ["yamamoto-anna", "saito-nagisa"],
+          "name": "山本杏奈 チュウ"
+        },
+        {
+          "id": "yamamoto-anna-yori",
+          "member": ["yamamoto-anna", "saito-nagisa"],
+          "name": "山本杏奈 ヨリ",
+          "rotated": true
+        }
+      ]
+    },
+    {
       "id": "2023-january",
       "name": "2023 January 5周年コンサート衣装②",
       "items": [
@@ -22533,6 +22702,191 @@
           "id": "yamamoto-anna-yori",
           "member": "yamamoto-anna",
           "name": "山本杏奈 ヨリ"
+        }
+      ]
+    },
+    {
+      "id": "2021-nonno-2s",
+      "name": "佐竹のん乃卒業記念2ショット",
+      "layout": {
+        "columns": [4, 8]
+      },
+      "items": [
+        {
+          "id": "otani-emiri-hiki",
+          "member": ["otani-emiri", "satake-nonno"],
+          "name": "大谷映美里 ヒキ"
+        },
+        {
+          "id": "otani-emiri-chuu",
+          "member": ["otani-emiri", "satake-nonno"],
+          "name": "大谷映美里 チュウ"
+        },
+        {
+          "id": "otani-emiri-yori",
+          "member": ["otani-emiri", "satake-nonno"],
+          "name": "大谷映美里 ヨリ",
+          "rotated": true
+        },
+        {
+          "id": "oba-hana-hiki",
+          "member": ["oba-hana", "satake-nonno"],
+          "name": "大場花菜 ヒキ"
+        },
+        {
+          "id": "oba-hana-chuu",
+          "member": ["oba-hana", "satake-nonno"],
+          "name": "大場花菜 チュウ"
+        },
+        {
+          "id": "oba-hana-yori",
+          "member": ["oba-hana", "satake-nonno"],
+          "name": "大場花菜 ヨリ",
+          "rotated": true
+        },
+        {
+          "id": "otoshima-risa-hiki",
+          "member": ["otoshima-risa", "satake-nonno"],
+          "name": "音嶋莉沙 ヒキ"
+        },
+        {
+          "id": "otoshima-risa-chuu",
+          "member": ["otoshima-risa", "satake-nonno"],
+          "name": "音嶋莉沙 チュウ"
+        },
+        {
+          "id": "otoshima-risa-yori",
+          "member": ["otoshima-risa", "satake-nonno"],
+          "name": "音嶋莉沙 ヨリ",
+          "rotated": true
+        },
+        {
+          "id": "saito-kiara-hiki",
+          "member": ["saito-kiara", "satake-nonno"],
+          "name": "齋藤樹愛羅 ヒキ"
+        },
+        {
+          "id": "saito-kiara-chuu",
+          "member": ["saito-kiara", "satake-nonno"],
+          "name": "齋藤樹愛羅 チュウ"
+        },
+        {
+          "id": "saito-kiara-yori",
+          "member": ["saito-kiara", "satake-nonno"],
+          "name": "齋藤樹愛羅 ヨリ",
+          "rotated": true
+        },
+        {
+          "id": "saito-nagisa-hiki",
+          "member": ["saito-nagisa", "satake-nonno"],
+          "name": "齊藤なぎさ ヒキ"
+        },
+        {
+          "id": "saito-nagisa-chuu",
+          "member": ["saito-nagisa", "satake-nonno"],
+          "name": "齊藤なぎさ チュウ"
+        },
+        {
+          "id": "saito-nagisa-yori",
+          "member": ["saito-nagisa", "satake-nonno"],
+          "name": "齊藤なぎさ ヨリ",
+          "rotated": true
+        },
+        {
+          "id": "sasaki-maika-hiki",
+          "member": ["sasaki-maika", "satake-nonno"],
+          "name": "佐々木舞香 ヒキ"
+        },
+        {
+          "id": "sasaki-maika-chuu",
+          "member": ["sasaki-maika", "satake-nonno"],
+          "name": "佐々木舞香 チュウ"
+        },
+        {
+          "id": "sasaki-maika-yori",
+          "member": ["sasaki-maika", "satake-nonno"],
+          "name": "佐々木舞香 ヨリ",
+          "rotated": true
+        },
+        {
+          "id": "takamatsu-hitomi-hiki",
+          "member": ["takamatsu-hitomi", "satake-nonno"],
+          "name": "髙松瞳 ヒキ"
+        },
+        {
+          "id": "takamatsu-hitomi-chuu",
+          "member": ["takamatsu-hitomi", "satake-nonno"],
+          "name": "髙松瞳 チュウ"
+        },
+        {
+          "id": "takamatsu-hitomi-yori",
+          "member": ["takamatsu-hitomi", "satake-nonno"],
+          "name": "髙松瞳 ヨリ",
+          "rotated": true
+        },
+        {
+          "id": "takiwaki-shoko-hiki",
+          "member": ["takiwaki-shoko", "satake-nonno"],
+          "name": "瀧脇笙古 ヒキ"
+        },
+        {
+          "id": "takiwaki-shoko-chuu",
+          "member": ["takiwaki-shoko", "satake-nonno"],
+          "name": "瀧脇笙古 チュウ"
+        },
+        {
+          "id": "takiwaki-shoko-yori",
+          "member": ["takiwaki-shoko", "satake-nonno"],
+          "name": "瀧脇笙古 ヨリ",
+          "rotated": true
+        },
+        {
+          "id": "noguchi-iori-hiki",
+          "member": ["noguchi-iori", "satake-nonno"],
+          "name": "野口衣織 ヒキ"
+        },
+        {
+          "id": "noguchi-iori-chuu",
+          "member": ["noguchi-iori", "satake-nonno"],
+          "name": "野口衣織 チュウ"
+        },
+        {
+          "id": "noguchi-iori-yori",
+          "member": ["noguchi-iori", "satake-nonno"],
+          "name": "野口衣織 ヨリ",
+          "rotated": true
+        },
+        {
+          "id": "morohashi-sana-hiki",
+          "member": ["morohashi-sana", "satake-nonno"],
+          "name": "諸橋沙夏 ヒキ"
+        },
+        {
+          "id": "morohashi-sana-chuu",
+          "member": ["morohashi-sana", "satake-nonno"],
+          "name": "諸橋沙夏 チュウ"
+        },
+        {
+          "id": "morohashi-sana-yori",
+          "member": ["morohashi-sana", "satake-nonno"],
+          "name": "諸橋沙夏 ヨリ",
+          "rotated": true
+        },
+        {
+          "id": "yamamoto-anna-hiki",
+          "member": ["yamamoto-anna", "satake-nonno"],
+          "name": "山本杏奈 ヒキ"
+        },
+        {
+          "id": "yamamoto-anna-chuu",
+          "member": ["yamamoto-anna", "satake-nonno"],
+          "name": "山本杏奈 チュウ"
+        },
+        {
+          "id": "yamamoto-anna-yori",
+          "member": ["yamamoto-anna", "satake-nonno"],
+          "name": "山本杏奈 ヨリ",
+          "rotated": true
         }
       ]
     },
@@ -35154,6 +35508,147 @@
           "id": "yamamoto-anna-yori",
           "member": "yamamoto-anna",
           "name": "山本杏奈 ヨリ"
+        }
+      ]
+    },
+    {
+      "id": "2018-august-2",
+      "name": "2018.August-II 赤背景2",
+      "items": [
+        {
+          "id": "iori-hitomi-maika-1",
+          "member": ["noguchi-iori", "takamatsu-hitomi", "sasaki-maika"],
+          "name": "野口髙松佐々木 1"
+        },
+        {
+          "id": "iori-hitomi-maika-2",
+          "member": ["noguchi-iori", "takamatsu-hitomi", "sasaki-maika"],
+          "name": "野口髙松佐々木 2"
+        },
+        {
+          "id": "iori-hitomi-maika-3",
+          "member": ["noguchi-iori", "takamatsu-hitomi", "sasaki-maika"],
+          "name": "野口髙松佐々木 3"
+        },
+        {
+          "id": "emiri-sana-1",
+          "member": ["otani-emiri", "morohashi-sana"],
+          "name": "大谷諸橋 1"
+        },
+        {
+          "id": "emiri-sana-2",
+          "member": ["otani-emiri", "morohashi-sana"],
+          "name": "大谷諸橋 2"
+        },
+        {
+          "id": "emiri-sana-3",
+          "member": ["otani-emiri", "morohashi-sana"],
+          "name": "大谷諸橋 3"
+        },
+        {
+          "id": "shoko-risa-anna-1",
+          "member": ["takiwaki-shoko", "otoshima-risa", "yamamoto-anna"],
+          "name": "瀧脇音嶋山本 1"
+        },
+        {
+          "id": "shoko-risa-anna-2",
+          "member": ["takiwaki-shoko", "otoshima-risa", "yamamoto-anna"],
+          "name": "瀧脇音嶋山本 2"
+        },
+        {
+          "id": "shoko-risa-anna-3",
+          "member": ["takiwaki-shoko", "otoshima-risa", "yamamoto-anna"],
+          "name": "瀧脇音嶋山本 3"
+        },
+        {
+          "id": "kiara-nagisa-1",
+          "member": ["saito-kiara", "saito-nagisa"],
+          "name": "きあらなぎさ 1"
+        },
+        {
+          "id": "kiara-nagisa-2",
+          "member": ["saito-kiara", "saito-nagisa"],
+          "name": "きあらなぎさ 2"
+        },
+        {
+          "id": "kiara-nagisa-3",
+          "member": ["saito-kiara", "saito-nagisa"],
+          "name": "きあらなぎさ 3"
+        },
+        {
+          "id": "nonno-hana-1",
+          "member": ["satake-nonno", "oba-hana"],
+          "name": "佐竹大場 1"
+        },
+        {
+          "id": "nonno-hana-2",
+          "member": ["satake-nonno", "oba-hana"],
+          "name": "佐竹大場 2"
+        },
+        {
+          "id": "nonno-hana-3",
+          "member": ["satake-nonno", "oba-hana"],
+          "name": "佐竹大場 3"
+        },
+        {
+          "id": "maika-hitomi-1",
+          "member": ["sasaki-maika", "takamatsu-hitomi"],
+          "name": "佐々木髙松 1"
+        },
+        {
+          "id": "maika-hitomi-2",
+          "member": ["sasaki-maika", "takamatsu-hitomi"],
+          "name": "佐々木髙松 2"
+        },
+        {
+          "id": "maika-hitomi-3",
+          "member": ["sasaki-maika", "takamatsu-hitomi"],
+          "name": "佐々木髙松 3"
+        },
+        {
+          "id": "iori-maika-1",
+          "member": ["noguchi-iori", "sasaki-maika"],
+          "name": "野口佐々木 1"
+        },
+        {
+          "id": "iori-maika-2",
+          "member": ["noguchi-iori", "sasaki-maika"],
+          "name": "野口佐々木 2"
+        },
+        {
+          "id": "iori-maika-3",
+          "member": ["noguchi-iori", "sasaki-maika"],
+          "name": "野口佐々木 3"
+        },
+        {
+          "id": "risa-anna-1",
+          "member": ["otoshima-risa", "yamamoto-anna"],
+          "name": "音嶋山本 1"
+        },
+        {
+          "id": "risa-anna-2",
+          "member": ["otoshima-risa", "yamamoto-anna"],
+          "name": "音嶋山本 2"
+        },
+        {
+          "id": "risa-anna-3",
+          "member": ["otoshima-risa", "yamamoto-anna"],
+          "name": "音嶋山本 3"
+        },
+        {
+          "id": "hana-shoko-1",
+          "member": ["takiwaki-shoko", "oba-hana"],
+          "name": "大場瀧脇 1"
+        },
+        {
+          "id": "hana-shoko-2",
+          "member": ["takiwaki-shoko", "oba-hana"],
+          "name": "大場瀧脇 2"
+        },
+        {
+          "id": "hana-shoko-3",
+          "member": ["takiwaki-shoko", "oba-hana"],
+          "name": "大場瀧脇 3"
         }
       ]
     },
