@@ -30,6 +30,8 @@
 | 齊藤なぎさ(卒業) | [equal-love-saito-nagisa.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/equal-love-saito-nagisa.json) |
 | 佐竹のん乃(卒業) | [equal-love-satake-nonno.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/equal-love-satake-nonno.json) |
 
+**ID PHOTO ステッカーセット**: [equal-love-id-photo.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/equal-love-id-photo.json)
+
 </details>
 
 ### ≠ME
