@@ -7,10 +7,11 @@ on:
       - "equal-love.json"
       - "not-equal-me.json"
       - "nearly-equal-joy.json"
+      - "not-equal-me-id-photo.json"
   workflow_dispatch:
 
 env:
-  TEMPLATE_LIST: equal-love.json, not-equal-me.json, nearly-equal-joy.json
+  TEMPLATE_LIST: equal-love.json, not-equal-me.json, nearly-equal-joy.json,not-equal-me-id-photo.json
   SPLIT_LIST: equal-love.json, not-equal-me.json, nearly-equal-joy.json
   IMAGE_BASE_URL: https://my-ideals-ikonoijoy-prod.chocomonaka.dev/images
 

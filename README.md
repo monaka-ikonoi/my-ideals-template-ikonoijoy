@@ -54,6 +54,8 @@
 | 永田詩央里 | [not-equal-me-nagata-shiori.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/not-equal-me-nagata-shiori.json) |
 | 本田珠由記 | [not-equal-me-honda-miyuki.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/not-equal-me-honda-miyuki.json) |
 
+**ID PHOTO ステッカーセット**: [not-equal-me-id-photo.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/not-equal-me-id-photo.json)
+
 </details>
 
 ### ≒JOY
