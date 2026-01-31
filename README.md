@@ -30,9 +30,10 @@
 | 齊藤なぎさ(卒業) | [equal-love-saito-nagisa.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/equal-love-saito-nagisa.json) |
 | 佐竹のん乃(卒業) | [equal-love-satake-nonno.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/equal-love-satake-nonno.json) |
 
+</details>
+
 **ID PHOTO ステッカーセット**: [equal-love-id-photo.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/equal-love-id-photo.json)
 
-</details>
 
 ### ≠ME
 
@@ -56,9 +57,10 @@
 | 永田詩央里 | [not-equal-me-nagata-shiori.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/not-equal-me-nagata-shiori.json) |
 | 本田珠由記 | [not-equal-me-honda-miyuki.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/not-equal-me-honda-miyuki.json) |
 
+</details>
+
 **ID PHOTO ステッカーセット**: [not-equal-me-id-photo.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/not-equal-me-id-photo.json)
 
-</details>
 
 ### ≒JOY
 
