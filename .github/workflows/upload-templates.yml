@@ -49,7 +49,7 @@ jobs:
             jq --arg url "$root_url" '.imageBaseUrl.root = $url' "$file" > "$out_dir/$file"
             
             should_split=false
-            for split_file in "${split_list[@]}"; do
+            for split_file in "${split_files[@]}"; do
               if [ "$file" = "$split_file" ]; then
                 should_split=true
                 break
