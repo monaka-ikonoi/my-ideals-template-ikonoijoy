@@ -3,8 +3,6 @@ name: Sync image files to R2
 on:
   push:
     branches: [ main ]
-    paths:
-      - "resources/**.webp"
   workflow_dispatch:
 
 jobs:
