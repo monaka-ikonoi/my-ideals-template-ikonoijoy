@@ -59,6 +59,8 @@
 
 </details>
 
+**ミニフォトカード**: [not-equal-me-mini-photo.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/not-equal-me-mini-photo.json)
+
 **ID PHOTO ステッカーセット**: [not-equal-me-id-photo.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/not-equal-me-id-photo.json)
 
 
