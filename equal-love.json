@@ -1,7 +1,7 @@
 {
   "magic": "my-ideals-template",
   "version": 1,
-  "revision": 8,
+  "revision": 9,
   "id": "equal-love",
   "name": "＝LOVE 生写真",
   "description": "＝LOVE（イコールラブ/イコラブ）生写真",
@@ -27,6 +27,162 @@
     { "id": "satake-nonno", "name": "佐竹のん乃(卒業)" }
   ],
   "collections": [
+    {
+      "id": "2026-february",
+      "name": "2026 February 「ラブソングに襲われる」歌唱衣装アザーカット",
+      "items": [
+        {
+          "id": "otani-emiri-hiki",
+          "member": "otani-emiri",
+          "name": "大谷映美里 ヒキ"
+        },
+        {
+          "id": "otani-emiri-chuu",
+          "member": "otani-emiri",
+          "name": "大谷映美里 チュウ"
+        },
+        {
+          "id": "otani-emiri-yori",
+          "member": "otani-emiri",
+          "name": "大谷映美里 ヨリ"
+        },
+        {
+          "id": "oba-hana-hiki",
+          "member": "oba-hana",
+          "name": "大場花菜 ヒキ"
+        },
+        {
+          "id": "oba-hana-chuu",
+          "member": "oba-hana",
+          "name": "大場花菜 チュウ"
+        },
+        {
+          "id": "oba-hana-yori",
+          "member": "oba-hana",
+          "name": "大場花菜 ヨリ"
+        },
+        {
+          "id": "otoshima-risa-hiki",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 ヒキ"
+        },
+        {
+          "id": "otoshima-risa-chuu",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 チュウ"
+        },
+        {
+          "id": "otoshima-risa-yori",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 ヨリ"
+        },
+        {
+          "id": "saito-kiara-hiki",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 ヒキ"
+        },
+        {
+          "id": "saito-kiara-chuu",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 チュウ"
+        },
+        {
+          "id": "saito-kiara-yori",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 ヨリ"
+        },
+        {
+          "id": "sasaki-maika-hiki",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 ヒキ"
+        },
+        {
+          "id": "sasaki-maika-chuu",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 チュウ"
+        },
+        {
+          "id": "sasaki-maika-yori",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 ヨリ"
+        },
+        {
+          "id": "takamatsu-hitomi-hiki",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 ヒキ"
+        },
+        {
+          "id": "takamatsu-hitomi-chuu",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 チュウ"
+        },
+        {
+          "id": "takamatsu-hitomi-yori",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 ヨリ"
+        },
+        {
+          "id": "takiwaki-shoko-hiki",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 ヒキ"
+        },
+        {
+          "id": "takiwaki-shoko-chuu",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 チュウ"
+        },
+        {
+          "id": "takiwaki-shoko-yori",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 ヨリ"
+        },
+        {
+          "id": "noguchi-iori-hiki",
+          "member": "noguchi-iori",
+          "name": "野口衣織 ヒキ"
+        },
+        {
+          "id": "noguchi-iori-chuu",
+          "member": "noguchi-iori",
+          "name": "野口衣織 チュウ"
+        },
+        {
+          "id": "noguchi-iori-yori",
+          "member": "noguchi-iori",
+          "name": "野口衣織 ヨリ"
+        },
+        {
+          "id": "morohashi-sana-hiki",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 ヒキ"
+        },
+        {
+          "id": "morohashi-sana-chuu",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 チュウ"
+        },
+        {
+          "id": "morohashi-sana-yori",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 ヨリ"
+        },
+        {
+          "id": "yamamoto-anna-hiki",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 ヒキ"
+        },
+        {
+          "id": "yamamoto-anna-chuu",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 チュウ"
+        },
+        {
+          "id": "yamamoto-anna-yori",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 ヨリ"
+        }
+      ]
+    },
     {
       "id": "2026-january-2",
       "name": "2026 January-II イコラブモーリーファンタジーコラボ④",
