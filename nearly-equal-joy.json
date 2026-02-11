@@ -1,7 +1,7 @@
 {
   "magic": "my-ideals-template",
   "version": 1,
-  "revision": 1,
+  "revision": 2,
   "id": "nearly-equal-joy",
   "name": "≒JOY 生写真",
   "description": "≒JOY（ニアリーイコールジョイ/ニアジョイ）生写真",
@@ -28,6 +28,192 @@
     { "id": "fukuyama-moeka", "name": "福山萌叶(卒業)" }
   ],
   "collections": [
+    {
+      "id": "2026-february",
+      "name": "2026 February 「いま、月は満ちる」衣装③",
+      "items": [
+        {
+          "id": "aida-jurii-hiki",
+          "member": "aida-jurii",
+          "name": "逢田珠里依 ヒキ"
+        },
+        {
+          "id": "aida-jurii-chuu",
+          "member": "aida-jurii",
+          "name": "逢田珠里依 チュウ"
+        },
+        {
+          "id": "aida-jurii-yori",
+          "member": "aida-jurii",
+          "name": "逢田珠里依 ヨリ"
+        },
+        {
+          "id": "amano-konoa-hiki",
+          "member": "amano-konoa",
+          "name": "天野香乃愛 ヒキ"
+        },
+        {
+          "id": "amano-konoa-chuu",
+          "member": "amano-konoa",
+          "name": "天野香乃愛 チュウ"
+        },
+        {
+          "id": "amano-konoa-yori",
+          "member": "amano-konoa",
+          "name": "天野香乃愛 ヨリ"
+        },
+        {
+          "id": "ichihara-ayumi-hiki",
+          "member": "ichihara-ayumi",
+          "name": "市原愛弓 ヒキ"
+        },
+        {
+          "id": "ichihara-ayumi-chuu",
+          "member": "ichihara-ayumi",
+          "name": "市原愛弓 チュウ"
+        },
+        {
+          "id": "ichihara-ayumi-yori",
+          "member": "ichihara-ayumi",
+          "name": "市原愛弓 ヨリ"
+        },
+        {
+          "id": "esumi-renon-hiki",
+          "member": "esumi-renon",
+          "name": "江角怜音 ヒキ"
+        },
+        {
+          "id": "esumi-renon-chuu",
+          "member": "esumi-renon",
+          "name": "江角怜音 チュウ"
+        },
+        {
+          "id": "esumi-renon-yori",
+          "member": "esumi-renon",
+          "name": "江角怜音 ヨリ"
+        },
+        {
+          "id": "ooshida-mitsuki-hiki",
+          "member": "ooshida-mitsuki",
+          "name": "大信田美月 ヒキ"
+        },
+        {
+          "id": "ooshida-mitsuki-chuu",
+          "member": "ooshida-mitsuki",
+          "name": "大信田美月 チュウ"
+        },
+        {
+          "id": "ooshida-mitsuki-yori",
+          "member": "ooshida-mitsuki",
+          "name": "大信田美月 ヨリ"
+        },
+        {
+          "id": "oonishi-aoi-hiki",
+          "member": "oonishi-aoi",
+          "name": "大西葵 ヒキ"
+        },
+        {
+          "id": "oonishi-aoi-chuu",
+          "member": "oonishi-aoi",
+          "name": "大西葵 チュウ"
+        },
+        {
+          "id": "oonishi-aoi-yori",
+          "member": "oonishi-aoi",
+          "name": "大西葵 ヨリ"
+        },
+        {
+          "id": "ozawa-aimi-hiki",
+          "member": "ozawa-aimi",
+          "name": "小澤愛実 ヒキ"
+        },
+        {
+          "id": "ozawa-aimi-chuu",
+          "member": "ozawa-aimi",
+          "name": "小澤愛実 チュウ"
+        },
+        {
+          "id": "ozawa-aimi-yori",
+          "member": "ozawa-aimi",
+          "name": "小澤愛実 ヨリ"
+        },
+        {
+          "id": "takahashi-mai-hiki",
+          "member": "takahashi-mai",
+          "name": "髙橋舞 ヒキ"
+        },
+        {
+          "id": "takahashi-mai-chuu",
+          "member": "takahashi-mai",
+          "name": "髙橋舞 チュウ"
+        },
+        {
+          "id": "takahashi-mai-yori",
+          "member": "takahashi-mai",
+          "name": "髙橋舞 ヨリ"
+        },
+        {
+          "id": "fujisawa-riko-hiki",
+          "member": "fujisawa-riko",
+          "name": "藤沢莉子 ヒキ"
+        },
+        {
+          "id": "fujisawa-riko-chuu",
+          "member": "fujisawa-riko",
+          "name": "藤沢莉子 チュウ"
+        },
+        {
+          "id": "fujisawa-riko-yori",
+          "member": "fujisawa-riko",
+          "name": "藤沢莉子 ヨリ"
+        },
+        {
+          "id": "murayama-yuuka-hiki",
+          "member": "murayama-yuuka",
+          "name": "村山結香 ヒキ"
+        },
+        {
+          "id": "murayama-yuuka-chuu",
+          "member": "murayama-yuuka",
+          "name": "村山結香 チュウ"
+        },
+        {
+          "id": "murayama-yuuka-yori",
+          "member": "murayama-yuuka",
+          "name": "村山結香 ヨリ"
+        },
+        {
+          "id": "yamada-momoka-hiki",
+          "member": "yamada-momoka",
+          "name": "山田杏佳 ヒキ"
+        },
+        {
+          "id": "yamada-momoka-chuu",
+          "member": "yamada-momoka",
+          "name": "山田杏佳 チュウ"
+        },
+        {
+          "id": "yamada-momoka-yori",
+          "member": "yamada-momoka",
+          "name": "山田杏佳 ヨリ"
+        },
+        {
+          "id": "yamano-arisu-hiki",
+          "member": "yamano-arisu",
+          "name": "山野愛月 ヒキ"
+        },
+        {
+          "id": "yamano-arisu-chuu",
+          "member": "yamano-arisu",
+          "name": "山野愛月 チュウ"
+        },
+        {
+          "id": "yamano-arisu-yori",
+          "member": "yamano-arisu",
+          "name": "山野愛月 ヨリ"
+        }
+      ]
+    },
     {
       "id": "2026-january",
       "name": "2026 January 「いま、月は満ちる」衣装②",
