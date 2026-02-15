@@ -13,7 +13,8 @@
     "format": "webp"
   },
   "layout": {
-    "aspectRatio": [31, 49]
+    "aspectRatio": [31, 49],
+    "columns": [3, 6, 12]
   },
   "members": [
     { "id": "ogi-hana", "name": "尾木波菜" },
