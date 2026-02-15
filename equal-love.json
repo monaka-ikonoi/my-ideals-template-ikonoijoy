@@ -13291,7 +13291,7 @@
       "id": "2023-nagisa-2s",
       "name": "齊藤なぎさ卒業記念2ショット",
       "layout": {
-        "columns": [4, 8]
+        "columns": [4]
       },
       "items": [
         {
@@ -22865,7 +22865,7 @@
       "id": "2021-nonno-2s",
       "name": "佐竹のん乃卒業記念2ショット",
       "layout": {
-        "columns": [4, 8]
+        "columns": [4]
       },
       "items": [
         {
@@ -36369,6 +36369,9 @@
     {
       "id": "2018-june-2",
       "name": "2018.June-II 台湾①",
+      "layout": {
+        "columns": [3, 5, 10]
+      },
       "items": [
         {
           "id": "otani-emiri-1-hiki",
@@ -37233,6 +37236,9 @@
     {
       "id": "2018-hanamaru",
       "name": "はなまるコラボ",
+      "layout": {
+        "columns": [3, 5, 10]
+      },
       "items": [
         {
           "id": "otani-emiri-hiki-1",
@@ -39027,6 +39033,9 @@
     {
       "id": "2017-kirarina",
       "name": "キラリナコラボ",
+      "layout": {
+        "columns": [3, 5, 10]
+      },
       "items": [
         {
           "id": "otani-emiri-hiki",
