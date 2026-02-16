@@ -127,6 +127,6 @@
 
 ## Special Thanks
 
-* かえち〖ノイミー一覧制作やさん♡〗 [@ll7kqm](https://x.com/ll7kqm)
+* かえち〖ノイミー一覧やさん♡〗[@__20190224](https://x.com/__20190224)
 * ほののん。[@hononon_LOVE48](https://x.com/hononon_LOVE48)
 * Internet Archive（Wayback Machine）
