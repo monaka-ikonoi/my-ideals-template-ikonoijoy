@@ -15,7 +15,16 @@ function splitTemplateByMember(inputPath, outputDir) {
       collections: template.collections
         .map(collection => ({
           ...collection,
-          items: collection.items.filter(item => typeof item.member === 'string' && item.member === member.id),
+          items: collection.items.reduce((acc, item) => {
+            if (typeof item.member === 'string') {
+              if (item.member === member.id) acc.push(item);
+            } else {
+              if (item.member.includes(member.id)) {
+                acc.push({ ...item, member: member.id });
+              }
+            }
+            return acc;
+          }, []),
         }))
         .filter(collection => collection.items.length > 0),
     };
@@ -34,8 +43,8 @@ function splitTemplateByMember(inputPath, outputDir) {
 const args = process.argv.slice(2);
 
 if (args.length < 2) {
-  console.error('Usage: tsx split-template.ts <input.json> <output-dir>');
-  console.error('Example: tsx split-template.ts template.json ./dist');
+  console.error('Usage: node split-template.ts <input.json> <output-dir>');
+  console.error('Example: node split-template.ts template.json ./dist');
   process.exit(1);
 }
 
