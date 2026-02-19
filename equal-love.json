@@ -1,7 +1,7 @@
 {
   "magic": "my-ideals-template",
   "version": 1,
-  "revision": 9,
+  "revision": 10,
   "id": "equal-love",
   "name": "＝LOVE 生写真",
   "description": "＝LOVE（イコールラブ/イコラブ）生写真",
@@ -34503,6 +34503,21 @@
           "id": "saito-nagisa-yori",
           "member": "saito-nagisa",
           "name": "齊藤なぎさ ヨリ"
+        },
+        {
+          "id": "sasaki-maika-hiki",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 ヒキ"
+        },
+        {
+          "id": "sasaki-maika-chuu",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 チュウ"
+        },
+        {
+          "id": "sasaki-maika-yori",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 ヨリ"
         },
         {
           "id": "satake-nonno-hiki",
