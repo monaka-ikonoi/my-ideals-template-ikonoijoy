@@ -11,6 +11,7 @@ env:
     not-equal-me-mini-photo.json,
     equal-love-id-photo.json, not-equal-me-id-photo.json
   SPLIT_LIST: equal-love.json, not-equal-me.json, nearly-equal-joy.json
+  FILTER_NORMAL_LIST: not-equal-me-mini-photo.json
   IMAGE_BASE_URL: https://my-ideals-ikonoijoy-prod.chocomonaka.dev/images
 
 jobs:
@@ -55,6 +56,19 @@ jobs:
 
             if [ "$should_split" = true ]; then
               node ./scripts/split-template.js "$out_dir/$file" "$out_dir"  
+            fi
+
+            should_filter_normal=false
+            IFS=', ' read -ra filter_normal_files <<< "$FILTER_NORMAL_LIST"
+            for filter_normal_file in "${filter_normal_files[@]}"; do
+              if [ "$file" = "$filter_normal_file" ]; then
+                should_filter_normal=true
+                break
+              fi
+            done
+
+            if [ "$should_filter_normal" = true ]; then
+              node ./scripts/filter-normal-card.js "$out_dir/$file" "$out_dir"
             fi
           done
 
