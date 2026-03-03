@@ -1,0 +1,3298 @@
+{
+  "magic": "my-ideals-template",
+  "version": 1,
+  "revision": 1,
+  "id": "equal-love-mini-photo",
+  "name": "＝LOVE ミニフォトカード",
+  "description": "＝LOVE（イコールラブ/イコラブ） ミニフォトカード",
+  "link": "https://github.com/monaka-ikonoi/my-ideals-template-ikonoijoy",
+  "author": "もなか",
+  "imageResourceType": "baseUrl",
+  "imageBaseUrl": {
+    "root": "http://localhost:3000/resources/equal-love-mini-photo",
+    "format": "webp"
+  },
+  "layout": {
+    "aspectRatio": [31, 49],
+    "columns": [3, 6, 12]
+  },
+  "members": [
+    { "id": "otani-emiri", "name": "大谷映美里" },
+    { "id": "oba-hana", "name": "大場花菜" },
+    { "id": "otoshima-risa", "name": "音嶋莉沙" },
+    { "id": "saito-kiara", "name": "齋藤樹愛羅" },
+    { "id": "sasaki-maika", "name": "佐々木舞香" },
+    { "id": "takamatsu-hitomi", "name": "髙松瞳" },
+    { "id": "takiwaki-shoko", "name": "瀧脇笙古" },
+    { "id": "noguchi-iori", "name": "野口衣織" },
+    { "id": "morohashi-sana", "name": "諸橋沙夏" },
+    { "id": "yamamoto-anna", "name": "山本杏奈" },
+    { "id": "saito-nagisa", "name": "齊藤なぎさ(卒業)" }
+  ],
+  "collections": [
+    {
+      "id": "2025-vol10",
+      "name": "2025 Vol.10",
+      "items": [
+        {
+          "id": "otani-emiri-1",
+          "member": "otani-emiri",
+          "name": "大谷映美里 1"
+        },
+        {
+          "id": "otani-emiri-2",
+          "member": "otani-emiri",
+          "name": "大谷映美里 2"
+        },
+        {
+          "id": "otani-emiri-3",
+          "member": "otani-emiri",
+          "name": "大谷映美里 3"
+        },
+        {
+          "id": "otani-emiri-4",
+          "member": "otani-emiri",
+          "name": "大谷映美里 4"
+        },
+        {
+          "id": "otani-emiri-5",
+          "member": "otani-emiri",
+          "name": "大谷映美里 5"
+        },
+        {
+          "id": "otani-emiri-rare",
+          "member": "otani-emiri",
+          "name": "大谷映美里 レア"
+        },
+        {
+          "id": "oba-hana-1",
+          "member": "oba-hana",
+          "name": "大場花菜 1"
+        },
+        {
+          "id": "oba-hana-2",
+          "member": "oba-hana",
+          "name": "大場花菜 2"
+        },
+        {
+          "id": "oba-hana-3",
+          "member": "oba-hana",
+          "name": "大場花菜 3"
+        },
+        {
+          "id": "oba-hana-4",
+          "member": "oba-hana",
+          "name": "大場花菜 4"
+        },
+        {
+          "id": "oba-hana-5",
+          "member": "oba-hana",
+          "name": "大場花菜 5"
+        },
+        {
+          "id": "oba-hana-rare",
+          "member": "oba-hana",
+          "name": "大場花菜 レア"
+        },
+        {
+          "id": "otoshima-risa-1",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 1"
+        },
+        {
+          "id": "otoshima-risa-2",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 2"
+        },
+        {
+          "id": "otoshima-risa-3",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 3"
+        },
+        {
+          "id": "otoshima-risa-4",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 4"
+        },
+        {
+          "id": "otoshima-risa-5",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 5"
+        },
+        {
+          "id": "otoshima-risa-rare",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 レア"
+        },
+        {
+          "id": "saito-kiara-1",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 1"
+        },
+        {
+          "id": "saito-kiara-2",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 2"
+        },
+        {
+          "id": "saito-kiara-3",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 3"
+        },
+        {
+          "id": "saito-kiara-4",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 4"
+        },
+        {
+          "id": "saito-kiara-5",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 5"
+        },
+        {
+          "id": "saito-kiara-rare",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 レア"
+        },
+        {
+          "id": "sasaki-maika-1",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 1"
+        },
+        {
+          "id": "sasaki-maika-2",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 2"
+        },
+        {
+          "id": "sasaki-maika-3",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 3"
+        },
+        {
+          "id": "sasaki-maika-4",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 4"
+        },
+        {
+          "id": "sasaki-maika-5",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 5"
+        },
+        {
+          "id": "sasaki-maika-rare",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 レア"
+        },
+        {
+          "id": "takamatsu-hitomi-1",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 1"
+        },
+        {
+          "id": "takamatsu-hitomi-2",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 2"
+        },
+        {
+          "id": "takamatsu-hitomi-3",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 3"
+        },
+        {
+          "id": "takamatsu-hitomi-4",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 4"
+        },
+        {
+          "id": "takamatsu-hitomi-5",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 5"
+        },
+        {
+          "id": "takamatsu-hitomi-rare",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 レア"
+        },
+        {
+          "id": "takiwaki-shoko-1",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 1"
+        },
+        {
+          "id": "takiwaki-shoko-2",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 2"
+        },
+        {
+          "id": "takiwaki-shoko-3",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 3"
+        },
+        {
+          "id": "takiwaki-shoko-4",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 4"
+        },
+        {
+          "id": "takiwaki-shoko-5",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 5"
+        },
+        {
+          "id": "takiwaki-shoko-rare",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 レア"
+        },
+        {
+          "id": "noguchi-iori-1",
+          "member": "noguchi-iori",
+          "name": "野口衣織 1"
+        },
+        {
+          "id": "noguchi-iori-2",
+          "member": "noguchi-iori",
+          "name": "野口衣織 2"
+        },
+        {
+          "id": "noguchi-iori-3",
+          "member": "noguchi-iori",
+          "name": "野口衣織 3"
+        },
+        {
+          "id": "noguchi-iori-4",
+          "member": "noguchi-iori",
+          "name": "野口衣織 4"
+        },
+        {
+          "id": "noguchi-iori-5",
+          "member": "noguchi-iori",
+          "name": "野口衣織 5"
+        },
+        {
+          "id": "noguchi-iori-rare",
+          "member": "noguchi-iori",
+          "name": "野口衣織 レア"
+        },
+        {
+          "id": "morohashi-sana-1",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 1"
+        },
+        {
+          "id": "morohashi-sana-2",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 2"
+        },
+        {
+          "id": "morohashi-sana-3",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 3"
+        },
+        {
+          "id": "morohashi-sana-4",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 4"
+        },
+        {
+          "id": "morohashi-sana-5",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 5"
+        },
+        {
+          "id": "morohashi-sana-rare",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 レア"
+        },
+        {
+          "id": "yamamoto-anna-1",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 1"
+        },
+        {
+          "id": "yamamoto-anna-2",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 2"
+        },
+        {
+          "id": "yamamoto-anna-3",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 3"
+        },
+        {
+          "id": "yamamoto-anna-4",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 4"
+        },
+        {
+          "id": "yamamoto-anna-5",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 5"
+        },
+        {
+          "id": "yamamoto-anna-rare",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 レア"
+        },
+        {
+          "id": "all-1",
+          "member": "all",
+          "name": "集合 1",
+          "rotated": true
+        },
+        {
+          "id": "all-2",
+          "member": "all",
+          "name": "集合 2",
+          "rotated": true
+        }
+      ]
+    },
+    {
+      "id": "2025-vol9",
+      "name": "2025 Vol.9",
+      "items": [
+        {
+          "id": "otani-emiri-1",
+          "member": "otani-emiri",
+          "name": "大谷映美里 1"
+        },
+        {
+          "id": "otani-emiri-2",
+          "member": "otani-emiri",
+          "name": "大谷映美里 2"
+        },
+        {
+          "id": "otani-emiri-3",
+          "member": "otani-emiri",
+          "name": "大谷映美里 3"
+        },
+        {
+          "id": "otani-emiri-4",
+          "member": "otani-emiri",
+          "name": "大谷映美里 4"
+        },
+        {
+          "id": "otani-emiri-5",
+          "member": "otani-emiri",
+          "name": "大谷映美里 5"
+        },
+        {
+          "id": "otani-emiri-rare",
+          "member": "otani-emiri",
+          "name": "大谷映美里 レア"
+        },
+        {
+          "id": "oba-hana-1",
+          "member": "oba-hana",
+          "name": "大場花菜 1"
+        },
+        {
+          "id": "oba-hana-2",
+          "member": "oba-hana",
+          "name": "大場花菜 2"
+        },
+        {
+          "id": "oba-hana-3",
+          "member": "oba-hana",
+          "name": "大場花菜 3"
+        },
+        {
+          "id": "oba-hana-4",
+          "member": "oba-hana",
+          "name": "大場花菜 4"
+        },
+        {
+          "id": "oba-hana-5",
+          "member": "oba-hana",
+          "name": "大場花菜 5"
+        },
+        {
+          "id": "oba-hana-rare",
+          "member": "oba-hana",
+          "name": "大場花菜 レア"
+        },
+        {
+          "id": "otoshima-risa-1",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 1"
+        },
+        {
+          "id": "otoshima-risa-2",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 2"
+        },
+        {
+          "id": "otoshima-risa-3",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 3"
+        },
+        {
+          "id": "otoshima-risa-4",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 4"
+        },
+        {
+          "id": "otoshima-risa-5",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 5"
+        },
+        {
+          "id": "otoshima-risa-rare",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 レア"
+        },
+        {
+          "id": "saito-kiara-1",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 1"
+        },
+        {
+          "id": "saito-kiara-2",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 2"
+        },
+        {
+          "id": "saito-kiara-3",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 3"
+        },
+        {
+          "id": "saito-kiara-4",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 4"
+        },
+        {
+          "id": "saito-kiara-5",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 5"
+        },
+        {
+          "id": "saito-kiara-rare",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 レア"
+        },
+        {
+          "id": "sasaki-maika-1",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 1"
+        },
+        {
+          "id": "sasaki-maika-2",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 2"
+        },
+        {
+          "id": "sasaki-maika-3",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 3"
+        },
+        {
+          "id": "sasaki-maika-4",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 4"
+        },
+        {
+          "id": "sasaki-maika-5",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 5"
+        },
+        {
+          "id": "sasaki-maika-rare",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 レア"
+        },
+        {
+          "id": "takamatsu-hitomi-1",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 1"
+        },
+        {
+          "id": "takamatsu-hitomi-2",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 2"
+        },
+        {
+          "id": "takamatsu-hitomi-3",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 3"
+        },
+        {
+          "id": "takamatsu-hitomi-4",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 4"
+        },
+        {
+          "id": "takamatsu-hitomi-5",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 5"
+        },
+        {
+          "id": "takamatsu-hitomi-rare",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 レア"
+        },
+        {
+          "id": "takiwaki-shoko-1",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 1"
+        },
+        {
+          "id": "takiwaki-shoko-2",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 2"
+        },
+        {
+          "id": "takiwaki-shoko-3",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 3"
+        },
+        {
+          "id": "takiwaki-shoko-4",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 4"
+        },
+        {
+          "id": "takiwaki-shoko-5",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 5"
+        },
+        {
+          "id": "takiwaki-shoko-rare",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 レア"
+        },
+        {
+          "id": "noguchi-iori-1",
+          "member": "noguchi-iori",
+          "name": "野口衣織 1"
+        },
+        {
+          "id": "noguchi-iori-2",
+          "member": "noguchi-iori",
+          "name": "野口衣織 2"
+        },
+        {
+          "id": "noguchi-iori-3",
+          "member": "noguchi-iori",
+          "name": "野口衣織 3"
+        },
+        {
+          "id": "noguchi-iori-4",
+          "member": "noguchi-iori",
+          "name": "野口衣織 4"
+        },
+        {
+          "id": "noguchi-iori-5",
+          "member": "noguchi-iori",
+          "name": "野口衣織 5"
+        },
+        {
+          "id": "noguchi-iori-rare",
+          "member": "noguchi-iori",
+          "name": "野口衣織 レア"
+        },
+        {
+          "id": "morohashi-sana-1",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 1"
+        },
+        {
+          "id": "morohashi-sana-2",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 2"
+        },
+        {
+          "id": "morohashi-sana-3",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 3"
+        },
+        {
+          "id": "morohashi-sana-4",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 4"
+        },
+        {
+          "id": "morohashi-sana-5",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 5"
+        },
+        {
+          "id": "morohashi-sana-rare",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 レア"
+        },
+        {
+          "id": "yamamoto-anna-1",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 1"
+        },
+        {
+          "id": "yamamoto-anna-2",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 2"
+        },
+        {
+          "id": "yamamoto-anna-3",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 3"
+        },
+        {
+          "id": "yamamoto-anna-4",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 4"
+        },
+        {
+          "id": "yamamoto-anna-5",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 5"
+        },
+        {
+          "id": "yamamoto-anna-rare",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 レア"
+        },
+        {
+          "id": "all-1",
+          "member": "all",
+          "name": "集合 1",
+          "rotated": true
+        },
+        {
+          "id": "all-2",
+          "member": "all",
+          "name": "集合 2",
+          "rotated": true
+        },
+        {
+          "id": "all-3",
+          "member": "all",
+          "name": "集合 3",
+          "rotated": true
+        },
+        {
+          "id": "all-4",
+          "member": "all",
+          "name": "集合 4",
+          "rotated": true
+        }
+      ]
+    },
+    {
+      "id": "2025-vol8",
+      "name": "2025 Vol.8",
+      "items": [
+        {
+          "id": "otani-emiri-1",
+          "member": "otani-emiri",
+          "name": "大谷映美里 1"
+        },
+        {
+          "id": "otani-emiri-2",
+          "member": "otani-emiri",
+          "name": "大谷映美里 2"
+        },
+        {
+          "id": "otani-emiri-3",
+          "member": "otani-emiri",
+          "name": "大谷映美里 3"
+        },
+        {
+          "id": "otani-emiri-4",
+          "member": "otani-emiri",
+          "name": "大谷映美里 4"
+        },
+        {
+          "id": "otani-emiri-5",
+          "member": "otani-emiri",
+          "name": "大谷映美里 5"
+        },
+        {
+          "id": "otani-emiri-rare",
+          "member": "otani-emiri",
+          "name": "大谷映美里 レア"
+        },
+        {
+          "id": "oba-hana-1",
+          "member": "oba-hana",
+          "name": "大場花菜 1"
+        },
+        {
+          "id": "oba-hana-2",
+          "member": "oba-hana",
+          "name": "大場花菜 2"
+        },
+        {
+          "id": "oba-hana-3",
+          "member": "oba-hana",
+          "name": "大場花菜 3"
+        },
+        {
+          "id": "oba-hana-4",
+          "member": "oba-hana",
+          "name": "大場花菜 4"
+        },
+        {
+          "id": "oba-hana-5",
+          "member": "oba-hana",
+          "name": "大場花菜 5"
+        },
+        {
+          "id": "oba-hana-rare",
+          "member": "oba-hana",
+          "name": "大場花菜 レア"
+        },
+        {
+          "id": "otoshima-risa-1",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 1"
+        },
+        {
+          "id": "otoshima-risa-2",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 2"
+        },
+        {
+          "id": "otoshima-risa-3",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 3"
+        },
+        {
+          "id": "otoshima-risa-4",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 4"
+        },
+        {
+          "id": "otoshima-risa-5",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 5"
+        },
+        {
+          "id": "otoshima-risa-rare",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 レア"
+        },
+        {
+          "id": "saito-kiara-1",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 1"
+        },
+        {
+          "id": "saito-kiara-2",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 2"
+        },
+        {
+          "id": "saito-kiara-3",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 3"
+        },
+        {
+          "id": "saito-kiara-4",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 4"
+        },
+        {
+          "id": "saito-kiara-5",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 5"
+        },
+        {
+          "id": "saito-kiara-rare",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 レア"
+        },
+        {
+          "id": "sasaki-maika-1",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 1"
+        },
+        {
+          "id": "sasaki-maika-2",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 2"
+        },
+        {
+          "id": "sasaki-maika-3",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 3"
+        },
+        {
+          "id": "sasaki-maika-4",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 4"
+        },
+        {
+          "id": "sasaki-maika-5",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 5"
+        },
+        {
+          "id": "sasaki-maika-rare",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 レア"
+        },
+        {
+          "id": "takamatsu-hitomi-1",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 1"
+        },
+        {
+          "id": "takamatsu-hitomi-2",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 2"
+        },
+        {
+          "id": "takamatsu-hitomi-3",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 3"
+        },
+        {
+          "id": "takamatsu-hitomi-4",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 4"
+        },
+        {
+          "id": "takamatsu-hitomi-5",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 5"
+        },
+        {
+          "id": "takamatsu-hitomi-rare",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 レア"
+        },
+        {
+          "id": "takiwaki-shoko-1",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 1"
+        },
+        {
+          "id": "takiwaki-shoko-2",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 2"
+        },
+        {
+          "id": "takiwaki-shoko-3",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 3"
+        },
+        {
+          "id": "takiwaki-shoko-4",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 4"
+        },
+        {
+          "id": "takiwaki-shoko-5",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 5"
+        },
+        {
+          "id": "takiwaki-shoko-rare",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 レア"
+        },
+        {
+          "id": "noguchi-iori-1",
+          "member": "noguchi-iori",
+          "name": "野口衣織 1"
+        },
+        {
+          "id": "noguchi-iori-2",
+          "member": "noguchi-iori",
+          "name": "野口衣織 2"
+        },
+        {
+          "id": "noguchi-iori-3",
+          "member": "noguchi-iori",
+          "name": "野口衣織 3"
+        },
+        {
+          "id": "noguchi-iori-4",
+          "member": "noguchi-iori",
+          "name": "野口衣織 4"
+        },
+        {
+          "id": "noguchi-iori-5",
+          "member": "noguchi-iori",
+          "name": "野口衣織 5"
+        },
+        {
+          "id": "noguchi-iori-rare",
+          "member": "noguchi-iori",
+          "name": "野口衣織 レア"
+        },
+        {
+          "id": "morohashi-sana-1",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 1"
+        },
+        {
+          "id": "morohashi-sana-2",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 2"
+        },
+        {
+          "id": "morohashi-sana-3",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 3"
+        },
+        {
+          "id": "morohashi-sana-4",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 4"
+        },
+        {
+          "id": "morohashi-sana-5",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 5"
+        },
+        {
+          "id": "morohashi-sana-rare",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 レア"
+        },
+        {
+          "id": "yamamoto-anna-1",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 1"
+        },
+        {
+          "id": "yamamoto-anna-2",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 2"
+        },
+        {
+          "id": "yamamoto-anna-3",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 3"
+        },
+        {
+          "id": "yamamoto-anna-4",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 4"
+        },
+        {
+          "id": "yamamoto-anna-5",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 5"
+        },
+        {
+          "id": "yamamoto-anna-rare",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 レア"
+        },
+        {
+          "id": "all-1",
+          "member": "all",
+          "name": "集合 1",
+          "rotated": true
+        },
+        {
+          "id": "all-2",
+          "member": "all",
+          "name": "集合 2",
+          "rotated": true
+        }
+      ]
+    },
+    {
+      "id": "2024-vol7",
+      "name": "2024 Vol.7",
+      "items": [
+        {
+          "id": "otani-emiri-1",
+          "member": "otani-emiri",
+          "name": "大谷映美里 1"
+        },
+        {
+          "id": "otani-emiri-2",
+          "member": "otani-emiri",
+          "name": "大谷映美里 2"
+        },
+        {
+          "id": "otani-emiri-3",
+          "member": "otani-emiri",
+          "name": "大谷映美里 3"
+        },
+        {
+          "id": "otani-emiri-4",
+          "member": "otani-emiri",
+          "name": "大谷映美里 4"
+        },
+        {
+          "id": "otani-emiri-5",
+          "member": "otani-emiri",
+          "name": "大谷映美里 5"
+        },
+        {
+          "id": "otani-emiri-rare",
+          "member": "otani-emiri",
+          "name": "大谷映美里 レア"
+        },
+        {
+          "id": "oba-hana-1",
+          "member": "oba-hana",
+          "name": "大場花菜 1"
+        },
+        {
+          "id": "oba-hana-2",
+          "member": "oba-hana",
+          "name": "大場花菜 2"
+        },
+        {
+          "id": "oba-hana-3",
+          "member": "oba-hana",
+          "name": "大場花菜 3"
+        },
+        {
+          "id": "oba-hana-4",
+          "member": "oba-hana",
+          "name": "大場花菜 4"
+        },
+        {
+          "id": "oba-hana-5",
+          "member": "oba-hana",
+          "name": "大場花菜 5"
+        },
+        {
+          "id": "oba-hana-rare",
+          "member": "oba-hana",
+          "name": "大場花菜 レア"
+        },
+        {
+          "id": "otoshima-risa-1",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 1"
+        },
+        {
+          "id": "otoshima-risa-2",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 2"
+        },
+        {
+          "id": "otoshima-risa-3",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 3"
+        },
+        {
+          "id": "otoshima-risa-4",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 4"
+        },
+        {
+          "id": "otoshima-risa-5",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 5"
+        },
+        {
+          "id": "otoshima-risa-rare",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 レア"
+        },
+        {
+          "id": "saito-kiara-1",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 1"
+        },
+        {
+          "id": "saito-kiara-2",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 2"
+        },
+        {
+          "id": "saito-kiara-3",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 3"
+        },
+        {
+          "id": "saito-kiara-4",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 4"
+        },
+        {
+          "id": "saito-kiara-5",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 5"
+        },
+        {
+          "id": "saito-kiara-rare",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 レア"
+        },
+        {
+          "id": "sasaki-maika-1",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 1"
+        },
+        {
+          "id": "sasaki-maika-2",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 2"
+        },
+        {
+          "id": "sasaki-maika-3",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 3"
+        },
+        {
+          "id": "sasaki-maika-4",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 4"
+        },
+        {
+          "id": "sasaki-maika-5",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 5"
+        },
+        {
+          "id": "sasaki-maika-rare",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 レア"
+        },
+        {
+          "id": "takamatsu-hitomi-1",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 1"
+        },
+        {
+          "id": "takamatsu-hitomi-2",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 2"
+        },
+        {
+          "id": "takamatsu-hitomi-3",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 3"
+        },
+        {
+          "id": "takamatsu-hitomi-4",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 4"
+        },
+        {
+          "id": "takamatsu-hitomi-5",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 5"
+        },
+        {
+          "id": "takamatsu-hitomi-rare",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 レア"
+        },
+        {
+          "id": "takiwaki-shoko-1",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 1"
+        },
+        {
+          "id": "takiwaki-shoko-2",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 2"
+        },
+        {
+          "id": "takiwaki-shoko-3",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 3"
+        },
+        {
+          "id": "takiwaki-shoko-4",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 4"
+        },
+        {
+          "id": "takiwaki-shoko-5",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 5"
+        },
+        {
+          "id": "takiwaki-shoko-rare",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 レア"
+        },
+        {
+          "id": "noguchi-iori-1",
+          "member": "noguchi-iori",
+          "name": "野口衣織 1"
+        },
+        {
+          "id": "noguchi-iori-2",
+          "member": "noguchi-iori",
+          "name": "野口衣織 2"
+        },
+        {
+          "id": "noguchi-iori-3",
+          "member": "noguchi-iori",
+          "name": "野口衣織 3"
+        },
+        {
+          "id": "noguchi-iori-4",
+          "member": "noguchi-iori",
+          "name": "野口衣織 4"
+        },
+        {
+          "id": "noguchi-iori-5",
+          "member": "noguchi-iori",
+          "name": "野口衣織 5"
+        },
+        {
+          "id": "noguchi-iori-rare",
+          "member": "noguchi-iori",
+          "name": "野口衣織 レア"
+        },
+        {
+          "id": "morohashi-sana-1",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 1"
+        },
+        {
+          "id": "morohashi-sana-2",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 2"
+        },
+        {
+          "id": "morohashi-sana-3",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 3"
+        },
+        {
+          "id": "morohashi-sana-4",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 4"
+        },
+        {
+          "id": "morohashi-sana-5",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 5"
+        },
+        {
+          "id": "morohashi-sana-rare",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 レア"
+        },
+        {
+          "id": "yamamoto-anna-1",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 1"
+        },
+        {
+          "id": "yamamoto-anna-2",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 2"
+        },
+        {
+          "id": "yamamoto-anna-3",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 3"
+        },
+        {
+          "id": "yamamoto-anna-4",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 4"
+        },
+        {
+          "id": "yamamoto-anna-5",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 5"
+        },
+        {
+          "id": "yamamoto-anna-rare",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 レア"
+        },
+        {
+          "id": "all-1",
+          "member": "all",
+          "name": "集合 1",
+          "rotated": true
+        },
+        {
+          "id": "all-2",
+          "member": "all",
+          "name": "集合 2",
+          "rotated": true
+        }
+      ]
+    },
+    {
+      "id": "2024-vol6",
+      "name": "2024 Vol.6",
+      "items": [
+        {
+          "id": "otani-emiri-1",
+          "member": "otani-emiri",
+          "name": "大谷映美里 1"
+        },
+        {
+          "id": "otani-emiri-2",
+          "member": "otani-emiri",
+          "name": "大谷映美里 2"
+        },
+        {
+          "id": "otani-emiri-3",
+          "member": "otani-emiri",
+          "name": "大谷映美里 3"
+        },
+        {
+          "id": "otani-emiri-4",
+          "member": "otani-emiri",
+          "name": "大谷映美里 4"
+        },
+        {
+          "id": "otani-emiri-5",
+          "member": "otani-emiri",
+          "name": "大谷映美里 5"
+        },
+        {
+          "id": "otani-emiri-rare",
+          "member": "otani-emiri",
+          "name": "大谷映美里 レア"
+        },
+        {
+          "id": "oba-hana-1",
+          "member": "oba-hana",
+          "name": "大場花菜 1"
+        },
+        {
+          "id": "oba-hana-2",
+          "member": "oba-hana",
+          "name": "大場花菜 2"
+        },
+        {
+          "id": "oba-hana-3",
+          "member": "oba-hana",
+          "name": "大場花菜 3"
+        },
+        {
+          "id": "oba-hana-4",
+          "member": "oba-hana",
+          "name": "大場花菜 4"
+        },
+        {
+          "id": "oba-hana-5",
+          "member": "oba-hana",
+          "name": "大場花菜 5"
+        },
+        {
+          "id": "oba-hana-rare",
+          "member": "oba-hana",
+          "name": "大場花菜 レア"
+        },
+        {
+          "id": "otoshima-risa-1",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 1"
+        },
+        {
+          "id": "otoshima-risa-2",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 2"
+        },
+        {
+          "id": "otoshima-risa-3",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 3"
+        },
+        {
+          "id": "otoshima-risa-4",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 4"
+        },
+        {
+          "id": "otoshima-risa-5",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 5"
+        },
+        {
+          "id": "otoshima-risa-rare",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 レア"
+        },
+        {
+          "id": "saito-kiara-1",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 1"
+        },
+        {
+          "id": "saito-kiara-2",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 2"
+        },
+        {
+          "id": "saito-kiara-3",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 3"
+        },
+        {
+          "id": "saito-kiara-4",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 4"
+        },
+        {
+          "id": "saito-kiara-5",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 5"
+        },
+        {
+          "id": "saito-kiara-rare",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 レア"
+        },
+        {
+          "id": "sasaki-maika-1",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 1"
+        },
+        {
+          "id": "sasaki-maika-2",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 2"
+        },
+        {
+          "id": "sasaki-maika-3",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 3"
+        },
+        {
+          "id": "sasaki-maika-4",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 4"
+        },
+        {
+          "id": "sasaki-maika-5",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 5"
+        },
+        {
+          "id": "sasaki-maika-rare",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 レア"
+        },
+        {
+          "id": "takamatsu-hitomi-1",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 1"
+        },
+        {
+          "id": "takamatsu-hitomi-2",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 2"
+        },
+        {
+          "id": "takamatsu-hitomi-3",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 3"
+        },
+        {
+          "id": "takamatsu-hitomi-4",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 4"
+        },
+        {
+          "id": "takamatsu-hitomi-5",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 5"
+        },
+        {
+          "id": "takamatsu-hitomi-rare",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 レア"
+        },
+        {
+          "id": "takiwaki-shoko-1",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 1"
+        },
+        {
+          "id": "takiwaki-shoko-2",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 2"
+        },
+        {
+          "id": "takiwaki-shoko-3",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 3"
+        },
+        {
+          "id": "takiwaki-shoko-4",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 4"
+        },
+        {
+          "id": "takiwaki-shoko-5",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 5"
+        },
+        {
+          "id": "takiwaki-shoko-rare",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 レア"
+        },
+        {
+          "id": "noguchi-iori-1",
+          "member": "noguchi-iori",
+          "name": "野口衣織 1"
+        },
+        {
+          "id": "noguchi-iori-2",
+          "member": "noguchi-iori",
+          "name": "野口衣織 2"
+        },
+        {
+          "id": "noguchi-iori-3",
+          "member": "noguchi-iori",
+          "name": "野口衣織 3"
+        },
+        {
+          "id": "noguchi-iori-4",
+          "member": "noguchi-iori",
+          "name": "野口衣織 4"
+        },
+        {
+          "id": "noguchi-iori-5",
+          "member": "noguchi-iori",
+          "name": "野口衣織 5"
+        },
+        {
+          "id": "noguchi-iori-rare",
+          "member": "noguchi-iori",
+          "name": "野口衣織 レア"
+        },
+        {
+          "id": "morohashi-sana-1",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 1"
+        },
+        {
+          "id": "morohashi-sana-2",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 2"
+        },
+        {
+          "id": "morohashi-sana-3",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 3"
+        },
+        {
+          "id": "morohashi-sana-4",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 4"
+        },
+        {
+          "id": "morohashi-sana-5",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 5"
+        },
+        {
+          "id": "morohashi-sana-rare",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 レア"
+        },
+        {
+          "id": "yamamoto-anna-1",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 1"
+        },
+        {
+          "id": "yamamoto-anna-2",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 2"
+        },
+        {
+          "id": "yamamoto-anna-3",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 3"
+        },
+        {
+          "id": "yamamoto-anna-4",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 4"
+        },
+        {
+          "id": "yamamoto-anna-5",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 5"
+        },
+        {
+          "id": "yamamoto-anna-rare",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 レア"
+        },
+        {
+          "id": "all-1",
+          "member": "all",
+          "name": "集合 1",
+          "rotated": true
+        },
+        {
+          "id": "all-2",
+          "member": "all",
+          "name": "集合 2",
+          "rotated": true
+        },
+        {
+          "id": "all-3",
+          "member": "all",
+          "name": "集合 3",
+          "rotated": true
+        },
+        {
+          "id": "all-4",
+          "member": "all",
+          "name": "集合 4",
+          "rotated": true
+        },
+        {
+          "id": "all-5",
+          "member": "all",
+          "name": "集合 5",
+          "rotated": true
+        }
+      ]
+    },
+    {
+      "id": "2023-vol5",
+      "name": "2023 Vol.5",
+      "items": [
+        {
+          "id": "otani-emiri-1",
+          "member": "otani-emiri",
+          "name": "大谷映美里 1"
+        },
+        {
+          "id": "otani-emiri-2",
+          "member": "otani-emiri",
+          "name": "大谷映美里 2"
+        },
+        {
+          "id": "otani-emiri-3",
+          "member": "otani-emiri",
+          "name": "大谷映美里 3"
+        },
+        {
+          "id": "otani-emiri-4",
+          "member": "otani-emiri",
+          "name": "大谷映美里 4"
+        },
+        {
+          "id": "otani-emiri-5",
+          "member": "otani-emiri",
+          "name": "大谷映美里 5"
+        },
+        {
+          "id": "otani-emiri-rare",
+          "member": "otani-emiri",
+          "name": "大谷映美里 レア"
+        },
+        {
+          "id": "oba-hana-1",
+          "member": "oba-hana",
+          "name": "大場花菜 1"
+        },
+        {
+          "id": "oba-hana-2",
+          "member": "oba-hana",
+          "name": "大場花菜 2"
+        },
+        {
+          "id": "oba-hana-3",
+          "member": "oba-hana",
+          "name": "大場花菜 3"
+        },
+        {
+          "id": "oba-hana-4",
+          "member": "oba-hana",
+          "name": "大場花菜 4"
+        },
+        {
+          "id": "oba-hana-5",
+          "member": "oba-hana",
+          "name": "大場花菜 5"
+        },
+        {
+          "id": "oba-hana-rare",
+          "member": "oba-hana",
+          "name": "大場花菜 レア"
+        },
+        {
+          "id": "otoshima-risa-1",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 1"
+        },
+        {
+          "id": "otoshima-risa-2",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 2"
+        },
+        {
+          "id": "otoshima-risa-3",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 3"
+        },
+        {
+          "id": "otoshima-risa-4",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 4"
+        },
+        {
+          "id": "otoshima-risa-5",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 5"
+        },
+        {
+          "id": "otoshima-risa-rare",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 レア"
+        },
+        {
+          "id": "saito-kiara-1",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 1"
+        },
+        {
+          "id": "saito-kiara-2",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 2"
+        },
+        {
+          "id": "saito-kiara-3",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 3"
+        },
+        {
+          "id": "saito-kiara-4",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 4"
+        },
+        {
+          "id": "saito-kiara-5",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 5"
+        },
+        {
+          "id": "saito-kiara-rare",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 レア"
+        },
+        {
+          "id": "sasaki-maika-1",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 1"
+        },
+        {
+          "id": "sasaki-maika-2",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 2"
+        },
+        {
+          "id": "sasaki-maika-3",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 3"
+        },
+        {
+          "id": "sasaki-maika-4",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 4"
+        },
+        {
+          "id": "sasaki-maika-5",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 5"
+        },
+        {
+          "id": "sasaki-maika-rare",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 レア"
+        },
+        {
+          "id": "takamatsu-hitomi-1",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 1"
+        },
+        {
+          "id": "takamatsu-hitomi-2",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 2"
+        },
+        {
+          "id": "takamatsu-hitomi-3",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 3"
+        },
+        {
+          "id": "takamatsu-hitomi-4",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 4"
+        },
+        {
+          "id": "takamatsu-hitomi-5",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 5"
+        },
+        {
+          "id": "takamatsu-hitomi-rare",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 レア"
+        },
+        {
+          "id": "takiwaki-shoko-1",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 1"
+        },
+        {
+          "id": "takiwaki-shoko-2",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 2"
+        },
+        {
+          "id": "takiwaki-shoko-3",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 3"
+        },
+        {
+          "id": "takiwaki-shoko-4",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 4"
+        },
+        {
+          "id": "takiwaki-shoko-5",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 5"
+        },
+        {
+          "id": "takiwaki-shoko-rare",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 レア"
+        },
+        {
+          "id": "noguchi-iori-1",
+          "member": "noguchi-iori",
+          "name": "野口衣織 1"
+        },
+        {
+          "id": "noguchi-iori-2",
+          "member": "noguchi-iori",
+          "name": "野口衣織 2"
+        },
+        {
+          "id": "noguchi-iori-3",
+          "member": "noguchi-iori",
+          "name": "野口衣織 3"
+        },
+        {
+          "id": "noguchi-iori-4",
+          "member": "noguchi-iori",
+          "name": "野口衣織 4"
+        },
+        {
+          "id": "noguchi-iori-5",
+          "member": "noguchi-iori",
+          "name": "野口衣織 5"
+        },
+        {
+          "id": "noguchi-iori-rare",
+          "member": "noguchi-iori",
+          "name": "野口衣織 レア"
+        },
+        {
+          "id": "morohashi-sana-1",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 1"
+        },
+        {
+          "id": "morohashi-sana-2",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 2"
+        },
+        {
+          "id": "morohashi-sana-3",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 3"
+        },
+        {
+          "id": "morohashi-sana-4",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 4"
+        },
+        {
+          "id": "morohashi-sana-5",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 5"
+        },
+        {
+          "id": "morohashi-sana-rare",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 レア"
+        },
+        {
+          "id": "yamamoto-anna-1",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 1"
+        },
+        {
+          "id": "yamamoto-anna-2",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 2"
+        },
+        {
+          "id": "yamamoto-anna-3",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 3"
+        },
+        {
+          "id": "yamamoto-anna-4",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 4"
+        },
+        {
+          "id": "yamamoto-anna-5",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 5"
+        },
+        {
+          "id": "yamamoto-anna-rare",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 レア"
+        },
+        {
+          "id": "all-1",
+          "member": "all",
+          "name": "集合 1",
+          "rotated": true
+        },
+        {
+          "id": "all-2",
+          "member": "all",
+          "name": "集合 2",
+          "rotated": true
+        },
+        {
+          "id": "all-3",
+          "member": "all",
+          "name": "集合 3",
+          "rotated": true
+        }
+      ]
+    },
+    {
+      "id": "2023-vol4",
+      "name": "2023 Vol.4",
+      "items": [
+        {
+          "id": "otani-emiri-1",
+          "member": "otani-emiri",
+          "name": "大谷映美里 1"
+        },
+        {
+          "id": "otani-emiri-2",
+          "member": "otani-emiri",
+          "name": "大谷映美里 2"
+        },
+        {
+          "id": "otani-emiri-3",
+          "member": "otani-emiri",
+          "name": "大谷映美里 3"
+        },
+        {
+          "id": "otani-emiri-4",
+          "member": "otani-emiri",
+          "name": "大谷映美里 4"
+        },
+        {
+          "id": "otani-emiri-5",
+          "member": "otani-emiri",
+          "name": "大谷映美里 5"
+        },
+        {
+          "id": "otani-emiri-rare",
+          "member": "otani-emiri",
+          "name": "大谷映美里 レア"
+        },
+        {
+          "id": "oba-hana-1",
+          "member": "oba-hana",
+          "name": "大場花菜 1"
+        },
+        {
+          "id": "oba-hana-2",
+          "member": "oba-hana",
+          "name": "大場花菜 2"
+        },
+        {
+          "id": "oba-hana-3",
+          "member": "oba-hana",
+          "name": "大場花菜 3"
+        },
+        {
+          "id": "oba-hana-4",
+          "member": "oba-hana",
+          "name": "大場花菜 4"
+        },
+        {
+          "id": "oba-hana-5",
+          "member": "oba-hana",
+          "name": "大場花菜 5"
+        },
+        {
+          "id": "oba-hana-rare",
+          "member": "oba-hana",
+          "name": "大場花菜 レア"
+        },
+        {
+          "id": "otoshima-risa-1",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 1"
+        },
+        {
+          "id": "otoshima-risa-2",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 2"
+        },
+        {
+          "id": "otoshima-risa-3",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 3"
+        },
+        {
+          "id": "otoshima-risa-4",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 4"
+        },
+        {
+          "id": "otoshima-risa-5",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 5"
+        },
+        {
+          "id": "otoshima-risa-rare",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 レア"
+        },
+        {
+          "id": "saito-kiara-1",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 1"
+        },
+        {
+          "id": "saito-kiara-2",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 2"
+        },
+        {
+          "id": "saito-kiara-3",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 3"
+        },
+        {
+          "id": "saito-kiara-4",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 4"
+        },
+        {
+          "id": "saito-kiara-5",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 5"
+        },
+        {
+          "id": "saito-kiara-rare",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 レア"
+        },
+        {
+          "id": "sasaki-maika-1",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 1"
+        },
+        {
+          "id": "sasaki-maika-2",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 2"
+        },
+        {
+          "id": "sasaki-maika-3",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 3"
+        },
+        {
+          "id": "sasaki-maika-4",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 4"
+        },
+        {
+          "id": "sasaki-maika-5",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 5"
+        },
+        {
+          "id": "sasaki-maika-rare",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 レア"
+        },
+        {
+          "id": "takamatsu-hitomi-1",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 1"
+        },
+        {
+          "id": "takamatsu-hitomi-2",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 2"
+        },
+        {
+          "id": "takamatsu-hitomi-3",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 3"
+        },
+        {
+          "id": "takamatsu-hitomi-4",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 4"
+        },
+        {
+          "id": "takamatsu-hitomi-5",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 5"
+        },
+        {
+          "id": "takamatsu-hitomi-rare",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 レア"
+        },
+        {
+          "id": "takiwaki-shoko-1",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 1"
+        },
+        {
+          "id": "takiwaki-shoko-2",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 2"
+        },
+        {
+          "id": "takiwaki-shoko-3",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 3"
+        },
+        {
+          "id": "takiwaki-shoko-4",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 4"
+        },
+        {
+          "id": "takiwaki-shoko-5",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 5"
+        },
+        {
+          "id": "takiwaki-shoko-rare",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 レア"
+        },
+        {
+          "id": "noguchi-iori-1",
+          "member": "noguchi-iori",
+          "name": "野口衣織 1"
+        },
+        {
+          "id": "noguchi-iori-2",
+          "member": "noguchi-iori",
+          "name": "野口衣織 2"
+        },
+        {
+          "id": "noguchi-iori-3",
+          "member": "noguchi-iori",
+          "name": "野口衣織 3"
+        },
+        {
+          "id": "noguchi-iori-4",
+          "member": "noguchi-iori",
+          "name": "野口衣織 4"
+        },
+        {
+          "id": "noguchi-iori-5",
+          "member": "noguchi-iori",
+          "name": "野口衣織 5"
+        },
+        {
+          "id": "noguchi-iori-rare",
+          "member": "noguchi-iori",
+          "name": "野口衣織 レア"
+        },
+        {
+          "id": "morohashi-sana-1",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 1"
+        },
+        {
+          "id": "morohashi-sana-2",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 2"
+        },
+        {
+          "id": "morohashi-sana-3",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 3"
+        },
+        {
+          "id": "morohashi-sana-4",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 4"
+        },
+        {
+          "id": "morohashi-sana-5",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 5"
+        },
+        {
+          "id": "morohashi-sana-rare",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 レア"
+        },
+        {
+          "id": "yamamoto-anna-1",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 1"
+        },
+        {
+          "id": "yamamoto-anna-2",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 2"
+        },
+        {
+          "id": "yamamoto-anna-3",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 3"
+        },
+        {
+          "id": "yamamoto-anna-4",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 4"
+        },
+        {
+          "id": "yamamoto-anna-5",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 5"
+        },
+        {
+          "id": "yamamoto-anna-rare",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 レア"
+        },
+        {
+          "id": "all-1",
+          "member": "all",
+          "name": "集合 1",
+          "rotated": true
+        },
+        {
+          "id": "all-2",
+          "member": "all",
+          "name": "集合 2",
+          "rotated": true
+        }
+      ]
+    },
+    {
+      "id": "2022-vol3",
+      "name": "2022 Vol.3",
+      "items": [
+        {
+          "id": "otani-emiri-1",
+          "member": "otani-emiri",
+          "name": "大谷映美里 1"
+        },
+        {
+          "id": "otani-emiri-2",
+          "member": "otani-emiri",
+          "name": "大谷映美里 2"
+        },
+        {
+          "id": "otani-emiri-3",
+          "member": "otani-emiri",
+          "name": "大谷映美里 3"
+        },
+        {
+          "id": "otani-emiri-4",
+          "member": "otani-emiri",
+          "name": "大谷映美里 4"
+        },
+        {
+          "id": "otani-emiri-5",
+          "member": "otani-emiri",
+          "name": "大谷映美里 5"
+        },
+        {
+          "id": "otani-emiri-rare",
+          "member": "otani-emiri",
+          "name": "大谷映美里 レア"
+        },
+        {
+          "id": "oba-hana-1",
+          "member": "oba-hana",
+          "name": "大場花菜 1"
+        },
+        {
+          "id": "oba-hana-2",
+          "member": "oba-hana",
+          "name": "大場花菜 2"
+        },
+        {
+          "id": "oba-hana-3",
+          "member": "oba-hana",
+          "name": "大場花菜 3"
+        },
+        {
+          "id": "oba-hana-4",
+          "member": "oba-hana",
+          "name": "大場花菜 4"
+        },
+        {
+          "id": "oba-hana-5",
+          "member": "oba-hana",
+          "name": "大場花菜 5"
+        },
+        {
+          "id": "oba-hana-rare",
+          "member": "oba-hana",
+          "name": "大場花菜 レア"
+        },
+        {
+          "id": "otoshima-risa-1",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 1"
+        },
+        {
+          "id": "otoshima-risa-2",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 2"
+        },
+        {
+          "id": "otoshima-risa-3",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 3"
+        },
+        {
+          "id": "otoshima-risa-4",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 4"
+        },
+        {
+          "id": "otoshima-risa-5",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 5"
+        },
+        {
+          "id": "otoshima-risa-rare",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 レア"
+        },
+        {
+          "id": "saito-kiara-1",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 1"
+        },
+        {
+          "id": "saito-kiara-2",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 2"
+        },
+        {
+          "id": "saito-kiara-3",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 3"
+        },
+        {
+          "id": "saito-kiara-4",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 4"
+        },
+        {
+          "id": "saito-kiara-5",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 5"
+        },
+        {
+          "id": "saito-kiara-rare",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 レア"
+        },
+        {
+          "id": "saito-nagisa-1",
+          "member": "saito-nagisa",
+          "name": "齊藤なぎさ 1"
+        },
+        {
+          "id": "saito-nagisa-2",
+          "member": "saito-nagisa",
+          "name": "齊藤なぎさ 2"
+        },
+        {
+          "id": "saito-nagisa-3",
+          "member": "saito-nagisa",
+          "name": "齊藤なぎさ 3"
+        },
+        {
+          "id": "saito-nagisa-4",
+          "member": "saito-nagisa",
+          "name": "齊藤なぎさ 4"
+        },
+        {
+          "id": "saito-nagisa-5",
+          "member": "saito-nagisa",
+          "name": "齊藤なぎさ 5"
+        },
+        {
+          "id": "saito-nagisa-rare",
+          "member": "saito-nagisa",
+          "name": "齊藤なぎさ レア"
+        },
+        {
+          "id": "sasaki-maika-1",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 1"
+        },
+        {
+          "id": "sasaki-maika-2",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 2"
+        },
+        {
+          "id": "sasaki-maika-3",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 3"
+        },
+        {
+          "id": "sasaki-maika-4",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 4"
+        },
+        {
+          "id": "sasaki-maika-5",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 5"
+        },
+        {
+          "id": "sasaki-maika-rare",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 レア"
+        },
+        {
+          "id": "takamatsu-hitomi-1",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 1"
+        },
+        {
+          "id": "takamatsu-hitomi-2",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 2"
+        },
+        {
+          "id": "takamatsu-hitomi-3",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 3"
+        },
+        {
+          "id": "takamatsu-hitomi-4",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 4"
+        },
+        {
+          "id": "takamatsu-hitomi-5",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 5"
+        },
+        {
+          "id": "takamatsu-hitomi-rare",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 レア"
+        },
+        {
+          "id": "takiwaki-shoko-1",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 1"
+        },
+        {
+          "id": "takiwaki-shoko-2",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 2"
+        },
+        {
+          "id": "takiwaki-shoko-3",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 3"
+        },
+        {
+          "id": "takiwaki-shoko-4",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 4"
+        },
+        {
+          "id": "takiwaki-shoko-5",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 5"
+        },
+        {
+          "id": "takiwaki-shoko-rare",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 レア"
+        },
+        {
+          "id": "noguchi-iori-1",
+          "member": "noguchi-iori",
+          "name": "野口衣織 1"
+        },
+        {
+          "id": "noguchi-iori-2",
+          "member": "noguchi-iori",
+          "name": "野口衣織 2"
+        },
+        {
+          "id": "noguchi-iori-3",
+          "member": "noguchi-iori",
+          "name": "野口衣織 3"
+        },
+        {
+          "id": "noguchi-iori-4",
+          "member": "noguchi-iori",
+          "name": "野口衣織 4"
+        },
+        {
+          "id": "noguchi-iori-5",
+          "member": "noguchi-iori",
+          "name": "野口衣織 5"
+        },
+        {
+          "id": "noguchi-iori-rare",
+          "member": "noguchi-iori",
+          "name": "野口衣織 レア"
+        },
+        {
+          "id": "morohashi-sana-1",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 1"
+        },
+        {
+          "id": "morohashi-sana-2",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 2"
+        },
+        {
+          "id": "morohashi-sana-3",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 3"
+        },
+        {
+          "id": "morohashi-sana-4",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 4"
+        },
+        {
+          "id": "morohashi-sana-5",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 5"
+        },
+        {
+          "id": "morohashi-sana-rare",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 レア"
+        },
+        {
+          "id": "yamamoto-anna-1",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 1"
+        },
+        {
+          "id": "yamamoto-anna-2",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 2"
+        },
+        {
+          "id": "yamamoto-anna-3",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 3"
+        },
+        {
+          "id": "yamamoto-anna-4",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 4"
+        },
+        {
+          "id": "yamamoto-anna-5",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 5"
+        },
+        {
+          "id": "yamamoto-anna-rare",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 レア"
+        },
+        {
+          "id": "all-1",
+          "member": "all",
+          "name": "集合 1",
+          "rotated": true
+        },
+        {
+          "id": "all-2",
+          "member": "all",
+          "name": "集合 2",
+          "rotated": true
+        },
+        {
+          "id": "all-3",
+          "member": "all",
+          "name": "集合 3",
+          "rotated": true
+        }
+      ]
+    },
+    {
+      "id": "2022-vol2",
+      "name": "2022 Vol.2",
+      "items": [
+        {
+          "id": "otani-emiri-1",
+          "member": "otani-emiri",
+          "name": "大谷映美里 1"
+        },
+        {
+          "id": "otani-emiri-2",
+          "member": "otani-emiri",
+          "name": "大谷映美里 2"
+        },
+        {
+          "id": "otani-emiri-3",
+          "member": "otani-emiri",
+          "name": "大谷映美里 3"
+        },
+        {
+          "id": "otani-emiri-4",
+          "member": "otani-emiri",
+          "name": "大谷映美里 4"
+        },
+        {
+          "id": "otani-emiri-5",
+          "member": "otani-emiri",
+          "name": "大谷映美里 5"
+        },
+        {
+          "id": "otani-emiri-rare",
+          "member": "otani-emiri",
+          "name": "大谷映美里 レア"
+        },
+        {
+          "id": "oba-hana-1",
+          "member": "oba-hana",
+          "name": "大場花菜 1"
+        },
+        {
+          "id": "oba-hana-2",
+          "member": "oba-hana",
+          "name": "大場花菜 2"
+        },
+        {
+          "id": "oba-hana-3",
+          "member": "oba-hana",
+          "name": "大場花菜 3"
+        },
+        {
+          "id": "oba-hana-4",
+          "member": "oba-hana",
+          "name": "大場花菜 4"
+        },
+        {
+          "id": "oba-hana-5",
+          "member": "oba-hana",
+          "name": "大場花菜 5"
+        },
+        {
+          "id": "oba-hana-rare",
+          "member": "oba-hana",
+          "name": "大場花菜 レア"
+        },
+        {
+          "id": "otoshima-risa-1",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 1"
+        },
+        {
+          "id": "otoshima-risa-2",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 2"
+        },
+        {
+          "id": "otoshima-risa-3",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 3"
+        },
+        {
+          "id": "otoshima-risa-4",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 4"
+        },
+        {
+          "id": "otoshima-risa-5",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 5"
+        },
+        {
+          "id": "otoshima-risa-rare",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 レア"
+        },
+        {
+          "id": "saito-kiara-1",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 1"
+        },
+        {
+          "id": "saito-kiara-2",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 2"
+        },
+        {
+          "id": "saito-kiara-3",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 3"
+        },
+        {
+          "id": "saito-kiara-4",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 4"
+        },
+        {
+          "id": "saito-kiara-5",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 5"
+        },
+        {
+          "id": "saito-kiara-rare",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 レア"
+        },
+        {
+          "id": "saito-nagisa-1",
+          "member": "saito-nagisa",
+          "name": "齊藤なぎさ 1"
+        },
+        {
+          "id": "saito-nagisa-2",
+          "member": "saito-nagisa",
+          "name": "齊藤なぎさ 2"
+        },
+        {
+          "id": "saito-nagisa-3",
+          "member": "saito-nagisa",
+          "name": "齊藤なぎさ 3"
+        },
+        {
+          "id": "saito-nagisa-4",
+          "member": "saito-nagisa",
+          "name": "齊藤なぎさ 4"
+        },
+        {
+          "id": "saito-nagisa-5",
+          "member": "saito-nagisa",
+          "name": "齊藤なぎさ 5"
+        },
+        {
+          "id": "saito-nagisa-rare",
+          "member": "saito-nagisa",
+          "name": "齊藤なぎさ レア"
+        },
+        {
+          "id": "sasaki-maika-1",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 1"
+        },
+        {
+          "id": "sasaki-maika-2",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 2"
+        },
+        {
+          "id": "sasaki-maika-3",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 3"
+        },
+        {
+          "id": "sasaki-maika-4",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 4"
+        },
+        {
+          "id": "sasaki-maika-5",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 5"
+        },
+        {
+          "id": "sasaki-maika-rare",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 レア"
+        },
+        {
+          "id": "takamatsu-hitomi-1",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 1"
+        },
+        {
+          "id": "takamatsu-hitomi-2",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 2"
+        },
+        {
+          "id": "takamatsu-hitomi-3",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 3"
+        },
+        {
+          "id": "takamatsu-hitomi-4",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 4"
+        },
+        {
+          "id": "takamatsu-hitomi-5",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 5"
+        },
+        {
+          "id": "takamatsu-hitomi-rare",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 レア"
+        },
+        {
+          "id": "takiwaki-shoko-1",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 1"
+        },
+        {
+          "id": "takiwaki-shoko-2",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 2"
+        },
+        {
+          "id": "takiwaki-shoko-3",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 3"
+        },
+        {
+          "id": "takiwaki-shoko-4",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 4"
+        },
+        {
+          "id": "takiwaki-shoko-5",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 5"
+        },
+        {
+          "id": "takiwaki-shoko-rare",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 レア"
+        },
+        {
+          "id": "noguchi-iori-1",
+          "member": "noguchi-iori",
+          "name": "野口衣織 1"
+        },
+        {
+          "id": "noguchi-iori-2",
+          "member": "noguchi-iori",
+          "name": "野口衣織 2"
+        },
+        {
+          "id": "noguchi-iori-3",
+          "member": "noguchi-iori",
+          "name": "野口衣織 3"
+        },
+        {
+          "id": "noguchi-iori-4",
+          "member": "noguchi-iori",
+          "name": "野口衣織 4"
+        },
+        {
+          "id": "noguchi-iori-5",
+          "member": "noguchi-iori",
+          "name": "野口衣織 5"
+        },
+        {
+          "id": "noguchi-iori-rare",
+          "member": "noguchi-iori",
+          "name": "野口衣織 レア"
+        },
+        {
+          "id": "morohashi-sana-1",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 1"
+        },
+        {
+          "id": "morohashi-sana-2",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 2"
+        },
+        {
+          "id": "morohashi-sana-3",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 3"
+        },
+        {
+          "id": "morohashi-sana-4",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 4"
+        },
+        {
+          "id": "morohashi-sana-5",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 5"
+        },
+        {
+          "id": "morohashi-sana-rare",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 レア"
+        },
+        {
+          "id": "yamamoto-anna-1",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 1"
+        },
+        {
+          "id": "yamamoto-anna-2",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 2"
+        },
+        {
+          "id": "yamamoto-anna-3",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 3"
+        },
+        {
+          "id": "yamamoto-anna-4",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 4"
+        },
+        {
+          "id": "yamamoto-anna-5",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 5"
+        },
+        {
+          "id": "yamamoto-anna-rare",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 レア"
+        },
+        {
+          "id": "all-1",
+          "member": "all",
+          "name": "集合 1"
+        },
+        {
+          "id": "all-2",
+          "member": "all",
+          "name": "集合 2"
+        },
+        {
+          "id": "all-3",
+          "member": "all",
+          "name": "集合 3",
+          "rotated": true
+        },
+        {
+          "id": "all-4",
+          "member": "all",
+          "name": "集合 4",
+          "rotated": true
+        },
+        {
+          "id": "all-5",
+          "member": "all",
+          "name": "集合 5",
+          "rotated": true
+        }
+      ]
+    },
+    {
+      "id": "2022-vol1",
+      "name": "2022 Vol.1",
+      "layout": {
+        "columns": [3, 5, 10]
+      },
+      "items": [
+        {
+          "id": "otani-emiri-1",
+          "member": "otani-emiri",
+          "name": "大谷映美里 1"
+        },
+        {
+          "id": "otani-emiri-2",
+          "member": "otani-emiri",
+          "name": "大谷映美里 2"
+        },
+        {
+          "id": "otani-emiri-3",
+          "member": "otani-emiri",
+          "name": "大谷映美里 3"
+        },
+        {
+          "id": "otani-emiri-4",
+          "member": "otani-emiri",
+          "name": "大谷映美里 4"
+        },
+        {
+          "id": "otani-emiri-5",
+          "member": "otani-emiri",
+          "name": "大谷映美里 5"
+        },
+        {
+          "id": "oba-hana-1",
+          "member": "oba-hana",
+          "name": "大場花菜 1"
+        },
+        {
+          "id": "oba-hana-2",
+          "member": "oba-hana",
+          "name": "大場花菜 2"
+        },
+        {
+          "id": "oba-hana-3",
+          "member": "oba-hana",
+          "name": "大場花菜 3"
+        },
+        {
+          "id": "oba-hana-4",
+          "member": "oba-hana",
+          "name": "大場花菜 4"
+        },
+        {
+          "id": "oba-hana-5",
+          "member": "oba-hana",
+          "name": "大場花菜 5"
+        },
+        {
+          "id": "otoshima-risa-1",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 1"
+        },
+        {
+          "id": "otoshima-risa-2",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 2"
+        },
+        {
+          "id": "otoshima-risa-3",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 3"
+        },
+        {
+          "id": "otoshima-risa-4",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 4"
+        },
+        {
+          "id": "otoshima-risa-5",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 5"
+        },
+        {
+          "id": "saito-kiara-1",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 1"
+        },
+        {
+          "id": "saito-kiara-2",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 2"
+        },
+        {
+          "id": "saito-kiara-3",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 3"
+        },
+        {
+          "id": "saito-kiara-4",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 4"
+        },
+        {
+          "id": "saito-kiara-5",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 5"
+        },
+        {
+          "id": "saito-nagisa-1",
+          "member": "saito-nagisa",
+          "name": "齊藤なぎさ 1"
+        },
+        {
+          "id": "saito-nagisa-2",
+          "member": "saito-nagisa",
+          "name": "齊藤なぎさ 2"
+        },
+        {
+          "id": "saito-nagisa-3",
+          "member": "saito-nagisa",
+          "name": "齊藤なぎさ 3"
+        },
+        {
+          "id": "saito-nagisa-4",
+          "member": "saito-nagisa",
+          "name": "齊藤なぎさ 4"
+        },
+        {
+          "id": "saito-nagisa-5",
+          "member": "saito-nagisa",
+          "name": "齊藤なぎさ 5"
+        },
+        {
+          "id": "sasaki-maika-1",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 1"
+        },
+        {
+          "id": "sasaki-maika-2",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 2"
+        },
+        {
+          "id": "sasaki-maika-3",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 3"
+        },
+        {
+          "id": "sasaki-maika-4",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 4"
+        },
+        {
+          "id": "sasaki-maika-5",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 5"
+        },
+        {
+          "id": "takamatsu-hitomi-1",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 1"
+        },
+        {
+          "id": "takamatsu-hitomi-2",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 2"
+        },
+        {
+          "id": "takamatsu-hitomi-3",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 3"
+        },
+        {
+          "id": "takamatsu-hitomi-4",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 4"
+        },
+        {
+          "id": "takamatsu-hitomi-5",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 5"
+        },
+        {
+          "id": "takiwaki-shoko-1",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 1"
+        },
+        {
+          "id": "takiwaki-shoko-2",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 2"
+        },
+        {
+          "id": "takiwaki-shoko-3",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 3"
+        },
+        {
+          "id": "takiwaki-shoko-4",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 4"
+        },
+        {
+          "id": "takiwaki-shoko-5",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 5"
+        },
+        {
+          "id": "noguchi-iori-1",
+          "member": "noguchi-iori",
+          "name": "野口衣織 1"
+        },
+        {
+          "id": "noguchi-iori-2",
+          "member": "noguchi-iori",
+          "name": "野口衣織 2"
+        },
+        {
+          "id": "noguchi-iori-3",
+          "member": "noguchi-iori",
+          "name": "野口衣織 3"
+        },
+        {
+          "id": "noguchi-iori-4",
+          "member": "noguchi-iori",
+          "name": "野口衣織 4"
+        },
+        {
+          "id": "noguchi-iori-5",
+          "member": "noguchi-iori",
+          "name": "野口衣織 5"
+        },
+        {
+          "id": "morohashi-sana-1",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 1"
+        },
+        {
+          "id": "morohashi-sana-2",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 2"
+        },
+        {
+          "id": "morohashi-sana-3",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 3"
+        },
+        {
+          "id": "morohashi-sana-4",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 4"
+        },
+        {
+          "id": "morohashi-sana-5",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 5"
+        },
+        {
+          "id": "yamamoto-anna-1",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 1"
+        },
+        {
+          "id": "yamamoto-anna-2",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 2"
+        },
+        {
+          "id": "yamamoto-anna-3",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 3"
+        },
+        {
+          "id": "yamamoto-anna-4",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 4"
+        },
+        {
+          "id": "yamamoto-anna-5",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 5"
+        }
+      ]
+    }
+  ]
+}
