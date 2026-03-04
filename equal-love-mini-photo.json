@@ -1,7 +1,7 @@
 {
   "magic": "my-ideals-template",
   "version": 1,
-  "revision": 3,
+  "revision": 4,
   "id": "equal-love-mini-photo",
   "name": "＝LOVE ミニフォトカード",
   "description": "＝LOVE（イコールラブ/イコラブ） ミニフォトカード",
@@ -31,6 +31,62 @@
     { "id": "saito-nagisa", "name": "齊藤なぎさ(卒業)" }
   ],
   "collections": [
+    {
+      "id": "2025-cinnamonroll",
+      "name": "シナモロール×=LOVE",
+      "items": [
+        {
+          "id": "otani-emiri",
+          "member": "otani-emiri",
+          "name": "大谷映美里"
+        },
+        {
+          "id": "oba-hana",
+          "member": "oba-hana",
+          "name": "大場花菜"
+        },
+        {
+          "id": "otoshima-risa",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙"
+        },
+        {
+          "id": "saito-kiara",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅"
+        },
+        {
+          "id": "sasaki-maika",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香"
+        },
+        {
+          "id": "takamatsu-hitomi",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳"
+        },
+        {
+          "id": "takiwaki-shoko",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古"
+        },
+        {
+          "id": "noguchi-iori",
+          "member": "noguchi-iori",
+          "name": "野口衣織"
+        },
+        {
+          "id": "morohashi-sana",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏"
+        },
+        {
+          "id": "yamamoto-anna",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈"
+        }
+      ]
+    },
     {
       "id": "2025-vol10",
       "name": "2025 Vol.10",
