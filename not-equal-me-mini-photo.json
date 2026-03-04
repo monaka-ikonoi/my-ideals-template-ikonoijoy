@@ -1,7 +1,7 @@
 {
   "magic": "my-ideals-template",
   "version": 1,
-  "revision": 2,
+  "revision": 3,
   "id": "not-equal-me-mini-photo",
   "name": "≠ME ミニフォトカード",
   "description": "≠ME（ノットイコールミー/ノイミー） ミニフォトカード",
@@ -1533,6 +1533,192 @@
       ]
     },
     {
+      "id": "2024-ikonoijoy",
+      "name": "イコノイジョイ2024",
+      "items": [
+        {
+          "id": "ogi-hana-1",
+          "member": "ogi-hana",
+          "name": "尾木波菜 1"
+        },
+        {
+          "id": "ogi-hana-2",
+          "member": "ogi-hana",
+          "name": "尾木波菜 2"
+        },
+        {
+          "id": "ogi-hana-rare",
+          "member": "ogi-hana",
+          "name": "尾木波菜 レア"
+        },
+        {
+          "id": "ochiai-kirari-1",
+          "member": "ochiai-kirari",
+          "name": "落合希来里 1"
+        },
+        {
+          "id": "ochiai-kirari-2",
+          "member": "ochiai-kirari",
+          "name": "落合希来里 2"
+        },
+        {
+          "id": "ochiai-kirari-rare",
+          "member": "ochiai-kirari",
+          "name": "落合希来里 レア"
+        },
+        {
+          "id": "kanisawa-moeko-1",
+          "member": "kanisawa-moeko",
+          "name": "蟹沢萌子 1"
+        },
+        {
+          "id": "kanisawa-moeko-2",
+          "member": "kanisawa-moeko",
+          "name": "蟹沢萌子 2"
+        },
+        {
+          "id": "kanisawa-moeko-rare",
+          "member": "kanisawa-moeko",
+          "name": "蟹沢萌子 レア"
+        },
+        {
+          "id": "kawaguchi-natsune-1",
+          "member": "kawaguchi-natsune",
+          "name": "河口夏音 1"
+        },
+        {
+          "id": "kawaguchi-natsune-2",
+          "member": "kawaguchi-natsune",
+          "name": "河口夏音 2"
+        },
+        {
+          "id": "kawaguchi-natsune-rare",
+          "member": "kawaguchi-natsune",
+          "name": "河口夏音 レア"
+        },
+        {
+          "id": "kawanago-natsumi-1",
+          "member": "kawanago-natsumi",
+          "name": "川中子奈月心 1"
+        },
+        {
+          "id": "kawanago-natsumi-2",
+          "member": "kawanago-natsumi",
+          "name": "川中子奈月心 2"
+        },
+        {
+          "id": "kawanago-natsumi-rare",
+          "member": "kawanago-natsumi",
+          "name": "川中子奈月心 レア"
+        },
+        {
+          "id": "sakurai-momo-1",
+          "member": "sakurai-momo",
+          "name": "櫻井もも 1"
+        },
+        {
+          "id": "sakurai-momo-2",
+          "member": "sakurai-momo",
+          "name": "櫻井もも 2"
+        },
+        {
+          "id": "sakurai-momo-rare",
+          "member": "sakurai-momo",
+          "name": "櫻井もも レア"
+        },
+        {
+          "id": "suganami-mirei-1",
+          "member": "suganami-mirei",
+          "name": "菅波美玲 1"
+        },
+        {
+          "id": "suganami-mirei-2",
+          "member": "suganami-mirei",
+          "name": "菅波美玲 2"
+        },
+        {
+          "id": "suganami-mirei-rare",
+          "member": "suganami-mirei",
+          "name": "菅波美玲 レア"
+        },
+        {
+          "id": "suzuki-hitomi-1",
+          "member": "suzuki-hitomi",
+          "name": "鈴木瞳美 1"
+        },
+        {
+          "id": "suzuki-hitomi-2",
+          "member": "suzuki-hitomi",
+          "name": "鈴木瞳美 2"
+        },
+        {
+          "id": "suzuki-hitomi-rare",
+          "member": "suzuki-hitomi",
+          "name": "鈴木瞳美 レア"
+        },
+        {
+          "id": "tanizaki-saya-1",
+          "member": "tanizaki-saya",
+          "name": "谷崎早耶 1"
+        },
+        {
+          "id": "tanizaki-saya-2",
+          "member": "tanizaki-saya",
+          "name": "谷崎早耶 2"
+        },
+        {
+          "id": "tanizaki-saya-rare",
+          "member": "tanizaki-saya",
+          "name": "谷崎早耶 レア"
+        },
+        {
+          "id": "tomita-nanaka-1",
+          "member": "tomita-nanaka",
+          "name": "冨田菜々風 1"
+        },
+        {
+          "id": "tomita-nanaka-2",
+          "member": "tomita-nanaka",
+          "name": "冨田菜々風 2"
+        },
+        {
+          "id": "tomita-nanaka-rare",
+          "member": "tomita-nanaka",
+          "name": "冨田菜々風 レア"
+        },
+        {
+          "id": "nagata-shiori-1",
+          "member": "nagata-shiori",
+          "name": "永田詩央里 1"
+        },
+        {
+          "id": "nagata-shiori-2",
+          "member": "nagata-shiori",
+          "name": "永田詩央里 2"
+        },
+        {
+          "id": "nagata-shiori-rare",
+          "member": "nagata-shiori",
+          "name": "永田詩央里 レア"
+        },
+        {
+          "id": "honda-miyuki-1",
+          "member": "honda-miyuki",
+          "name": "本田珠由記 1"
+        },
+        {
+          "id": "honda-miyuki-2",
+          "member": "honda-miyuki",
+          "name": "本田珠由記 2"
+        },
+        {
+          "id": "honda-miyuki-rare",
+          "member": "honda-miyuki",
+          "name": "本田珠由記 レア"
+        }
+      ]
+    },
+    {
       "id": "2024-vol6",
       "name": "2024 Vol.6",
       "items": [
@@ -2283,6 +2469,187 @@
           "member": "all",
           "name": "集合 5",
           "rotated": true
+        }
+      ]
+    },
+    {
+      "id": "2023-ikonoijoy",
+      "name": "イコノイジョイ2023",
+      "items": [
+        {
+          "id": "ogi-hana-1",
+          "member": "ogi-hana",
+          "name": "尾木波菜 1"
+        },
+        {
+          "id": "ogi-hana-2",
+          "member": "ogi-hana",
+          "name": "尾木波菜 2"
+        },
+        {
+          "id": "ogi-hana-rare",
+          "member": "ogi-hana",
+          "name": "尾木波菜 レア"
+        },
+        {
+          "id": "ochiai-kirari-1",
+          "member": "ochiai-kirari",
+          "name": "落合希来里 1"
+        },
+        {
+          "id": "ochiai-kirari-2",
+          "member": "ochiai-kirari",
+          "name": "落合希来里 2"
+        },
+        {
+          "id": "ochiai-kirari-rare",
+          "member": "ochiai-kirari",
+          "name": "落合希来里 レア"
+        },
+        {
+          "id": "kanisawa-moeko-1",
+          "member": "kanisawa-moeko",
+          "name": "蟹沢萌子 1"
+        },
+        {
+          "id": "kanisawa-moeko-2",
+          "member": "kanisawa-moeko",
+          "name": "蟹沢萌子 2"
+        },
+        {
+          "id": "kanisawa-moeko-rare",
+          "member": "kanisawa-moeko",
+          "name": "蟹沢萌子 レア"
+        },
+        {
+          "id": "kawaguchi-natsune-1",
+          "member": "kawaguchi-natsune",
+          "name": "河口夏音 1"
+        },
+        {
+          "id": "kawaguchi-natsune-2",
+          "member": "kawaguchi-natsune",
+          "name": "河口夏音 2"
+        },
+        {
+          "id": "kawaguchi-natsune-rare",
+          "member": "kawaguchi-natsune",
+          "name": "河口夏音 レア"
+        },
+        {
+          "id": "kawanago-natsumi-1",
+          "member": "kawanago-natsumi",
+          "name": "川中子奈月心 1"
+        },
+        {
+          "id": "kawanago-natsumi-2",
+          "member": "kawanago-natsumi",
+          "name": "川中子奈月心 2"
+        },
+        {
+          "id": "kawanago-natsumi-rare",
+          "member": "kawanago-natsumi",
+          "name": "川中子奈月心 レア"
+        },
+        {
+          "id": "sakurai-momo-1",
+          "member": "sakurai-momo",
+          "name": "櫻井もも 1"
+        },
+        {
+          "id": "sakurai-momo-2",
+          "member": "sakurai-momo",
+          "name": "櫻井もも 2"
+        },
+        {
+          "id": "sakurai-momo-rare",
+          "member": "sakurai-momo",
+          "name": "櫻井もも レア"
+        },
+        {
+          "id": "suganami-mirei-1",
+          "member": "suganami-mirei",
+          "name": "菅波美玲 1"
+        },
+        {
+          "id": "suganami-mirei-2",
+          "member": "suganami-mirei",
+          "name": "菅波美玲 2"
+        },
+        {
+          "id": "suganami-mirei-rare",
+          "member": "suganami-mirei",
+          "name": "菅波美玲 レア"
+        },
+        {
+          "id": "suzuki-hitomi-1",
+          "member": "suzuki-hitomi",
+          "name": "鈴木瞳美 1"
+        },
+        {
+          "id": "suzuki-hitomi-2",
+          "member": "suzuki-hitomi",
+          "name": "鈴木瞳美 2"
+        },
+        {
+          "id": "suzuki-hitomi-rare",
+          "member": "suzuki-hitomi",
+          "name": "鈴木瞳美 レア"
+        },
+        {
+          "id": "tanizaki-saya-1",
+          "member": "tanizaki-saya",
+          "name": "谷崎早耶 1"
+        },
+        {
+          "id": "tanizaki-saya-2",
+          "member": "tanizaki-saya",
+          "name": "谷崎早耶 2"
+        },
+        {
+          "id": "tanizaki-saya-rare",
+          "member": "tanizaki-saya",
+          "name": "谷崎早耶 レア"
+        },
+        {
+          "id": "tomita-nanaka-1",
+          "member": "tomita-nanaka",
+          "name": "冨田菜々風 1"
+        },
+        {
+          "id": "tomita-nanaka-2",
+          "member": "tomita-nanaka",
+          "name": "冨田菜々風 2"
+        },
+        {
+          "id": "tomita-nanaka-rare",
+          "member": "tomita-nanaka",
+          "name": "冨田菜々風 レア"
+        },
+        {
+          "id": "nagata-shiori-2",
+          "member": "nagata-shiori",
+          "name": "永田詩央里 2"
+        },
+        {
+          "id": "nagata-shiori-rare",
+          "member": "nagata-shiori",
+          "name": "永田詩央里 レア"
+        },
+        {
+          "id": "honda-miyuki-1",
+          "member": "honda-miyuki",
+          "name": "本田珠由記 1"
+        },
+        {
+          "id": "honda-miyuki-2",
+          "member": "honda-miyuki",
+          "name": "本田珠由記 2"
+        },
+        {
+          "id": "honda-miyuki-rare",
+          "member": "honda-miyuki",
+          "name": "本田珠由記 レア"
         }
       ]
     },
@@ -3754,6 +4121,192 @@
           "id": "honda-miyuki-5",
           "member": "honda-miyuki",
           "name": "本田珠由記 5"
+        },
+        {
+          "id": "honda-miyuki-rare",
+          "member": "honda-miyuki",
+          "name": "本田珠由記 レア"
+        }
+      ]
+    },
+    {
+      "id": "2022-ikonoijoy",
+      "name": "イコノイジョイ2022",
+      "items": [
+        {
+          "id": "ogi-hana-1",
+          "member": "ogi-hana",
+          "name": "尾木波菜 1"
+        },
+        {
+          "id": "ogi-hana-2",
+          "member": "ogi-hana",
+          "name": "尾木波菜 2"
+        },
+        {
+          "id": "ogi-hana-rare",
+          "member": "ogi-hana",
+          "name": "尾木波菜 レア"
+        },
+        {
+          "id": "ochiai-kirari-1",
+          "member": "ochiai-kirari",
+          "name": "落合希来里 1"
+        },
+        {
+          "id": "ochiai-kirari-2",
+          "member": "ochiai-kirari",
+          "name": "落合希来里 2"
+        },
+        {
+          "id": "ochiai-kirari-rare",
+          "member": "ochiai-kirari",
+          "name": "落合希来里 レア"
+        },
+        {
+          "id": "kanisawa-moeko-1",
+          "member": "kanisawa-moeko",
+          "name": "蟹沢萌子 1"
+        },
+        {
+          "id": "kanisawa-moeko-2",
+          "member": "kanisawa-moeko",
+          "name": "蟹沢萌子 2"
+        },
+        {
+          "id": "kanisawa-moeko-rare",
+          "member": "kanisawa-moeko",
+          "name": "蟹沢萌子 レア"
+        },
+        {
+          "id": "kawaguchi-natsune-1",
+          "member": "kawaguchi-natsune",
+          "name": "河口夏音 1"
+        },
+        {
+          "id": "kawaguchi-natsune-2",
+          "member": "kawaguchi-natsune",
+          "name": "河口夏音 2"
+        },
+        {
+          "id": "kawaguchi-natsune-rare",
+          "member": "kawaguchi-natsune",
+          "name": "河口夏音 レア"
+        },
+        {
+          "id": "kawanago-natsumi-1",
+          "member": "kawanago-natsumi",
+          "name": "川中子奈月心 1"
+        },
+        {
+          "id": "kawanago-natsumi-2",
+          "member": "kawanago-natsumi",
+          "name": "川中子奈月心 2"
+        },
+        {
+          "id": "kawanago-natsumi-rare",
+          "member": "kawanago-natsumi",
+          "name": "川中子奈月心 レア"
+        },
+        {
+          "id": "sakurai-momo-1",
+          "member": "sakurai-momo",
+          "name": "櫻井もも 1"
+        },
+        {
+          "id": "sakurai-momo-2",
+          "member": "sakurai-momo",
+          "name": "櫻井もも 2"
+        },
+        {
+          "id": "sakurai-momo-rare",
+          "member": "sakurai-momo",
+          "name": "櫻井もも レア"
+        },
+        {
+          "id": "suganami-mirei-1",
+          "member": "suganami-mirei",
+          "name": "菅波美玲 1"
+        },
+        {
+          "id": "suganami-mirei-2",
+          "member": "suganami-mirei",
+          "name": "菅波美玲 2"
+        },
+        {
+          "id": "suganami-mirei-rare",
+          "member": "suganami-mirei",
+          "name": "菅波美玲 レア"
+        },
+        {
+          "id": "suzuki-hitomi-1",
+          "member": "suzuki-hitomi",
+          "name": "鈴木瞳美 1"
+        },
+        {
+          "id": "suzuki-hitomi-2",
+          "member": "suzuki-hitomi",
+          "name": "鈴木瞳美 2"
+        },
+        {
+          "id": "suzuki-hitomi-rare",
+          "member": "suzuki-hitomi",
+          "name": "鈴木瞳美 レア"
+        },
+        {
+          "id": "tanizaki-saya-1",
+          "member": "tanizaki-saya",
+          "name": "谷崎早耶 1"
+        },
+        {
+          "id": "tanizaki-saya-2",
+          "member": "tanizaki-saya",
+          "name": "谷崎早耶 2"
+        },
+        {
+          "id": "tanizaki-saya-rare",
+          "member": "tanizaki-saya",
+          "name": "谷崎早耶 レア"
+        },
+        {
+          "id": "tomita-nanaka-1",
+          "member": "tomita-nanaka",
+          "name": "冨田菜々風 1"
+        },
+        {
+          "id": "tomita-nanaka-2",
+          "member": "tomita-nanaka",
+          "name": "冨田菜々風 2"
+        },
+        {
+          "id": "tomita-nanaka-rare",
+          "member": "tomita-nanaka",
+          "name": "冨田菜々風 レア"
+        },
+        {
+          "id": "nagata-shiori-1",
+          "member": "nagata-shiori",
+          "name": "永田詩央里 1"
+        },
+        {
+          "id": "nagata-shiori-2",
+          "member": "nagata-shiori",
+          "name": "永田詩央里 2"
+        },
+        {
+          "id": "nagata-shiori-rare",
+          "member": "nagata-shiori",
+          "name": "永田詩央里 レア"
+        },
+        {
+          "id": "honda-miyuki-1",
+          "member": "honda-miyuki",
+          "name": "本田珠由記 1"
+        },
+        {
+          "id": "honda-miyuki-2",
+          "member": "honda-miyuki",
+          "name": "本田珠由記 2"
         },
         {
           "id": "honda-miyuki-rare",
