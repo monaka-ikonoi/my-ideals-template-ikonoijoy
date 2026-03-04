@@ -1,7 +1,7 @@
 {
   "magic": "my-ideals-template",
   "version": 1,
-  "revision": 2,
+  "revision": 3,
   "id": "equal-love-mini-photo",
   "name": "＝LOVE ミニフォトカード",
   "description": "＝LOVE（イコールラブ/イコラブ） ミニフォトカード",
@@ -998,6 +998,162 @@
       ]
     },
     {
+      "id": "2024-ikonoijoy",
+      "name": "イコノイジョイ2024",
+      "items": [
+        {
+          "id": "otani-emiri-1",
+          "member": "otani-emiri",
+          "name": "大谷映美里 1"
+        },
+        {
+          "id": "otani-emiri-2",
+          "member": "otani-emiri",
+          "name": "大谷映美里 2"
+        },
+        {
+          "id": "otani-emiri-rare",
+          "member": "otani-emiri",
+          "name": "大谷映美里 レア"
+        },
+        {
+          "id": "oba-hana-1",
+          "member": "oba-hana",
+          "name": "大場花菜 1"
+        },
+        {
+          "id": "oba-hana-2",
+          "member": "oba-hana",
+          "name": "大場花菜 2"
+        },
+        {
+          "id": "oba-hana-rare",
+          "member": "oba-hana",
+          "name": "大場花菜 レア"
+        },
+        {
+          "id": "otoshima-risa-1",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 1"
+        },
+        {
+          "id": "otoshima-risa-2",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 2"
+        },
+        {
+          "id": "otoshima-risa-rare",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 レア"
+        },
+        {
+          "id": "saito-kiara-1",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 1"
+        },
+        {
+          "id": "saito-kiara-2",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 2"
+        },
+        {
+          "id": "saito-kiara-rare",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 レア"
+        },
+        {
+          "id": "sasaki-maika-1",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 1"
+        },
+        {
+          "id": "sasaki-maika-2",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 2"
+        },
+        {
+          "id": "sasaki-maika-rare",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 レア"
+        },
+        {
+          "id": "takamatsu-hitomi-1",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 1"
+        },
+        {
+          "id": "takamatsu-hitomi-2",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 2"
+        },
+        {
+          "id": "takamatsu-hitomi-rare",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 レア"
+        },
+        {
+          "id": "takiwaki-shoko-1",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 1"
+        },
+        {
+          "id": "takiwaki-shoko-2",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 2"
+        },
+        {
+          "id": "takiwaki-shoko-rare",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 レア"
+        },
+        {
+          "id": "noguchi-iori-1",
+          "member": "noguchi-iori",
+          "name": "野口衣織 1"
+        },
+        {
+          "id": "noguchi-iori-2",
+          "member": "noguchi-iori",
+          "name": "野口衣織 2"
+        },
+        {
+          "id": "noguchi-iori-rare",
+          "member": "noguchi-iori",
+          "name": "野口衣織 レア"
+        },
+        {
+          "id": "morohashi-sana-1",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 1"
+        },
+        {
+          "id": "morohashi-sana-2",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 2"
+        },
+        {
+          "id": "morohashi-sana-rare",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 レア"
+        },
+        {
+          "id": "yamamoto-anna-1",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 1"
+        },
+        {
+          "id": "yamamoto-anna-2",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 2"
+        },
+        {
+          "id": "yamamoto-anna-rare",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 レア"
+        }
+      ]
+    },
+    {
       "id": "2024-vol7",
       "name": "2024 Vol.7",
       "items": [
@@ -1976,6 +2132,162 @@
       ]
     },
     {
+      "id": "2023-ikonoijoy",
+      "name": "イコノイジョイ2023",
+      "items": [
+        {
+          "id": "otani-emiri-1",
+          "member": "otani-emiri",
+          "name": "大谷映美里 1"
+        },
+        {
+          "id": "otani-emiri-2",
+          "member": "otani-emiri",
+          "name": "大谷映美里 2"
+        },
+        {
+          "id": "otani-emiri-rare",
+          "member": "otani-emiri",
+          "name": "大谷映美里 レア"
+        },
+        {
+          "id": "oba-hana-1",
+          "member": "oba-hana",
+          "name": "大場花菜 1"
+        },
+        {
+          "id": "oba-hana-2",
+          "member": "oba-hana",
+          "name": "大場花菜 2"
+        },
+        {
+          "id": "oba-hana-rare",
+          "member": "oba-hana",
+          "name": "大場花菜 レア"
+        },
+        {
+          "id": "otoshima-risa-1",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 1"
+        },
+        {
+          "id": "otoshima-risa-2",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 2"
+        },
+        {
+          "id": "otoshima-risa-rare",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 レア"
+        },
+        {
+          "id": "saito-kiara-1",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 1"
+        },
+        {
+          "id": "saito-kiara-2",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 2"
+        },
+        {
+          "id": "saito-kiara-rare",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 レア"
+        },
+        {
+          "id": "sasaki-maika-1",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 1"
+        },
+        {
+          "id": "sasaki-maika-2",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 2"
+        },
+        {
+          "id": "sasaki-maika-rare",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 レア"
+        },
+        {
+          "id": "takamatsu-hitomi-1",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 1"
+        },
+        {
+          "id": "takamatsu-hitomi-2",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 2"
+        },
+        {
+          "id": "takamatsu-hitomi-rare",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 レア"
+        },
+        {
+          "id": "takiwaki-shoko-1",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 1"
+        },
+        {
+          "id": "takiwaki-shoko-2",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 2"
+        },
+        {
+          "id": "takiwaki-shoko-rare",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 レア"
+        },
+        {
+          "id": "noguchi-iori-1",
+          "member": "noguchi-iori",
+          "name": "野口衣織 1"
+        },
+        {
+          "id": "noguchi-iori-2",
+          "member": "noguchi-iori",
+          "name": "野口衣織 2"
+        },
+        {
+          "id": "noguchi-iori-rare",
+          "member": "noguchi-iori",
+          "name": "野口衣織 レア"
+        },
+        {
+          "id": "morohashi-sana-1",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 1"
+        },
+        {
+          "id": "morohashi-sana-2",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 2"
+        },
+        {
+          "id": "morohashi-sana-rare",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 レア"
+        },
+        {
+          "id": "yamamoto-anna-1",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 1"
+        },
+        {
+          "id": "yamamoto-anna-2",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 2"
+        },
+        {
+          "id": "yamamoto-anna-rare",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 レア"
+        }
+      ]
+    },
+    {
       "id": "2023-vol4",
       "name": "2023 Vol.4",
       "items": [
@@ -2655,6 +2967,177 @@
           "member": "all",
           "name": "集合 3",
           "rotated": true
+        }
+      ]
+    },
+    {
+      "id": "2022-ikonoijoy",
+      "name": "イコノイジョイ2022",
+      "items": [
+        {
+          "id": "otani-emiri-1",
+          "member": "otani-emiri",
+          "name": "大谷映美里 1"
+        },
+        {
+          "id": "otani-emiri-2",
+          "member": "otani-emiri",
+          "name": "大谷映美里 2"
+        },
+        {
+          "id": "otani-emiri-rare",
+          "member": "otani-emiri",
+          "name": "大谷映美里 レア"
+        },
+        {
+          "id": "oba-hana-1",
+          "member": "oba-hana",
+          "name": "大場花菜 1"
+        },
+        {
+          "id": "oba-hana-2",
+          "member": "oba-hana",
+          "name": "大場花菜 2"
+        },
+        {
+          "id": "oba-hana-rare",
+          "member": "oba-hana",
+          "name": "大場花菜 レア"
+        },
+        {
+          "id": "otoshima-risa-1",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 1"
+        },
+        {
+          "id": "otoshima-risa-2",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 2"
+        },
+        {
+          "id": "otoshima-risa-rare",
+          "member": "otoshima-risa",
+          "name": "音嶋莉沙 レア"
+        },
+        {
+          "id": "saito-kiara-1",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 1"
+        },
+        {
+          "id": "saito-kiara-2",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 2"
+        },
+        {
+          "id": "saito-kiara-rare",
+          "member": "saito-kiara",
+          "name": "齋藤樹愛羅 レア"
+        },
+        {
+          "id": "saito-nagisa-1",
+          "member": "saito-nagisa",
+          "name": "齊藤なぎさ 1"
+        },
+        {
+          "id": "saito-nagisa-2",
+          "member": "saito-nagisa",
+          "name": "齊藤なぎさ 2"
+        },
+        {
+          "id": "saito-nagisa-rare",
+          "member": "saito-nagisa",
+          "name": "齊藤なぎさ レア"
+        },
+        {
+          "id": "sasaki-maika-1",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 1"
+        },
+        {
+          "id": "sasaki-maika-2",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 2"
+        },
+        {
+          "id": "sasaki-maika-rare",
+          "member": "sasaki-maika",
+          "name": "佐々木舞香 レア"
+        },
+        {
+          "id": "takamatsu-hitomi-1",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 1"
+        },
+        {
+          "id": "takamatsu-hitomi-2",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 2"
+        },
+        {
+          "id": "takamatsu-hitomi-rare",
+          "member": "takamatsu-hitomi",
+          "name": "髙松瞳 レア"
+        },
+        {
+          "id": "takiwaki-shoko-1",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 1"
+        },
+        {
+          "id": "takiwaki-shoko-2",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 2"
+        },
+        {
+          "id": "takiwaki-shoko-rare",
+          "member": "takiwaki-shoko",
+          "name": "瀧脇笙古 レア"
+        },
+        {
+          "id": "noguchi-iori-1",
+          "member": "noguchi-iori",
+          "name": "野口衣織 1"
+        },
+        {
+          "id": "noguchi-iori-2",
+          "member": "noguchi-iori",
+          "name": "野口衣織 2"
+        },
+        {
+          "id": "noguchi-iori-rare",
+          "member": "noguchi-iori",
+          "name": "野口衣織 レア"
+        },
+        {
+          "id": "morohashi-sana-1",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 1"
+        },
+        {
+          "id": "morohashi-sana-2",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 2"
+        },
+        {
+          "id": "morohashi-sana-rare",
+          "member": "morohashi-sana",
+          "name": "諸橋沙夏 レア"
+        },
+        {
+          "id": "yamamoto-anna-1",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 1"
+        },
+        {
+          "id": "yamamoto-anna-2",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 2"
+        },
+        {
+          "id": "yamamoto-anna-rare",
+          "member": "yamamoto-anna",
+          "name": "山本杏奈 レア"
         }
       ]
     },
