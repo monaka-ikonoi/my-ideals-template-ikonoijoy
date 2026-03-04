@@ -27,6 +27,7 @@
     { "id": "noguchi-iori", "name": "野口衣織" },
     { "id": "morohashi-sana", "name": "諸橋沙夏" },
     { "id": "yamamoto-anna", "name": "山本杏奈" },
+    { "id": "all", "name": "集合" },
     { "id": "saito-nagisa", "name": "齊藤なぎさ(卒業)" }
   ],
   "collections": [
