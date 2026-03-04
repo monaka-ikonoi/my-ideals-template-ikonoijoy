@@ -1,7 +1,7 @@
 {
   "magic": "my-ideals-template",
   "version": 1,
-  "revision": 1,
+  "revision": 2,
   "id": "equal-love-mini-photo",
   "name": "＝LOVE ミニフォトカード",
   "description": "＝LOVE（イコールラブ/イコラブ） ミニフォトカード",
@@ -2281,14 +2281,25 @@
         {
           "id": "all-1",
           "member": "all",
-          "name": "集合 1",
+          "name": "通販限定 1",
           "rotated": true
         },
         {
           "id": "all-2",
           "member": "all",
-          "name": "集合 2",
+          "name": "通販限定 2",
           "rotated": true
+        },
+        {
+          "id": "venue-1",
+          "member": "all",
+          "name": "会場限定 1",
+          "rotated": true
+        },
+        {
+          "id": "venue-2",
+          "member": "all",
+          "name": "会場限定 2"
         }
       ]
     },
