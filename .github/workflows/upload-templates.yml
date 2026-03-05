@@ -8,10 +8,10 @@ on:
 env:
   TEMPLATE_LIST: >
     equal-love.json, not-equal-me.json, nearly-equal-joy.json,
-    equal-love-mini-photo.json, not-equal-me-mini-photo.json,
+    equal-love-mini-photo.json, not-equal-me-mini-photo.json, nearly-equal-joy-mini-photo.json
     equal-love-id-photo.json, not-equal-me-id-photo.json
   SPLIT_LIST: equal-love.json, not-equal-me.json, nearly-equal-joy.json
-  FILTER_NORMAL_LIST: equal-love-mini-photo.json, not-equal-me-mini-photo.json
+  FILTER_NORMAL_LIST: equal-love-mini-photo.json, not-equal-me-mini-photo.json, nearly-equal-joy-mini-photo.json
   IMAGE_BASE_URL: https://my-ideals-ikonoijoy-prod.chocomonaka.dev/images
 
 jobs:
