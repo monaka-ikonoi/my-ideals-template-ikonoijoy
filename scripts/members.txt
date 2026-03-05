@@ -5,4 +5,4 @@ not-equal-me:
 ogi-hana.jpg,ochiai-kirari.jpg,kanisawa-moeko.jpg,kawaguchi-natsune.jpg,kawanago-natsumi.jpg,sakurai-momo.jpg,suganami-mirei.jpg,suzuki-hitomi.jpg,tanizaki-saya.jpg,tomita-nanaka.jpg,nagata-shiori.jpg,honda-miyuki.jpg
 
 nearly-equal-joy:
-aida-jurii.jpg,amano-konoa.jpg,ichihara-ayumi.jpg,esumi-renon.jpg,ooshida-mitsuki.jpg,oonishi-aoi.jpg,ozawa-aimi.jpg,takahashi-mai.jpg,fujisawa-riko.jpg,murayama-yuuka.jpg,yamada-momoka.jpg,yamano-arisu.jpg
+aida-jurii.jpg,amano-konoa.jpg,ichihara-ayumi.jpg,esumi-renon.jpg,oshida-mitsuki.jpg,onishi-aoi.jpg,ozawa-aimi.jpg,takahashi-mai.jpg,fujisawa-riko.jpg,murayama-yuuka.jpg,yamada-momoka.jpg,yamano-arisu.jpg
