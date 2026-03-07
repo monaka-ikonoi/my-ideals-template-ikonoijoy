@@ -1,7 +1,7 @@
 {
   "magic": "my-ideals-template",
   "version": 1,
-  "revision": 2,
+  "revision": 3,
   "id": "nearly-equal-joy-mini-photo",
   "name": "≒JOY ミニフォトカード",
   "description": "≒JOY（ニアリーイコールジョイ/ニアジョイ） ミニフォトカード",
@@ -969,16 +969,6 @@
           "id": "onishi-aoi-3",
           "member": "onishi-aoi",
           "name": "大西葵 3"
-        },
-        {
-          "id": "onishi-aoi-4",
-          "member": "onishi-aoi",
-          "name": "大西葵 4"
-        },
-        {
-          "id": "onishi-aoi-5",
-          "member": "onishi-aoi",
-          "name": "大西葵 5"
         },
         {
           "id": "onishi-aoi-rare",
