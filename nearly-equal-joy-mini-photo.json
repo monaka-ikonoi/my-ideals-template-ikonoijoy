@@ -13,7 +13,7 @@
     "format": "webp"
   },
   "layout": {
-    "aspectRatio": [31, 49],
+    "aspectRatio": [5, 8],
     "columns": [3, 6, 12]
   },
   "members": [
