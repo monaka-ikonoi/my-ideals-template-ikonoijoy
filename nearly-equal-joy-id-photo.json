@@ -1,0 +1,964 @@
+{
+  "magic": "my-ideals-template",
+  "version": 1,
+  "revision": 1,
+  "id": "nearly-equal-joy-id-photo",
+  "name": "≒JOY ID PHOTO",
+  "description": "≒JOY（ニアリーイコールジョイ/ニアジョイ）ID PHOTO ステッカーセット",
+  "link": "https://github.com/monaka-ikonoi/my-ideals-template-ikonoijoy",
+  "author": "もなか",
+  "imageResourceType": "baseUrl",
+  "imageBaseUrl": {
+    "root": "http://localhost:3000/resources/nearly-equal-joy-id-photo",
+    "format": "webp"
+  },
+  "layout": {
+    "aspectRatio": [3, 4]
+  },
+  "members": [
+    { "id": "aida-jurii", "name": "逢田珠里依" },
+    { "id": "amano-konoa", "name": "天野香乃愛" },
+    { "id": "ichihara-ayumi", "name": "市原愛弓" },
+    { "id": "esumi-renon", "name": "江角怜音" },
+    { "id": "oshida-mitsuki", "name": "大信田美月" },
+    { "id": "onishi-aoi", "name": "大西葵" },
+    { "id": "ozawa-aimi", "name": "小澤愛実" },
+    { "id": "takahashi-mai", "name": "髙橋舞" },
+    { "id": "fujisawa-riko", "name": "藤沢莉子" },
+    { "id": "murayama-yuuka", "name": "村山結香" },
+    { "id": "yamada-momoka", "name": "山田杏佳" },
+    { "id": "yamano-arisu", "name": "山野愛月" }
+  ],
+  "collections": [
+    {
+      "id": "vol5",
+      "name": "Vol.5",
+      "items": [
+        {
+          "id": "aida-jurii-1",
+          "member": "aida-jurii",
+          "name": "逢田珠里依 1"
+        },
+        {
+          "id": "aida-jurii-2",
+          "member": "aida-jurii",
+          "name": "逢田珠里依 2"
+        },
+        {
+          "id": "aida-jurii-3",
+          "member": "aida-jurii",
+          "name": "逢田珠里依 3"
+        },
+        {
+          "id": "amano-konoa-1",
+          "member": "amano-konoa",
+          "name": "天野香乃愛 1"
+        },
+        {
+          "id": "amano-konoa-2",
+          "member": "amano-konoa",
+          "name": "天野香乃愛 2"
+        },
+        {
+          "id": "amano-konoa-3",
+          "member": "amano-konoa",
+          "name": "天野香乃愛 3"
+        },
+        {
+          "id": "ichihara-ayumi-1",
+          "member": "ichihara-ayumi",
+          "name": "市原愛弓 1"
+        },
+        {
+          "id": "ichihara-ayumi-2",
+          "member": "ichihara-ayumi",
+          "name": "市原愛弓 2"
+        },
+        {
+          "id": "ichihara-ayumi-3",
+          "member": "ichihara-ayumi",
+          "name": "市原愛弓 3"
+        },
+        {
+          "id": "esumi-renon-1",
+          "member": "esumi-renon",
+          "name": "江角怜音 1"
+        },
+        {
+          "id": "esumi-renon-2",
+          "member": "esumi-renon",
+          "name": "江角怜音 2"
+        },
+        {
+          "id": "esumi-renon-3",
+          "member": "esumi-renon",
+          "name": "江角怜音 3"
+        },
+        {
+          "id": "oshida-mitsuki-1",
+          "member": "oshida-mitsuki",
+          "name": "大信田美月 1"
+        },
+        {
+          "id": "oshida-mitsuki-2",
+          "member": "oshida-mitsuki",
+          "name": "大信田美月 2"
+        },
+        {
+          "id": "oshida-mitsuki-3",
+          "member": "oshida-mitsuki",
+          "name": "大信田美月 3"
+        },
+        {
+          "id": "onishi-aoi-1",
+          "member": "onishi-aoi",
+          "name": "大西葵 1"
+        },
+        {
+          "id": "onishi-aoi-2",
+          "member": "onishi-aoi",
+          "name": "大西葵 2"
+        },
+        {
+          "id": "onishi-aoi-3",
+          "member": "onishi-aoi",
+          "name": "大西葵 3"
+        },
+        {
+          "id": "ozawa-aimi-1",
+          "member": "ozawa-aimi",
+          "name": "小澤愛実 1"
+        },
+        {
+          "id": "ozawa-aimi-2",
+          "member": "ozawa-aimi",
+          "name": "小澤愛実 2"
+        },
+        {
+          "id": "ozawa-aimi-3",
+          "member": "ozawa-aimi",
+          "name": "小澤愛実 3"
+        },
+        {
+          "id": "takahashi-mai-1",
+          "member": "takahashi-mai",
+          "name": "髙橋舞 1"
+        },
+        {
+          "id": "takahashi-mai-2",
+          "member": "takahashi-mai",
+          "name": "髙橋舞 2"
+        },
+        {
+          "id": "takahashi-mai-3",
+          "member": "takahashi-mai",
+          "name": "髙橋舞 3"
+        },
+        {
+          "id": "fujisawa-riko-1",
+          "member": "fujisawa-riko",
+          "name": "藤沢莉子 1"
+        },
+        {
+          "id": "fujisawa-riko-2",
+          "member": "fujisawa-riko",
+          "name": "藤沢莉子 2"
+        },
+        {
+          "id": "fujisawa-riko-3",
+          "member": "fujisawa-riko",
+          "name": "藤沢莉子 3"
+        },
+        {
+          "id": "murayama-yuuka-1",
+          "member": "murayama-yuuka",
+          "name": "村山結香 1"
+        },
+        {
+          "id": "murayama-yuuka-2",
+          "member": "murayama-yuuka",
+          "name": "村山結香 2"
+        },
+        {
+          "id": "murayama-yuuka-3",
+          "member": "murayama-yuuka",
+          "name": "村山結香 3"
+        },
+        {
+          "id": "yamada-momoka-1",
+          "member": "yamada-momoka",
+          "name": "山田杏佳 1"
+        },
+        {
+          "id": "yamada-momoka-2",
+          "member": "yamada-momoka",
+          "name": "山田杏佳 2"
+        },
+        {
+          "id": "yamada-momoka-3",
+          "member": "yamada-momoka",
+          "name": "山田杏佳 3"
+        },
+        {
+          "id": "yamano-arisu-1",
+          "member": "yamano-arisu",
+          "name": "山野愛月 1"
+        },
+        {
+          "id": "yamano-arisu-2",
+          "member": "yamano-arisu",
+          "name": "山野愛月 2"
+        },
+        {
+          "id": "yamano-arisu-3",
+          "member": "yamano-arisu",
+          "name": "山野愛月 3"
+        }
+      ]
+    },
+    {
+      "id": "vol4",
+      "name": "Vol.4",
+      "items": [
+        {
+          "id": "aida-jurii-1",
+          "member": "aida-jurii",
+          "name": "逢田珠里依 1"
+        },
+        {
+          "id": "aida-jurii-2",
+          "member": "aida-jurii",
+          "name": "逢田珠里依 2"
+        },
+        {
+          "id": "aida-jurii-3",
+          "member": "aida-jurii",
+          "name": "逢田珠里依 3"
+        },
+        {
+          "id": "amano-konoa-1",
+          "member": "amano-konoa",
+          "name": "天野香乃愛 1"
+        },
+        {
+          "id": "amano-konoa-2",
+          "member": "amano-konoa",
+          "name": "天野香乃愛 2"
+        },
+        {
+          "id": "amano-konoa-3",
+          "member": "amano-konoa",
+          "name": "天野香乃愛 3"
+        },
+        {
+          "id": "ichihara-ayumi-1",
+          "member": "ichihara-ayumi",
+          "name": "市原愛弓 1"
+        },
+        {
+          "id": "ichihara-ayumi-2",
+          "member": "ichihara-ayumi",
+          "name": "市原愛弓 2"
+        },
+        {
+          "id": "ichihara-ayumi-3",
+          "member": "ichihara-ayumi",
+          "name": "市原愛弓 3"
+        },
+        {
+          "id": "esumi-renon-1",
+          "member": "esumi-renon",
+          "name": "江角怜音 1"
+        },
+        {
+          "id": "esumi-renon-2",
+          "member": "esumi-renon",
+          "name": "江角怜音 2"
+        },
+        {
+          "id": "esumi-renon-3",
+          "member": "esumi-renon",
+          "name": "江角怜音 3"
+        },
+        {
+          "id": "oshida-mitsuki-1",
+          "member": "oshida-mitsuki",
+          "name": "大信田美月 1"
+        },
+        {
+          "id": "oshida-mitsuki-2",
+          "member": "oshida-mitsuki",
+          "name": "大信田美月 2"
+        },
+        {
+          "id": "oshida-mitsuki-3",
+          "member": "oshida-mitsuki",
+          "name": "大信田美月 3"
+        },
+        {
+          "id": "onishi-aoi-1",
+          "member": "onishi-aoi",
+          "name": "大西葵 1"
+        },
+        {
+          "id": "onishi-aoi-2",
+          "member": "onishi-aoi",
+          "name": "大西葵 2"
+        },
+        {
+          "id": "onishi-aoi-3",
+          "member": "onishi-aoi",
+          "name": "大西葵 3"
+        },
+        {
+          "id": "ozawa-aimi-1",
+          "member": "ozawa-aimi",
+          "name": "小澤愛実 1"
+        },
+        {
+          "id": "ozawa-aimi-2",
+          "member": "ozawa-aimi",
+          "name": "小澤愛実 2"
+        },
+        {
+          "id": "ozawa-aimi-3",
+          "member": "ozawa-aimi",
+          "name": "小澤愛実 3"
+        },
+        {
+          "id": "takahashi-mai-1",
+          "member": "takahashi-mai",
+          "name": "髙橋舞 1"
+        },
+        {
+          "id": "takahashi-mai-2",
+          "member": "takahashi-mai",
+          "name": "髙橋舞 2"
+        },
+        {
+          "id": "takahashi-mai-3",
+          "member": "takahashi-mai",
+          "name": "髙橋舞 3"
+        },
+        {
+          "id": "fujisawa-riko-1",
+          "member": "fujisawa-riko",
+          "name": "藤沢莉子 1"
+        },
+        {
+          "id": "fujisawa-riko-2",
+          "member": "fujisawa-riko",
+          "name": "藤沢莉子 2"
+        },
+        {
+          "id": "fujisawa-riko-3",
+          "member": "fujisawa-riko",
+          "name": "藤沢莉子 3"
+        },
+        {
+          "id": "murayama-yuuka-1",
+          "member": "murayama-yuuka",
+          "name": "村山結香 1"
+        },
+        {
+          "id": "murayama-yuuka-2",
+          "member": "murayama-yuuka",
+          "name": "村山結香 2"
+        },
+        {
+          "id": "murayama-yuuka-3",
+          "member": "murayama-yuuka",
+          "name": "村山結香 3"
+        },
+        {
+          "id": "yamada-momoka-1",
+          "member": "yamada-momoka",
+          "name": "山田杏佳 1"
+        },
+        {
+          "id": "yamada-momoka-2",
+          "member": "yamada-momoka",
+          "name": "山田杏佳 2"
+        },
+        {
+          "id": "yamada-momoka-3",
+          "member": "yamada-momoka",
+          "name": "山田杏佳 3"
+        },
+        {
+          "id": "yamano-arisu-1",
+          "member": "yamano-arisu",
+          "name": "山野愛月 1"
+        },
+        {
+          "id": "yamano-arisu-2",
+          "member": "yamano-arisu",
+          "name": "山野愛月 2"
+        },
+        {
+          "id": "yamano-arisu-3",
+          "member": "yamano-arisu",
+          "name": "山野愛月 3"
+        }
+      ]
+    },
+    {
+      "id": "vol3",
+      "name": "Vol.3",
+      "items": [
+        {
+          "id": "aida-jurii-1",
+          "member": "aida-jurii",
+          "name": "逢田珠里依 1"
+        },
+        {
+          "id": "aida-jurii-2",
+          "member": "aida-jurii",
+          "name": "逢田珠里依 2"
+        },
+        {
+          "id": "aida-jurii-3",
+          "member": "aida-jurii",
+          "name": "逢田珠里依 3"
+        },
+        {
+          "id": "amano-konoa-1",
+          "member": "amano-konoa",
+          "name": "天野香乃愛 1"
+        },
+        {
+          "id": "amano-konoa-2",
+          "member": "amano-konoa",
+          "name": "天野香乃愛 2"
+        },
+        {
+          "id": "amano-konoa-3",
+          "member": "amano-konoa",
+          "name": "天野香乃愛 3"
+        },
+        {
+          "id": "ichihara-ayumi-1",
+          "member": "ichihara-ayumi",
+          "name": "市原愛弓 1"
+        },
+        {
+          "id": "ichihara-ayumi-2",
+          "member": "ichihara-ayumi",
+          "name": "市原愛弓 2"
+        },
+        {
+          "id": "ichihara-ayumi-3",
+          "member": "ichihara-ayumi",
+          "name": "市原愛弓 3"
+        },
+        {
+          "id": "esumi-renon-1",
+          "member": "esumi-renon",
+          "name": "江角怜音 1"
+        },
+        {
+          "id": "esumi-renon-2",
+          "member": "esumi-renon",
+          "name": "江角怜音 2"
+        },
+        {
+          "id": "esumi-renon-3",
+          "member": "esumi-renon",
+          "name": "江角怜音 3"
+        },
+        {
+          "id": "oshida-mitsuki-1",
+          "member": "oshida-mitsuki",
+          "name": "大信田美月 1"
+        },
+        {
+          "id": "oshida-mitsuki-2",
+          "member": "oshida-mitsuki",
+          "name": "大信田美月 2"
+        },
+        {
+          "id": "oshida-mitsuki-3",
+          "member": "oshida-mitsuki",
+          "name": "大信田美月 3"
+        },
+        {
+          "id": "onishi-aoi-1",
+          "member": "onishi-aoi",
+          "name": "大西葵 1"
+        },
+        {
+          "id": "onishi-aoi-2",
+          "member": "onishi-aoi",
+          "name": "大西葵 2"
+        },
+        {
+          "id": "onishi-aoi-3",
+          "member": "onishi-aoi",
+          "name": "大西葵 3"
+        },
+        {
+          "id": "ozawa-aimi-1",
+          "member": "ozawa-aimi",
+          "name": "小澤愛実 1"
+        },
+        {
+          "id": "ozawa-aimi-2",
+          "member": "ozawa-aimi",
+          "name": "小澤愛実 2"
+        },
+        {
+          "id": "ozawa-aimi-3",
+          "member": "ozawa-aimi",
+          "name": "小澤愛実 3"
+        },
+        {
+          "id": "takahashi-mai-1",
+          "member": "takahashi-mai",
+          "name": "髙橋舞 1"
+        },
+        {
+          "id": "takahashi-mai-2",
+          "member": "takahashi-mai",
+          "name": "髙橋舞 2"
+        },
+        {
+          "id": "takahashi-mai-3",
+          "member": "takahashi-mai",
+          "name": "髙橋舞 3"
+        },
+        {
+          "id": "fujisawa-riko-1",
+          "member": "fujisawa-riko",
+          "name": "藤沢莉子 1"
+        },
+        {
+          "id": "fujisawa-riko-2",
+          "member": "fujisawa-riko",
+          "name": "藤沢莉子 2"
+        },
+        {
+          "id": "fujisawa-riko-3",
+          "member": "fujisawa-riko",
+          "name": "藤沢莉子 3"
+        },
+        {
+          "id": "murayama-yuuka-1",
+          "member": "murayama-yuuka",
+          "name": "村山結香 1"
+        },
+        {
+          "id": "murayama-yuuka-2",
+          "member": "murayama-yuuka",
+          "name": "村山結香 2"
+        },
+        {
+          "id": "murayama-yuuka-3",
+          "member": "murayama-yuuka",
+          "name": "村山結香 3"
+        },
+        {
+          "id": "yamada-momoka-1",
+          "member": "yamada-momoka",
+          "name": "山田杏佳 1"
+        },
+        {
+          "id": "yamada-momoka-2",
+          "member": "yamada-momoka",
+          "name": "山田杏佳 2"
+        },
+        {
+          "id": "yamada-momoka-3",
+          "member": "yamada-momoka",
+          "name": "山田杏佳 3"
+        },
+        {
+          "id": "yamano-arisu-1",
+          "member": "yamano-arisu",
+          "name": "山野愛月 1"
+        },
+        {
+          "id": "yamano-arisu-2",
+          "member": "yamano-arisu",
+          "name": "山野愛月 2"
+        },
+        {
+          "id": "yamano-arisu-3",
+          "member": "yamano-arisu",
+          "name": "山野愛月 3"
+        }
+      ]
+    },
+    {
+      "id": "vol2",
+      "name": "Vol.2",
+      "items": [
+        {
+          "id": "aida-jurii-1",
+          "member": "aida-jurii",
+          "name": "逢田珠里依 1"
+        },
+        {
+          "id": "aida-jurii-2",
+          "member": "aida-jurii",
+          "name": "逢田珠里依 2"
+        },
+        {
+          "id": "aida-jurii-3",
+          "member": "aida-jurii",
+          "name": "逢田珠里依 3"
+        },
+        {
+          "id": "amano-konoa-1",
+          "member": "amano-konoa",
+          "name": "天野香乃愛 1"
+        },
+        {
+          "id": "amano-konoa-2",
+          "member": "amano-konoa",
+          "name": "天野香乃愛 2"
+        },
+        {
+          "id": "amano-konoa-3",
+          "member": "amano-konoa",
+          "name": "天野香乃愛 3"
+        },
+        {
+          "id": "ichihara-ayumi-1",
+          "member": "ichihara-ayumi",
+          "name": "市原愛弓 1"
+        },
+        {
+          "id": "ichihara-ayumi-2",
+          "member": "ichihara-ayumi",
+          "name": "市原愛弓 2"
+        },
+        {
+          "id": "ichihara-ayumi-3",
+          "member": "ichihara-ayumi",
+          "name": "市原愛弓 3"
+        },
+        {
+          "id": "esumi-renon-1",
+          "member": "esumi-renon",
+          "name": "江角怜音 1"
+        },
+        {
+          "id": "esumi-renon-2",
+          "member": "esumi-renon",
+          "name": "江角怜音 2"
+        },
+        {
+          "id": "esumi-renon-3",
+          "member": "esumi-renon",
+          "name": "江角怜音 3"
+        },
+        {
+          "id": "oshida-mitsuki-1",
+          "member": "oshida-mitsuki",
+          "name": "大信田美月 1"
+        },
+        {
+          "id": "oshida-mitsuki-2",
+          "member": "oshida-mitsuki",
+          "name": "大信田美月 2"
+        },
+        {
+          "id": "oshida-mitsuki-3",
+          "member": "oshida-mitsuki",
+          "name": "大信田美月 3"
+        },
+        {
+          "id": "onishi-aoi-1",
+          "member": "onishi-aoi",
+          "name": "大西葵 1"
+        },
+        {
+          "id": "onishi-aoi-2",
+          "member": "onishi-aoi",
+          "name": "大西葵 2"
+        },
+        {
+          "id": "onishi-aoi-3",
+          "member": "onishi-aoi",
+          "name": "大西葵 3"
+        },
+        {
+          "id": "ozawa-aimi-1",
+          "member": "ozawa-aimi",
+          "name": "小澤愛実 1"
+        },
+        {
+          "id": "ozawa-aimi-2",
+          "member": "ozawa-aimi",
+          "name": "小澤愛実 2"
+        },
+        {
+          "id": "ozawa-aimi-3",
+          "member": "ozawa-aimi",
+          "name": "小澤愛実 3"
+        },
+        {
+          "id": "takahashi-mai-1",
+          "member": "takahashi-mai",
+          "name": "髙橋舞 1"
+        },
+        {
+          "id": "takahashi-mai-2",
+          "member": "takahashi-mai",
+          "name": "髙橋舞 2"
+        },
+        {
+          "id": "takahashi-mai-3",
+          "member": "takahashi-mai",
+          "name": "髙橋舞 3"
+        },
+        {
+          "id": "fujisawa-riko-1",
+          "member": "fujisawa-riko",
+          "name": "藤沢莉子 1"
+        },
+        {
+          "id": "fujisawa-riko-2",
+          "member": "fujisawa-riko",
+          "name": "藤沢莉子 2"
+        },
+        {
+          "id": "fujisawa-riko-3",
+          "member": "fujisawa-riko",
+          "name": "藤沢莉子 3"
+        },
+        {
+          "id": "murayama-yuuka-1",
+          "member": "murayama-yuuka",
+          "name": "村山結香 1"
+        },
+        {
+          "id": "murayama-yuuka-2",
+          "member": "murayama-yuuka",
+          "name": "村山結香 2"
+        },
+        {
+          "id": "murayama-yuuka-3",
+          "member": "murayama-yuuka",
+          "name": "村山結香 3"
+        },
+        {
+          "id": "yamada-momoka-1",
+          "member": "yamada-momoka",
+          "name": "山田杏佳 1"
+        },
+        {
+          "id": "yamada-momoka-2",
+          "member": "yamada-momoka",
+          "name": "山田杏佳 2"
+        },
+        {
+          "id": "yamada-momoka-3",
+          "member": "yamada-momoka",
+          "name": "山田杏佳 3"
+        },
+        {
+          "id": "yamano-arisu-1",
+          "member": "yamano-arisu",
+          "name": "山野愛月 1"
+        },
+        {
+          "id": "yamano-arisu-2",
+          "member": "yamano-arisu",
+          "name": "山野愛月 2"
+        },
+        {
+          "id": "yamano-arisu-3",
+          "member": "yamano-arisu",
+          "name": "山野愛月 3"
+        }
+      ]
+    },
+    {
+      "id": "vol1",
+      "name": "Vol.1",
+      "items": [
+        {
+          "id": "aida-jurii-1",
+          "member": "aida-jurii",
+          "name": "逢田珠里依 1"
+        },
+        {
+          "id": "aida-jurii-2",
+          "member": "aida-jurii",
+          "name": "逢田珠里依 2"
+        },
+        {
+          "id": "aida-jurii-3",
+          "member": "aida-jurii",
+          "name": "逢田珠里依 3"
+        },
+        {
+          "id": "amano-konoa-1",
+          "member": "amano-konoa",
+          "name": "天野香乃愛 1"
+        },
+        {
+          "id": "amano-konoa-2",
+          "member": "amano-konoa",
+          "name": "天野香乃愛 2"
+        },
+        {
+          "id": "amano-konoa-3",
+          "member": "amano-konoa",
+          "name": "天野香乃愛 3"
+        },
+        {
+          "id": "ichihara-ayumi-1",
+          "member": "ichihara-ayumi",
+          "name": "市原愛弓 1"
+        },
+        {
+          "id": "ichihara-ayumi-2",
+          "member": "ichihara-ayumi",
+          "name": "市原愛弓 2"
+        },
+        {
+          "id": "ichihara-ayumi-3",
+          "member": "ichihara-ayumi",
+          "name": "市原愛弓 3"
+        },
+        {
+          "id": "esumi-renon-1",
+          "member": "esumi-renon",
+          "name": "江角怜音 1"
+        },
+        {
+          "id": "esumi-renon-2",
+          "member": "esumi-renon",
+          "name": "江角怜音 2"
+        },
+        {
+          "id": "esumi-renon-3",
+          "member": "esumi-renon",
+          "name": "江角怜音 3"
+        },
+        {
+          "id": "oshida-mitsuki-1",
+          "member": "oshida-mitsuki",
+          "name": "大信田美月 1"
+        },
+        {
+          "id": "oshida-mitsuki-2",
+          "member": "oshida-mitsuki",
+          "name": "大信田美月 2"
+        },
+        {
+          "id": "oshida-mitsuki-3",
+          "member": "oshida-mitsuki",
+          "name": "大信田美月 3"
+        },
+        {
+          "id": "onishi-aoi-1",
+          "member": "onishi-aoi",
+          "name": "大西葵 1"
+        },
+        {
+          "id": "onishi-aoi-2",
+          "member": "onishi-aoi",
+          "name": "大西葵 2"
+        },
+        {
+          "id": "onishi-aoi-3",
+          "member": "onishi-aoi",
+          "name": "大西葵 3"
+        },
+        {
+          "id": "ozawa-aimi-1",
+          "member": "ozawa-aimi",
+          "name": "小澤愛実 1"
+        },
+        {
+          "id": "ozawa-aimi-2",
+          "member": "ozawa-aimi",
+          "name": "小澤愛実 2"
+        },
+        {
+          "id": "ozawa-aimi-3",
+          "member": "ozawa-aimi",
+          "name": "小澤愛実 3"
+        },
+        {
+          "id": "takahashi-mai-1",
+          "member": "takahashi-mai",
+          "name": "髙橋舞 1"
+        },
+        {
+          "id": "takahashi-mai-2",
+          "member": "takahashi-mai",
+          "name": "髙橋舞 2"
+        },
+        {
+          "id": "takahashi-mai-3",
+          "member": "takahashi-mai",
+          "name": "髙橋舞 3"
+        },
+        {
+          "id": "fujisawa-riko-1",
+          "member": "fujisawa-riko",
+          "name": "藤沢莉子 1"
+        },
+        {
+          "id": "fujisawa-riko-2",
+          "member": "fujisawa-riko",
+          "name": "藤沢莉子 2"
+        },
+        {
+          "id": "fujisawa-riko-3",
+          "member": "fujisawa-riko",
+          "name": "藤沢莉子 3"
+        },
+        {
+          "id": "murayama-yuuka-1",
+          "member": "murayama-yuuka",
+          "name": "村山結香 1"
+        },
+        {
+          "id": "murayama-yuuka-2",
+          "member": "murayama-yuuka",
+          "name": "村山結香 2"
+        },
+        {
+          "id": "murayama-yuuka-3",
+          "member": "murayama-yuuka",
+          "name": "村山結香 3"
+        },
+        {
+          "id": "yamada-momoka-1",
+          "member": "yamada-momoka",
+          "name": "山田杏佳 1"
+        },
+        {
+          "id": "yamada-momoka-2",
+          "member": "yamada-momoka",
+          "name": "山田杏佳 2"
+        },
+        {
+          "id": "yamada-momoka-3",
+          "member": "yamada-momoka",
+          "name": "山田杏佳 3"
+        },
+        {
+          "id": "yamano-arisu-1",
+          "member": "yamano-arisu",
+          "name": "山野愛月 1"
+        },
+        {
+          "id": "yamano-arisu-2",
+          "member": "yamano-arisu",
+          "name": "山野愛月 2"
+        },
+        {
+          "id": "yamano-arisu-3",
+          "member": "yamano-arisu",
+          "name": "山野愛月 3"
+        }
+      ]
+    }
+  ]
+}
