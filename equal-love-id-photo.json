@@ -1,7 +1,7 @@
 {
   "magic": "my-ideals-template",
   "version": 1,
-  "revision": 1,
+  "revision": 2,
   "id": "equal-love-id-photo",
   "name": "＝LOVE ID PHOTO",
   "description": "＝LOVE（イコールラブ/イコラブ） ID PHOTO ステッカーセット",
@@ -13,7 +13,7 @@
     "format": "webp"
   },
   "layout": {
-    "aspectRatio": [7, 9]
+    "aspectRatio": [3, 4]
   },
   "members": [
     { "id": "otani-emiri", "name": "大谷映美里" },
@@ -499,6 +499,9 @@
     {
       "id": "vol3",
       "name": "Vol.3",
+      "layout": {
+        "aspectRatio": [27, 35]
+      },
       "items": [
         {
           "id": "otani-emiri-1",
@@ -655,6 +658,9 @@
     {
       "id": "vol2",
       "name": "Vol.2",
+      "layout": {
+        "aspectRatio": [27, 35]
+      },
       "items": [
         {
           "id": "otani-emiri-1",
@@ -811,6 +817,9 @@
     {
       "id": "vol1",
       "name": "Vol.1",
+      "layout": {
+        "aspectRatio": [27, 35]
+      },
       "items": [
         {
           "id": "otani-emiri-1",
