@@ -77,8 +77,8 @@
 | 天野香乃愛 | [nearly-equal-joy-amano-konoa.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/nearly-equal-joy-amano-konoa.json) |
 | 市原愛弓 | [nearly-equal-joy-ichihara-ayumi.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/nearly-equal-joy-ichihara-ayumi.json) |
 | 江角怜音 | [nearly-equal-joy-esumi-renon.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/nearly-equal-joy-esumi-renon.json) |
-| 大信田美月 | [nearly-equal-joy-ooshida-mitsuki.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/nearly-equal-joy-ooshida-mitsuki.json) |
-| 大西葵 | [nearly-equal-joy-oonishi-aoi.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/nearly-equal-joy-oonishi-aoi.json) |
+| 大信田美月 | [nearly-equal-joy-oshida-mitsuki.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/nearly-equal-joy-oshida-mitsuki.json) |
+| 大西葵 | [nearly-equal-joy-onishi-aoi.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/nearly-equal-joy-onishi-aoi.json) |
 | 小澤愛実 | [nearly-equal-joy-ozawa-aimi.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/nearly-equal-joy-ozawa-aimi.json) |
 | 髙橋舞 | [nearly-equal-joy-takahashi-mai.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/nearly-equal-joy-takahashi-mai.json) |
 | 藤沢莉子 | [nearly-equal-joy-fujisawa-riko.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/nearly-equal-joy-fujisawa-riko.json) |
