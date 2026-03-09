@@ -72,6 +72,11 @@ jobs:
             fi
           done
 
+      - name: Create Symlink as renaming workaround
+        run: |
+          ln -s /tmp/templates/nearly-equal-joy-oshida-mitsuki.json /tmp/templates/nearly-equal-joy-ooshida-mitsuki.json
+          ln -s /tmp/templates/nearly-equal-joy-onishi-aoi.json /tmp/templates/nearly-equal-joy-oonishi-aoi.json
+
       - name: Upload template files to R2
         env:
           RCLONE_CONFIG_R2_TYPE: s3
@@ -81,7 +86,7 @@ jobs:
           RCLONE_CONFIG_R2_ENDPOINT: https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com
         run: |
           rclone sync /tmp/templates r2:${{ secrets.R2_BUCKET_NAME }}/templates \
-            --include "*.json" \
+            --include "*.json" --copy-links \
             --header-upload "Content-Type: application/json; charset=utf-8" \
             --header-upload "Cache-Control: public, max-age=600" \
             --checksum \
