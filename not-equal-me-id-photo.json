@@ -1,7 +1,7 @@
 {
   "magic": "my-ideals-template",
   "version": 1,
-  "revision": 2,
+  "revision": 3,
   "id": "not-equal-me-id-photo",
   "name": "≠ME ID PHOTO",
   "description": "≠ME（ノットイコールミー/ノイミー）ID PHOTO ステッカーセット",
@@ -13,7 +13,7 @@
     "format": "webp"
   },
   "layout": {
-    "aspectRatio": [7, 9]
+    "aspectRatio": [3, 4]
   },
   "members": [
     { "id": "ogi-hana", "name": "尾木波菜" },
