@@ -72,6 +72,16 @@ jobs:
             fi
           done
 
+      - name: Minify json
+        run: |
+          set -e
+          while IFS= read -r -d '' file; do
+            echo "Minifying $file"
+            tmp_file="$(mktemp)"
+            jq -c . "$file" > "$tmp_file"
+            mv "$tmp_file" "$file"
+          done < <(find /tmp/templates -type f -name "*.json" -print0)
+
       - name: Upload template files to R2
         env:
           RCLONE_CONFIG_R2_TYPE: s3
