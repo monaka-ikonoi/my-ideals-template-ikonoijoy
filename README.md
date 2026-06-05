@@ -32,6 +32,8 @@
 
 </details>
 
+**ミニフォトカード**: [equal-love-mini-photo.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/equal-love-mini-photo.json)
+
 **ID PHOTO ステッカーセット**: [equal-love-id-photo.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/equal-love-id-photo.json)
 
 
@@ -88,6 +90,10 @@
 | 福山萌叶(卒業) | [nearly-equal-joy-fukuyama-moeka.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/nearly-equal-joy-fukuyama-moeka.json) |
 
 </details>
+
+**ミニフォトカード**: [nearly-equal-joy-mini-photo.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/nearly-equal-joy-mini-photo.json)
+
+**ID PHOTO ステッカーセット**: [nearly-equal-joy-id-photo.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/nearly-equal-joy-id-photo.json)
 
 ## 使い方
 
