@@ -1,7 +1,7 @@
 {
   "magic": "my-ideals-template",
   "version": 1,
-  "revision": 14,
+  "revision": 15,
   "id": "not-equal-me",
   "name": "≠ME 生写真",
   "description": "≠ME（ノットイコールミー/ノイミー）生写真",
@@ -27,6 +27,191 @@
     { "id": "honda-miyuki", "name": "本田珠由記" }
   ],
   "collections": [
+    {
+      "id": "2026-mirei-2s",
+      "name": "菅波美玲卒業記念2ショット",
+      "layout": {
+        "columns": [4]
+      },
+      "items": [
+        {
+          "id": "ogi-hana-hiki",
+          "member": ["ogi-hana", "suganami-mirei"],
+          "name": "尾木波菜 ヒキ"
+        },
+        {
+          "id": "ogi-hana-chuu",
+          "member": ["ogi-hana", "suganami-mirei"],
+          "name": "尾木波菜 チュウ"
+        },
+        {
+          "id": "ogi-hana-yori",
+          "member": ["ogi-hana", "suganami-mirei"],
+          "name": "尾木波菜 ヨリ",
+          "rotated": true
+        },
+        {
+          "id": "ochiai-kirari-hiki",
+          "member": ["ochiai-kirari", "suganami-mirei"],
+          "name": "落合希来里 ヒキ"
+        },
+        {
+          "id": "ochiai-kirari-chuu",
+          "member": ["ochiai-kirari", "suganami-mirei"],
+          "name": "落合希来里 チュウ"
+        },
+        {
+          "id": "ochiai-kirari-yori",
+          "member": ["ochiai-kirari", "suganami-mirei"],
+          "name": "落合希来里 ヨリ",
+          "rotated": true
+        },
+        {
+          "id": "kanisawa-moeko-hiki",
+          "member": ["kanisawa-moeko", "suganami-mirei"],
+          "name": "蟹沢萌子 ヒキ"
+        },
+        {
+          "id": "kanisawa-moeko-chuu",
+          "member": ["kanisawa-moeko", "suganami-mirei"],
+          "name": "蟹沢萌子 チュウ"
+        },
+        {
+          "id": "kanisawa-moeko-yori",
+          "member": ["kanisawa-moeko", "suganami-mirei"],
+          "name": "蟹沢萌子 ヨリ",
+          "rotated": true
+        },
+        {
+          "id": "kawaguchi-natsune-hiki",
+          "member": ["kawaguchi-natsune", "suganami-mirei"],
+          "name": "河口夏音 ヒキ"
+        },
+        {
+          "id": "kawaguchi-natsune-chuu",
+          "member": ["kawaguchi-natsune", "suganami-mirei"],
+          "name": "河口夏音 チュウ"
+        },
+        {
+          "id": "kawaguchi-natsune-yori",
+          "member": ["kawaguchi-natsune", "suganami-mirei"],
+          "name": "河口夏音 ヨリ",
+          "rotated": true
+        },
+        {
+          "id": "kawanago-natsumi-hiki",
+          "member": ["kawanago-natsumi", "suganami-mirei"],
+          "name": "川中子奈月心 ヒキ"
+        },
+        {
+          "id": "kawanago-natsumi-chuu",
+          "member": ["kawanago-natsumi", "suganami-mirei"],
+          "name": "川中子奈月心 チュウ"
+        },
+        {
+          "id": "kawanago-natsumi-yori",
+          "member": ["kawanago-natsumi", "suganami-mirei"],
+          "name": "川中子奈月心 ヨリ",
+          "rotated": true
+        },
+        {
+          "id": "sakurai-momo-hiki",
+          "member": ["sakurai-momo", "suganami-mirei"],
+          "name": "櫻井もも ヒキ"
+        },
+        {
+          "id": "sakurai-momo-chuu",
+          "member": ["sakurai-momo", "suganami-mirei"],
+          "name": "櫻井もも チュウ"
+        },
+        {
+          "id": "sakurai-momo-yori",
+          "member": ["sakurai-momo", "suganami-mirei"],
+          "name": "櫻井もも ヨリ",
+          "rotated": true
+        },
+        {
+          "id": "suzuki-hitomi-hiki",
+          "member": ["suzuki-hitomi", "suganami-mirei"],
+          "name": "鈴木瞳美 ヒキ"
+        },
+        {
+          "id": "suzuki-hitomi-chuu",
+          "member": ["suzuki-hitomi", "suganami-mirei"],
+          "name": "鈴木瞳美 チュウ"
+        },
+        {
+          "id": "suzuki-hitomi-yori",
+          "member": ["suzuki-hitomi", "suganami-mirei"],
+          "name": "鈴木瞳美 ヨリ",
+          "rotated": true
+        },
+        {
+          "id": "tanizaki-saya-hiki",
+          "member": ["tanizaki-saya", "suganami-mirei"],
+          "name": "谷崎早耶 ヒキ"
+        },
+        {
+          "id": "tanizaki-saya-chuu",
+          "member": ["tanizaki-saya", "suganami-mirei"],
+          "name": "谷崎早耶 チュウ"
+        },
+        {
+          "id": "tanizaki-saya-yori",
+          "member": ["tanizaki-saya", "suganami-mirei"],
+          "name": "谷崎早耶 ヨリ",
+          "rotated": true
+        },
+        {
+          "id": "tomita-nanaka-hiki",
+          "member": ["tomita-nanaka", "suganami-mirei"],
+          "name": "冨田菜々風 ヒキ"
+        },
+        {
+          "id": "tomita-nanaka-chuu",
+          "member": ["tomita-nanaka", "suganami-mirei"],
+          "name": "冨田菜々風 チュウ"
+        },
+        {
+          "id": "tomita-nanaka-yori",
+          "member": ["tomita-nanaka", "suganami-mirei"],
+          "name": "冨田菜々風 ヨリ",
+          "rotated": true
+        },
+        {
+          "id": "nagata-shiori-hiki",
+          "member": ["nagata-shiori", "suganami-mirei"],
+          "name": "永田詩央里 ヒキ"
+        },
+        {
+          "id": "nagata-shiori-chuu",
+          "member": ["nagata-shiori", "suganami-mirei"],
+          "name": "永田詩央里 チュウ"
+        },
+        {
+          "id": "nagata-shiori-yori",
+          "member": ["nagata-shiori", "suganami-mirei"],
+          "name": "永田詩央里 ヨリ",
+          "rotated": true
+        },
+        {
+          "id": "honda-miyuki-hiki",
+          "member": ["honda-miyuki", "suganami-mirei"],
+          "name": "本田珠由記 ヒキ"
+        },
+        {
+          "id": "honda-miyuki-chuu",
+          "member": ["honda-miyuki", "suganami-mirei"],
+          "name": "本田珠由記 チュウ"
+        },
+        {
+          "id": "honda-miyuki-yori",
+          "member": ["honda-miyuki", "suganami-mirei"],
+          "name": "本田珠由記 ヨリ",
+          "rotated": true
+        }
+      ]
+    },
     {
       "id": "2026-may",
       "name": "May 2026 11thcw「きゅんかわ人生」アザーカット",
