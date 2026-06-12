@@ -22,12 +22,12 @@
     { "id": "kawaguchi-natsune", "name": "河口夏音" },
     { "id": "kawanago-natsumi", "name": "川中子奈月心" },
     { "id": "sakurai-momo", "name": "櫻井もも" },
-    { "id": "suganami-mirei", "name": "菅波美玲" },
     { "id": "suzuki-hitomi", "name": "鈴木瞳美" },
     { "id": "tanizaki-saya", "name": "谷崎早耶" },
     { "id": "tomita-nanaka", "name": "冨田菜々風" },
     { "id": "nagata-shiori", "name": "永田詩央里" },
-    { "id": "honda-miyuki", "name": "本田珠由記" }
+    { "id": "honda-miyuki", "name": "本田珠由記" },
+    { "id": "suganami-mirei", "name": "菅波美玲(卒業)" }
   ],
   "collections": [
     {

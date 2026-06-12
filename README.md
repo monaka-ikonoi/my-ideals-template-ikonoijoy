@@ -52,12 +52,12 @@
 | 河口夏音 | [not-equal-me-kawaguchi-natsune.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/not-equal-me-kawaguchi-natsune.json) |
 | 川中子奈月心 | [not-equal-me-kawanago-natsumi.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/not-equal-me-kawanago-natsumi.json) |
 | 櫻井もも | [not-equal-me-sakurai-momo.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/not-equal-me-sakurai-momo.json) |
-| 菅波美玲 | [not-equal-me-suganami-mirei.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/not-equal-me-suganami-mirei.json) |
 | 鈴木瞳美 | [not-equal-me-suzuki-hitomi.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/not-equal-me-suzuki-hitomi.json) |
 | 谷崎早耶 | [not-equal-me-tanizaki-saya.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/not-equal-me-tanizaki-saya.json) |
 | 冨田菜々風 | [not-equal-me-tomita-nanaka.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/not-equal-me-tomita-nanaka.json) |
 | 永田詩央里 | [not-equal-me-nagata-shiori.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/not-equal-me-nagata-shiori.json) |
 | 本田珠由記 | [not-equal-me-honda-miyuki.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/not-equal-me-honda-miyuki.json) |
+| 菅波美玲(卒業) | [not-equal-me-suganami-mirei.json](https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/not-equal-me-suganami-mirei.json) |
 
 </details>
 
