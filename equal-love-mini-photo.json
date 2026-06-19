@@ -358,6 +358,9 @@
     {
       "id": "2025-cinnamonroll",
       "name": "シナモロール×=LOVE",
+      "layout": {
+        "columns": [3, 5, 10]
+      },
       "items": [
         {
           "id": "otani-emiri",
