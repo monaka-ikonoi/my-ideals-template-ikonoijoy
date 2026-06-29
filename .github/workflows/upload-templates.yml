@@ -81,6 +81,14 @@ jobs:
             jq -c . "$file" > "$tmp_file"
             mv "$tmp_file" "$file"
           done < <(find /tmp/templates -type f -name "*.json" -print0)
+      
+      - name: Process manifest file
+        env:
+          TEMPLATE_BASE_URL: https://my-ideals-ikonoijoy-prod.chocomonaka.dev/templates/
+        run: |
+          jq -c --arg base "$TEMPLATE_BASE_URL" '
+            walk(if type == "string" then gsub("https?://[^/]+:[0-9]+/"; $base) else . end)
+          ' manifest.json > /tmp/manifest.json
 
       - name: Upload template files to R2
         env:
@@ -92,6 +100,11 @@ jobs:
         run: |
           rclone sync /tmp/templates r2:${{ secrets.R2_BUCKET_NAME }}/templates \
             --include "*.json" \
+            --header-upload "Content-Type: application/json; charset=utf-8" \
+            --header-upload "Cache-Control: public, max-age=600" \
+            --checksum \
+            --verbose
+          rclone copyto /tmp/manifest.json r2:${{ secrets.R2_BUCKET_NAME }}/manifest.json \
             --header-upload "Content-Type: application/json; charset=utf-8" \
             --header-upload "Cache-Control: public, max-age=600" \
             --checksum \
