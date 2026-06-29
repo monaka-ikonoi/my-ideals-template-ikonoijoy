@@ -1,0 +1,218 @@
+{
+  "magic": "my-ideals-template-manifest",
+  "version": 1,
+  "templates": [
+    {
+      "name": "※ メンバー別は後ろにある",
+      "link": null
+    },
+    {
+      "name": "＝LOVE生写真",
+      "link": "http://localhost:3000/equal-love.json"
+    },
+    {
+      "name": "≠ME生写真",
+      "link": "http://localhost:3000/not-equal-me.json"
+    },
+    {
+      "name": "≒JOY生写真",
+      "link": "http://localhost:3000/nearly-equal-joy.json"
+    },
+    {
+      "name": "＝LOVEミニフォトカード",
+      "link": "http://localhost:3000/equal-love-mini-photo.json"
+    },
+    {
+      "name": "≠MEミニフォトカード",
+      "link": "http://localhost:3000/not-equal-me-mini-photo.json"
+    },
+    {
+      "name": "≒JOYミニフォトカード",
+      "link": "http://localhost:3000/nearly-equal-joy-mini-photo.json"
+    },
+    {
+      "name": "＝LOVE ID PHOTO ステッカーセット",
+      "link": "http://localhost:3000/equal-love-id-photo.json"
+    },
+    {
+      "name": "≠ME ID PHOTO ステッカーセット",
+      "link": "http://localhost:3000/not-equal-me-id-photo.json"
+    },
+    {
+      "name": "≒JOY ID PHOTO ステッカーセット",
+      "link": "http://localhost:3000/nearly-equal-joy-id-photo.json"
+    },
+    {
+      "name": "＝LOVEミニフォトカード (ノーマルカードのみ)",
+      "link": "http://localhost:3000/equal-love-mini-photo-normal.json"
+    },
+    {
+      "name": "≠MEミニフォトカード (ノーマルカードのみ)",
+      "link": "http://localhost:3000/not-equal-me-mini-photo-normal.json"
+    },
+    {
+      "name": "≒JOYミニフォトカード (ノーマルカードのみ)",
+      "link": "http://localhost:3000/nearly-equal-joy-mini-photo-normal.json"
+    },
+    {
+      "name": "＝LOVE 生写真 - メンバー別",
+      "link": null
+    },
+    {
+      "name": "    大谷映美里",
+      "link": "http://localhost:3000/equal-love-otani-emiri.json"
+    },
+    {
+      "name": "    大場花菜",
+      "link": "http://localhost:3000/equal-love-oba-hana.json"
+    },
+    {
+      "name": "    音嶋莉沙",
+      "link": "http://localhost:3000/equal-love-otoshima-risa.json"
+    },
+    {
+      "name": "    齋藤樹愛羅",
+      "link": "http://localhost:3000/equal-love-saito-kiara.json"
+    },
+    {
+      "name": "    佐々木舞香",
+      "link": "http://localhost:3000/equal-love-sasaki-maika.json"
+    },
+    {
+      "name": "    髙松瞳",
+      "link": "http://localhost:3000/equal-love-takamatsu-hitomi.json"
+    },
+    {
+      "name": "    瀧脇笙古",
+      "link": "http://localhost:3000/equal-love-takiwaki-shoko.json"
+    },
+    {
+      "name": "    野口衣織",
+      "link": "http://localhost:3000/equal-love-noguchi-iori.json"
+    },
+    {
+      "name": "    諸橋沙夏",
+      "link": "http://localhost:3000/equal-love-morohashi-sana.json"
+    },
+    {
+      "name": "    山本杏奈",
+      "link": "http://localhost:3000/equal-love-yamamoto-anna.json"
+    },
+    {
+      "name": "    齊藤なぎさ(卒業)",
+      "link": "http://localhost:3000/equal-love-saito-nagisa.json"
+    },
+    {
+      "name": "    佐竹のん乃(卒業)",
+      "link": "http://localhost:3000/equal-love-satake-nonno.json"
+    },
+    {
+      "name": "≠ME生写真 - メンバー別",
+      "link": null
+    },
+    {
+      "name": "    尾木波菜",
+      "link": "http://localhost:3000/not-equal-me-ogi-hana.json"
+    },
+    {
+      "name": "    落合希来里",
+      "link": "http://localhost:3000/not-equal-me-ochiai-kirari.json"
+    },
+    {
+      "name": "    蟹沢萌子",
+      "link": "http://localhost:3000/not-equal-me-kanisawa-moeko.json"
+    },
+    {
+      "name": "    河口夏音",
+      "link": "http://localhost:3000/not-equal-me-kawaguchi-natsune.json"
+    },
+    {
+      "name": "    川中子奈月心",
+      "link": "http://localhost:3000/not-equal-me-kawanago-natsumi.json"
+    },
+    {
+      "name": "    櫻井もも",
+      "link": "http://localhost:3000/not-equal-me-sakurai-momo.json"
+    },
+    {
+      "name": "    鈴木瞳美",
+      "link": "http://localhost:3000/not-equal-me-suzuki-hitomi.json"
+    },
+    {
+      "name": "    谷崎早耶",
+      "link": "http://localhost:3000/not-equal-me-tanizaki-saya.json"
+    },
+    {
+      "name": "    冨田菜々風",
+      "link": "http://localhost:3000/not-equal-me-tomita-nanaka.json"
+    },
+    {
+      "name": "    永田詩央里",
+      "link": "http://localhost:3000/not-equal-me-nagata-shiori.json"
+    },
+    {
+      "name": "    本田珠由記",
+      "link": "http://localhost:3000/not-equal-me-honda-miyuki.json"
+    },
+    {
+      "name": "    菅波美玲(卒業)",
+      "link": "http://localhost:3000/not-equal-me-suganami-mirei.json"
+    },
+    {
+      "name": "≒JOY生写真 - メンバー別",
+      "link": null
+    },
+    {
+      "name": "    逢田珠里依",
+      "link": "http://localhost:3000/nearly-equal-joy-aida-jurii.json"
+    },
+    {
+      "name": "    天野香乃愛",
+      "link": "http://localhost:3000/nearly-equal-joy-amano-konoa.json"
+    },
+    {
+      "name": "    市原愛弓",
+      "link": "http://localhost:3000/nearly-equal-joy-ichihara-ayumi.json"
+    },
+    {
+      "name": "    江角怜音",
+      "link": "http://localhost:3000/nearly-equal-joy-esumi-renon.json"
+    },
+    {
+      "name": "    大信田美月",
+      "link": "http://localhost:3000/nearly-equal-joy-oshida-mitsuki.json"
+    },
+    {
+      "name": "    大西葵",
+      "link": "http://localhost:3000/nearly-equal-joy-onishi-aoi.json"
+    },
+    {
+      "name": "    小澤愛実",
+      "link": "http://localhost:3000/nearly-equal-joy-ozawa-aimi.json"
+    },
+    {
+      "name": "    髙橋舞",
+      "link": "http://localhost:3000/nearly-equal-joy-takahashi-mai.json"
+    },
+    {
+      "name": "    藤沢莉子",
+      "link": "http://localhost:3000/nearly-equal-joy-fujisawa-riko.json"
+    },
+    {
+      "name": "    村山結香",
+      "link": "http://localhost:3000/nearly-equal-joy-murayama-yuuka.json"
+    },
+    {
+      "name": "    山田杏佳",
+      "link": "http://localhost:3000/nearly-equal-joy-yamada-momoka.json"
+    },
+    {
+      "name": "    山野愛月",
+      "link": "http://localhost:3000/nearly-equal-joy-yamano-arisu.json"
+    },
+    {
+      "name": "    福山萌叶(卒業)",
+      "link": "http://localhost:3000/nearly-equal-joy-fukuyama-moeka.json"
+    }
+  ]
+}
