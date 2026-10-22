@@ -1,0 +1,51 @@
+name: Publish images and templates to R2
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: publish-r2
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          # A queued run or a retry must publish current main, not an older event's SHA.
+          ref: main
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: "24"
+
+      - name: Prepare images and templates
+        run: |
+          node scripts/prepare-publish.mjs \
+            --output-dir "$RUNNER_TEMP/ikonoijoy-publish"
+
+      - name: Setup Rclone
+        shell: bash
+        run: |
+          sudo -v
+          curl -fsSL https://rclone.org/install.sh | sudo bash
+          rclone version
+
+      - name: Publish
+        env:
+          R2_BUCKET_NAME: ${{ secrets.R2_BUCKET_NAME }}
+          RCLONE_CONFIG_R2_TYPE: s3
+          RCLONE_CONFIG_R2_PROVIDER: Cloudflare
+          RCLONE_CONFIG_R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          RCLONE_CONFIG_R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          RCLONE_CONFIG_R2_ENDPOINT: https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com
+        run: |
+          bash scripts/publish-to-r2.sh "$RUNNER_TEMP/ikonoijoy-publish"
